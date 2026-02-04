@@ -16,6 +16,7 @@
   const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
 
   const state = {
+  quizTimerId: null,
     level: localStorage.getItem("p1p3_level") || "p3",
     subject: localStorage.getItem("p1p3_subject") || "math",
     mode: "read",
@@ -352,6 +353,8 @@
   }
 
   function setMode(mode, opts = {}) {
+  // stop any running quiz timer
+  if (state.quizTimerId) { clearInterval(state.quizTimerId); state.quizTimerId = null; }
     state.mode = mode;
     // tab UI
     $$("#modeTabs .nav-link").forEach(b => b.classList.toggle("active", b.getAttribute("data-mode") === mode));
@@ -549,14 +552,14 @@
       list.appendChild(wrap);
     });
 
-    const t = setInterval(() => {
+    state.quizTimerId = setInterval(() => {
       remaining--;
       $("#timer").textContent = formatTime(remaining);
-      if (remaining <= 0) { clearInterval(t); $("#submitQuiz").click(); }
+      if (remaining <= 0) { clearInterval(state.quizTimerId); state.quizTimerId = null; $("#submitQuiz").click(); }
     }, 1000);
 
     $("#submitQuiz").onclick = () => {
-      clearInterval(t);
+      clearInterval(state.quizTimerId); state.quizTimerId = null;
       let correct = 0;
       const details = [];
       questions.forEach((q, i) => {
@@ -681,7 +684,8 @@
     };
   }
 
-  async function loadSubject() {
+  async function loadSubject($1) {
+  if (state.quizTimerId) { clearInterval(state.quizTimerId); state.quizTimerId = null; }
     savePrefs();
     const s = subjectMeta();
     $("#pageTitle").textContent = `${s.en.toUpperCase()}`;
