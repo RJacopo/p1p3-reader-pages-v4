@@ -3,1440 +3,4999 @@
     "id": "p1_ss_001",
     "lemma": "community",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of community.",
+    "examples": [
+      {
+        "en": "I can use 'community' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'community' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_002",
     "lemma": "rule",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of rule.",
+    "examples": [
+      {
+        "en": "I can use 'rule' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'rule' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_003",
     "lemma": "responsibility",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of responsibility.",
+    "examples": [
+      {
+        "en": "I can use 'responsibility' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'responsibility' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_004",
     "lemma": "respect",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of respect.",
+    "examples": [
+      {
+        "en": "I can use 'respect' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'respect' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_005",
     "lemma": "fair",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of fair.",
+    "examples": [
+      {
+        "en": "I can use 'fair' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'fair' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_006",
     "lemma": "vote",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of vote.",
+    "examples": [
+      {
+        "en": "I can use 'vote' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'vote' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_007",
     "lemma": "leader",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of leader.",
+    "examples": [
+      {
+        "en": "I can use 'leader' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'leader' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_008",
     "lemma": "map",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of map.",
+    "examples": [
+      {
+        "en": "I can use 'map' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'map' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_009",
     "lemma": "direction",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of direction.",
+    "examples": [
+      {
+        "en": "I can use 'direction' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'direction' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_010",
     "lemma": "north",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of north.",
+    "examples": [
+      {
+        "en": "I can use 'north' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'north' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_011",
     "lemma": "south",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of south.",
+    "examples": [
+      {
+        "en": "I can use 'south' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'south' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_012",
     "lemma": "east",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of east.",
+    "examples": [
+      {
+        "en": "I can use 'east' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'east' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_013",
     "lemma": "west",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of west.",
+    "examples": [
+      {
+        "en": "I can use 'west' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'west' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_014",
     "lemma": "location",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of location.",
+    "examples": [
+      {
+        "en": "I can use 'location' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'location' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_015",
     "lemma": "country",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of country.",
+    "examples": [
+      {
+        "en": "I can use 'country' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'country' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_016",
     "lemma": "city",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of city.",
+    "examples": [
+      {
+        "en": "I can use 'city' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'city' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_017",
     "lemma": "island",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of island.",
+    "examples": [
+      {
+        "en": "I can use 'island' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'island' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_018",
     "lemma": "river",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of river.",
+    "examples": [
+      {
+        "en": "I can use 'river' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'river' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_019",
     "lemma": "mountain",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of mountain.",
+    "examples": [
+      {
+        "en": "I can use 'mountain' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'mountain' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_020",
     "lemma": "weather",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of weather.",
+    "examples": [
+      {
+        "en": "I can use 'weather' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'weather' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_021",
     "lemma": "culture",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of culture.",
+    "examples": [
+      {
+        "en": "I can use 'culture' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'culture' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_022",
     "lemma": "festival",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of festival.",
+    "examples": [
+      {
+        "en": "I can use 'festival' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'festival' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_023",
     "lemma": "history",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of history.",
+    "examples": [
+      {
+        "en": "I can use 'history' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'history' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_024",
     "lemma": "timeline",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of timeline.",
+    "examples": [
+      {
+        "en": "I can use 'timeline' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'timeline' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_025",
     "lemma": "past",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of past.",
+    "examples": [
+      {
+        "en": "I can use 'past' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'past' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_026",
     "lemma": "present",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of present.",
+    "examples": [
+      {
+        "en": "I can use 'present' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'present' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_027",
     "lemma": "change",
     "zh": "找零",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of change.",
+    "examples": [
+      {
+        "en": "I can use 'change' in my answer.",
+        "zh": "我可以在答案里用“找零”。"
+      },
+      {
+        "en": "'change' is important in this lesson.",
+        "zh": "“找零”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_028",
     "lemma": "economy",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of economy.",
+    "examples": [
+      {
+        "en": "I can use 'economy' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'economy' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_029",
     "lemma": "trade",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of trade.",
+    "examples": [
+      {
+        "en": "I can use 'trade' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'trade' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_030",
     "lemma": "job",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of job.",
+    "examples": [
+      {
+        "en": "I can use 'job' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'job' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_031",
     "lemma": "market",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of market.",
+    "examples": [
+      {
+        "en": "I can use 'market' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'market' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_032",
     "lemma": "transport",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of transport.",
+    "examples": [
+      {
+        "en": "I can use 'transport' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'transport' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_033",
     "lemma": "school",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of school.",
+    "examples": [
+      {
+        "en": "I can use 'school' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'school' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_034",
     "lemma": "government",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of government.",
+    "examples": [
+      {
+        "en": "I can use 'government' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'government' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_035",
     "lemma": "citizen",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of citizen.",
+    "examples": [
+      {
+        "en": "I can use 'citizen' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'citizen' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_036",
     "lemma": "law",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of law.",
+    "examples": [
+      {
+        "en": "I can use 'law' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'law' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_037",
     "lemma": "safety",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of safety.",
+    "examples": [
+      {
+        "en": "I can use 'safety' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'safety' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_038",
     "lemma": "resource",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of resource.",
+    "examples": [
+      {
+        "en": "I can use 'resource' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'resource' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_039",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_040",
     "lemma": "recycle",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of recycle.",
+    "examples": [
+      {
+        "en": "I can use 'recycle' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'recycle' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_041",
     "lemma": "community",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of community.",
+    "examples": [
+      {
+        "en": "I can use 'community' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'community' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_042",
     "lemma": "rule",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of rule.",
+    "examples": [
+      {
+        "en": "I can use 'rule' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'rule' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_043",
     "lemma": "responsibility",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of responsibility.",
+    "examples": [
+      {
+        "en": "I can use 'responsibility' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'responsibility' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_044",
     "lemma": "respect",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of respect.",
+    "examples": [
+      {
+        "en": "I can use 'respect' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'respect' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_045",
     "lemma": "fair",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of fair.",
+    "examples": [
+      {
+        "en": "I can use 'fair' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'fair' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_046",
     "lemma": "vote",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of vote.",
+    "examples": [
+      {
+        "en": "I can use 'vote' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'vote' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_047",
     "lemma": "leader",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of leader.",
+    "examples": [
+      {
+        "en": "I can use 'leader' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'leader' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_048",
     "lemma": "map",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of map.",
+    "examples": [
+      {
+        "en": "I can use 'map' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'map' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_049",
     "lemma": "direction",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of direction.",
+    "examples": [
+      {
+        "en": "I can use 'direction' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'direction' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_050",
     "lemma": "north",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of north.",
+    "examples": [
+      {
+        "en": "I can use 'north' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'north' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_051",
     "lemma": "south",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of south.",
+    "examples": [
+      {
+        "en": "I can use 'south' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'south' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_052",
     "lemma": "east",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of east.",
+    "examples": [
+      {
+        "en": "I can use 'east' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'east' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_053",
     "lemma": "west",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of west.",
+    "examples": [
+      {
+        "en": "I can use 'west' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'west' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_054",
     "lemma": "location",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of location.",
+    "examples": [
+      {
+        "en": "I can use 'location' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'location' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_055",
     "lemma": "country",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of country.",
+    "examples": [
+      {
+        "en": "I can use 'country' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'country' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_056",
     "lemma": "city",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of city.",
+    "examples": [
+      {
+        "en": "I can use 'city' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'city' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_057",
     "lemma": "island",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of island.",
+    "examples": [
+      {
+        "en": "I can use 'island' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'island' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_058",
     "lemma": "river",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of river.",
+    "examples": [
+      {
+        "en": "I can use 'river' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'river' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_059",
     "lemma": "mountain",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of mountain.",
+    "examples": [
+      {
+        "en": "I can use 'mountain' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'mountain' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_060",
     "lemma": "weather",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of weather.",
+    "examples": [
+      {
+        "en": "I can use 'weather' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'weather' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_061",
     "lemma": "culture",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of culture.",
+    "examples": [
+      {
+        "en": "I can use 'culture' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'culture' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_062",
     "lemma": "festival",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of festival.",
+    "examples": [
+      {
+        "en": "I can use 'festival' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'festival' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_063",
     "lemma": "history",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of history.",
+    "examples": [
+      {
+        "en": "I can use 'history' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'history' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_064",
     "lemma": "timeline",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of timeline.",
+    "examples": [
+      {
+        "en": "I can use 'timeline' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'timeline' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_065",
     "lemma": "past",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of past.",
+    "examples": [
+      {
+        "en": "I can use 'past' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'past' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_066",
     "lemma": "present",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of present.",
+    "examples": [
+      {
+        "en": "I can use 'present' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'present' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_067",
     "lemma": "change",
     "zh": "找零",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of change.",
+    "examples": [
+      {
+        "en": "I can use 'change' in my answer.",
+        "zh": "我可以在答案里用“找零”。"
+      },
+      {
+        "en": "'change' is important in this lesson.",
+        "zh": "“找零”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_068",
     "lemma": "economy",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of economy.",
+    "examples": [
+      {
+        "en": "I can use 'economy' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'economy' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_069",
     "lemma": "trade",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of trade.",
+    "examples": [
+      {
+        "en": "I can use 'trade' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'trade' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_070",
     "lemma": "job",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of job.",
+    "examples": [
+      {
+        "en": "I can use 'job' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'job' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_071",
     "lemma": "market",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of market.",
+    "examples": [
+      {
+        "en": "I can use 'market' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'market' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_072",
     "lemma": "transport",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of transport.",
+    "examples": [
+      {
+        "en": "I can use 'transport' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'transport' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_073",
     "lemma": "school",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of school.",
+    "examples": [
+      {
+        "en": "I can use 'school' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'school' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_074",
     "lemma": "government",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of government.",
+    "examples": [
+      {
+        "en": "I can use 'government' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'government' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_075",
     "lemma": "citizen",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of citizen.",
+    "examples": [
+      {
+        "en": "I can use 'citizen' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'citizen' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_076",
     "lemma": "law",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of law.",
+    "examples": [
+      {
+        "en": "I can use 'law' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'law' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_077",
     "lemma": "safety",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of safety.",
+    "examples": [
+      {
+        "en": "I can use 'safety' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'safety' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_078",
     "lemma": "resource",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of resource.",
+    "examples": [
+      {
+        "en": "I can use 'resource' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'resource' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_079",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_080",
     "lemma": "recycle",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of recycle.",
+    "examples": [
+      {
+        "en": "I can use 'recycle' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'recycle' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_081",
     "lemma": "community",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of community.",
+    "examples": [
+      {
+        "en": "I can use 'community' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'community' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_082",
     "lemma": "rule",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of rule.",
+    "examples": [
+      {
+        "en": "I can use 'rule' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'rule' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_083",
     "lemma": "responsibility",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of responsibility.",
+    "examples": [
+      {
+        "en": "I can use 'responsibility' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'responsibility' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_084",
     "lemma": "respect",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of respect.",
+    "examples": [
+      {
+        "en": "I can use 'respect' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'respect' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_085",
     "lemma": "fair",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of fair.",
+    "examples": [
+      {
+        "en": "I can use 'fair' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'fair' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_086",
     "lemma": "vote",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of vote.",
+    "examples": [
+      {
+        "en": "I can use 'vote' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'vote' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_087",
     "lemma": "leader",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of leader.",
+    "examples": [
+      {
+        "en": "I can use 'leader' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'leader' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_088",
     "lemma": "map",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of map.",
+    "examples": [
+      {
+        "en": "I can use 'map' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'map' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_089",
     "lemma": "direction",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of direction.",
+    "examples": [
+      {
+        "en": "I can use 'direction' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'direction' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_090",
     "lemma": "north",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of north.",
+    "examples": [
+      {
+        "en": "I can use 'north' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'north' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_091",
     "lemma": "south",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of south.",
+    "examples": [
+      {
+        "en": "I can use 'south' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'south' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_092",
     "lemma": "east",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of east.",
+    "examples": [
+      {
+        "en": "I can use 'east' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'east' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_093",
     "lemma": "west",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of west.",
+    "examples": [
+      {
+        "en": "I can use 'west' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'west' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_094",
     "lemma": "location",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of location.",
+    "examples": [
+      {
+        "en": "I can use 'location' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'location' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_095",
     "lemma": "country",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of country.",
+    "examples": [
+      {
+        "en": "I can use 'country' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'country' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_096",
     "lemma": "city",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of city.",
+    "examples": [
+      {
+        "en": "I can use 'city' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'city' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_097",
     "lemma": "island",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of island.",
+    "examples": [
+      {
+        "en": "I can use 'island' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'island' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_098",
     "lemma": "river",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of river.",
+    "examples": [
+      {
+        "en": "I can use 'river' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'river' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_099",
     "lemma": "mountain",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of mountain.",
+    "examples": [
+      {
+        "en": "I can use 'mountain' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'mountain' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_100",
     "lemma": "weather",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of weather.",
+    "examples": [
+      {
+        "en": "I can use 'weather' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'weather' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_101",
     "lemma": "culture",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of culture.",
+    "examples": [
+      {
+        "en": "I can use 'culture' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'culture' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_102",
     "lemma": "festival",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of festival.",
+    "examples": [
+      {
+        "en": "I can use 'festival' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'festival' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_103",
     "lemma": "history",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of history.",
+    "examples": [
+      {
+        "en": "I can use 'history' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'history' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_104",
     "lemma": "timeline",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of timeline.",
+    "examples": [
+      {
+        "en": "I can use 'timeline' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'timeline' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_105",
     "lemma": "past",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of past.",
+    "examples": [
+      {
+        "en": "I can use 'past' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'past' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_106",
     "lemma": "present",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of present.",
+    "examples": [
+      {
+        "en": "I can use 'present' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'present' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_107",
     "lemma": "change",
     "zh": "找零",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of change.",
+    "examples": [
+      {
+        "en": "I can use 'change' in my answer.",
+        "zh": "我可以在答案里用“找零”。"
+      },
+      {
+        "en": "'change' is important in this lesson.",
+        "zh": "“找零”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_108",
     "lemma": "economy",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of economy.",
+    "examples": [
+      {
+        "en": "I can use 'economy' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'economy' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_109",
     "lemma": "trade",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of trade.",
+    "examples": [
+      {
+        "en": "I can use 'trade' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'trade' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_110",
     "lemma": "job",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of job.",
+    "examples": [
+      {
+        "en": "I can use 'job' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'job' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_111",
     "lemma": "market",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of market.",
+    "examples": [
+      {
+        "en": "I can use 'market' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'market' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_112",
     "lemma": "transport",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of transport.",
+    "examples": [
+      {
+        "en": "I can use 'transport' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'transport' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_113",
     "lemma": "school",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of school.",
+    "examples": [
+      {
+        "en": "I can use 'school' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'school' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_114",
     "lemma": "government",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of government.",
+    "examples": [
+      {
+        "en": "I can use 'government' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'government' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_115",
     "lemma": "citizen",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of citizen.",
+    "examples": [
+      {
+        "en": "I can use 'citizen' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'citizen' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_116",
     "lemma": "law",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of law.",
+    "examples": [
+      {
+        "en": "I can use 'law' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'law' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_117",
     "lemma": "safety",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of safety.",
+    "examples": [
+      {
+        "en": "I can use 'safety' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'safety' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_118",
     "lemma": "resource",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of resource.",
+    "examples": [
+      {
+        "en": "I can use 'resource' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'resource' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_119",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_120",
     "lemma": "recycle",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of recycle.",
+    "examples": [
+      {
+        "en": "I can use 'recycle' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'recycle' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_121",
     "lemma": "community",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of community.",
+    "examples": [
+      {
+        "en": "I can use 'community' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'community' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_122",
     "lemma": "rule",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of rule.",
+    "examples": [
+      {
+        "en": "I can use 'rule' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'rule' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_123",
     "lemma": "responsibility",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of responsibility.",
+    "examples": [
+      {
+        "en": "I can use 'responsibility' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'responsibility' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_124",
     "lemma": "respect",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of respect.",
+    "examples": [
+      {
+        "en": "I can use 'respect' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'respect' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_125",
     "lemma": "fair",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of fair.",
+    "examples": [
+      {
+        "en": "I can use 'fair' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'fair' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_126",
     "lemma": "vote",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of vote.",
+    "examples": [
+      {
+        "en": "I can use 'vote' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'vote' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_127",
     "lemma": "leader",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of leader.",
+    "examples": [
+      {
+        "en": "I can use 'leader' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'leader' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_128",
     "lemma": "map",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of map.",
+    "examples": [
+      {
+        "en": "I can use 'map' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'map' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_129",
     "lemma": "direction",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of direction.",
+    "examples": [
+      {
+        "en": "I can use 'direction' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'direction' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_130",
     "lemma": "north",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of north.",
+    "examples": [
+      {
+        "en": "I can use 'north' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'north' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_131",
     "lemma": "south",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of south.",
+    "examples": [
+      {
+        "en": "I can use 'south' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'south' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_132",
     "lemma": "east",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of east.",
+    "examples": [
+      {
+        "en": "I can use 'east' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'east' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_133",
     "lemma": "west",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of west.",
+    "examples": [
+      {
+        "en": "I can use 'west' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'west' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_134",
     "lemma": "location",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of location.",
+    "examples": [
+      {
+        "en": "I can use 'location' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'location' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_135",
     "lemma": "country",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of country.",
+    "examples": [
+      {
+        "en": "I can use 'country' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'country' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_136",
     "lemma": "city",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of city.",
+    "examples": [
+      {
+        "en": "I can use 'city' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'city' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_137",
     "lemma": "island",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of island.",
+    "examples": [
+      {
+        "en": "I can use 'island' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'island' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_138",
     "lemma": "river",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of river.",
+    "examples": [
+      {
+        "en": "I can use 'river' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'river' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_139",
     "lemma": "mountain",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of mountain.",
+    "examples": [
+      {
+        "en": "I can use 'mountain' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'mountain' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_140",
     "lemma": "weather",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of weather.",
+    "examples": [
+      {
+        "en": "I can use 'weather' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'weather' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_141",
     "lemma": "culture",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of culture.",
+    "examples": [
+      {
+        "en": "I can use 'culture' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'culture' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_142",
     "lemma": "festival",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of festival.",
+    "examples": [
+      {
+        "en": "I can use 'festival' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'festival' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_143",
     "lemma": "history",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of history.",
+    "examples": [
+      {
+        "en": "I can use 'history' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'history' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_144",
     "lemma": "timeline",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of timeline.",
+    "examples": [
+      {
+        "en": "I can use 'timeline' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'timeline' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_145",
     "lemma": "past",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of past.",
+    "examples": [
+      {
+        "en": "I can use 'past' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'past' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_146",
     "lemma": "present",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of present.",
+    "examples": [
+      {
+        "en": "I can use 'present' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'present' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_147",
     "lemma": "change",
     "zh": "找零",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of change.",
+    "examples": [
+      {
+        "en": "I can use 'change' in my answer.",
+        "zh": "我可以在答案里用“找零”。"
+      },
+      {
+        "en": "'change' is important in this lesson.",
+        "zh": "“找零”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_148",
     "lemma": "economy",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of economy.",
+    "examples": [
+      {
+        "en": "I can use 'economy' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'economy' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_149",
     "lemma": "trade",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of trade.",
+    "examples": [
+      {
+        "en": "I can use 'trade' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'trade' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_150",
     "lemma": "job",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of job.",
+    "examples": [
+      {
+        "en": "I can use 'job' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'job' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_151",
     "lemma": "market",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of market.",
+    "examples": [
+      {
+        "en": "I can use 'market' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'market' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_152",
     "lemma": "transport",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of transport.",
+    "examples": [
+      {
+        "en": "I can use 'transport' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'transport' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_153",
     "lemma": "school",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of school.",
+    "examples": [
+      {
+        "en": "I can use 'school' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'school' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_154",
     "lemma": "government",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of government.",
+    "examples": [
+      {
+        "en": "I can use 'government' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'government' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_155",
     "lemma": "citizen",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of citizen.",
+    "examples": [
+      {
+        "en": "I can use 'citizen' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'citizen' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_156",
     "lemma": "law",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of law.",
+    "examples": [
+      {
+        "en": "I can use 'law' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'law' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_157",
     "lemma": "safety",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of safety.",
+    "examples": [
+      {
+        "en": "I can use 'safety' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'safety' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_158",
     "lemma": "resource",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of resource.",
+    "examples": [
+      {
+        "en": "I can use 'resource' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'resource' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_159",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_160",
     "lemma": "recycle",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of recycle.",
+    "examples": [
+      {
+        "en": "I can use 'recycle' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'recycle' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_161",
     "lemma": "community",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of community.",
+    "examples": [
+      {
+        "en": "I can use 'community' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'community' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_162",
     "lemma": "rule",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of rule.",
+    "examples": [
+      {
+        "en": "I can use 'rule' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'rule' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_163",
     "lemma": "responsibility",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of responsibility.",
+    "examples": [
+      {
+        "en": "I can use 'responsibility' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'responsibility' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_164",
     "lemma": "respect",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of respect.",
+    "examples": [
+      {
+        "en": "I can use 'respect' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'respect' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_165",
     "lemma": "fair",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of fair.",
+    "examples": [
+      {
+        "en": "I can use 'fair' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'fair' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_166",
     "lemma": "vote",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of vote.",
+    "examples": [
+      {
+        "en": "I can use 'vote' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'vote' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_167",
     "lemma": "leader",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of leader.",
+    "examples": [
+      {
+        "en": "I can use 'leader' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'leader' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_168",
     "lemma": "map",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of map.",
+    "examples": [
+      {
+        "en": "I can use 'map' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'map' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_169",
     "lemma": "direction",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of direction.",
+    "examples": [
+      {
+        "en": "I can use 'direction' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'direction' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_170",
     "lemma": "north",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of north.",
+    "examples": [
+      {
+        "en": "I can use 'north' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'north' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_171",
     "lemma": "south",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of south.",
+    "examples": [
+      {
+        "en": "I can use 'south' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'south' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_172",
     "lemma": "east",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of east.",
+    "examples": [
+      {
+        "en": "I can use 'east' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'east' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_173",
     "lemma": "west",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of west.",
+    "examples": [
+      {
+        "en": "I can use 'west' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'west' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_174",
     "lemma": "location",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of location.",
+    "examples": [
+      {
+        "en": "I can use 'location' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'location' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_175",
     "lemma": "country",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of country.",
+    "examples": [
+      {
+        "en": "I can use 'country' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'country' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_176",
     "lemma": "city",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of city.",
+    "examples": [
+      {
+        "en": "I can use 'city' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'city' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_177",
     "lemma": "island",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of island.",
+    "examples": [
+      {
+        "en": "I can use 'island' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'island' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_178",
     "lemma": "river",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of river.",
+    "examples": [
+      {
+        "en": "I can use 'river' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'river' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_179",
     "lemma": "mountain",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of mountain.",
+    "examples": [
+      {
+        "en": "I can use 'mountain' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'mountain' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_180",
     "lemma": "weather",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of weather.",
+    "examples": [
+      {
+        "en": "I can use 'weather' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'weather' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_181",
     "lemma": "culture",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of culture.",
+    "examples": [
+      {
+        "en": "I can use 'culture' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'culture' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_182",
     "lemma": "festival",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of festival.",
+    "examples": [
+      {
+        "en": "I can use 'festival' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'festival' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_183",
     "lemma": "history",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of history.",
+    "examples": [
+      {
+        "en": "I can use 'history' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'history' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_184",
     "lemma": "timeline",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of timeline.",
+    "examples": [
+      {
+        "en": "I can use 'timeline' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'timeline' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_185",
     "lemma": "past",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of past.",
+    "examples": [
+      {
+        "en": "I can use 'past' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'past' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_186",
     "lemma": "present",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of present.",
+    "examples": [
+      {
+        "en": "I can use 'present' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'present' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_187",
     "lemma": "change",
     "zh": "找零",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of change.",
+    "examples": [
+      {
+        "en": "I can use 'change' in my answer.",
+        "zh": "我可以在答案里用“找零”。"
+      },
+      {
+        "en": "'change' is important in this lesson.",
+        "zh": "“找零”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_188",
     "lemma": "economy",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of economy.",
+    "examples": [
+      {
+        "en": "I can use 'economy' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'economy' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_189",
     "lemma": "trade",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of trade.",
+    "examples": [
+      {
+        "en": "I can use 'trade' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'trade' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_190",
     "lemma": "job",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of job.",
+    "examples": [
+      {
+        "en": "I can use 'job' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'job' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_191",
     "lemma": "market",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of market.",
+    "examples": [
+      {
+        "en": "I can use 'market' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'market' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_192",
     "lemma": "transport",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of transport.",
+    "examples": [
+      {
+        "en": "I can use 'transport' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'transport' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_193",
     "lemma": "school",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of school.",
+    "examples": [
+      {
+        "en": "I can use 'school' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'school' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_194",
     "lemma": "government",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of government.",
+    "examples": [
+      {
+        "en": "I can use 'government' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'government' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_195",
     "lemma": "citizen",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of citizen.",
+    "examples": [
+      {
+        "en": "I can use 'citizen' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'citizen' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_196",
     "lemma": "law",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of law.",
+    "examples": [
+      {
+        "en": "I can use 'law' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'law' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_197",
     "lemma": "safety",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of safety.",
+    "examples": [
+      {
+        "en": "I can use 'safety' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'safety' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_198",
     "lemma": "resource",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of resource.",
+    "examples": [
+      {
+        "en": "I can use 'resource' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'resource' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_199",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_200",
     "lemma": "recycle",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of recycle.",
+    "examples": [
+      {
+        "en": "I can use 'recycle' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'recycle' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_201",
     "lemma": "community",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of community.",
+    "examples": [
+      {
+        "en": "I can use 'community' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'community' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_202",
     "lemma": "rule",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of rule.",
+    "examples": [
+      {
+        "en": "I can use 'rule' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'rule' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_203",
     "lemma": "responsibility",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of responsibility.",
+    "examples": [
+      {
+        "en": "I can use 'responsibility' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'responsibility' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_204",
     "lemma": "respect",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of respect.",
+    "examples": [
+      {
+        "en": "I can use 'respect' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'respect' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_205",
     "lemma": "fair",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of fair.",
+    "examples": [
+      {
+        "en": "I can use 'fair' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'fair' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_206",
     "lemma": "vote",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of vote.",
+    "examples": [
+      {
+        "en": "I can use 'vote' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'vote' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_207",
     "lemma": "leader",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of leader.",
+    "examples": [
+      {
+        "en": "I can use 'leader' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'leader' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_208",
     "lemma": "map",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of map.",
+    "examples": [
+      {
+        "en": "I can use 'map' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'map' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_209",
     "lemma": "direction",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of direction.",
+    "examples": [
+      {
+        "en": "I can use 'direction' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'direction' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_210",
     "lemma": "north",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of north.",
+    "examples": [
+      {
+        "en": "I can use 'north' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'north' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_211",
     "lemma": "south",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of south.",
+    "examples": [
+      {
+        "en": "I can use 'south' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'south' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_212",
     "lemma": "east",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of east.",
+    "examples": [
+      {
+        "en": "I can use 'east' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'east' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_213",
     "lemma": "west",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of west.",
+    "examples": [
+      {
+        "en": "I can use 'west' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'west' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_214",
     "lemma": "location",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of location.",
+    "examples": [
+      {
+        "en": "I can use 'location' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'location' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_215",
     "lemma": "country",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of country.",
+    "examples": [
+      {
+        "en": "I can use 'country' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'country' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_216",
     "lemma": "city",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of city.",
+    "examples": [
+      {
+        "en": "I can use 'city' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'city' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_217",
     "lemma": "island",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of island.",
+    "examples": [
+      {
+        "en": "I can use 'island' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'island' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_218",
     "lemma": "river",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of river.",
+    "examples": [
+      {
+        "en": "I can use 'river' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'river' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_219",
     "lemma": "mountain",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of mountain.",
+    "examples": [
+      {
+        "en": "I can use 'mountain' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'mountain' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_220",
     "lemma": "weather",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of weather.",
+    "examples": [
+      {
+        "en": "I can use 'weather' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'weather' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_221",
     "lemma": "culture",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of culture.",
+    "examples": [
+      {
+        "en": "I can use 'culture' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'culture' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_222",
     "lemma": "festival",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of festival.",
+    "examples": [
+      {
+        "en": "I can use 'festival' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'festival' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_223",
     "lemma": "history",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of history.",
+    "examples": [
+      {
+        "en": "I can use 'history' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'history' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_224",
     "lemma": "timeline",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of timeline.",
+    "examples": [
+      {
+        "en": "I can use 'timeline' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'timeline' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_225",
     "lemma": "past",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of past.",
+    "examples": [
+      {
+        "en": "I can use 'past' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'past' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_226",
     "lemma": "present",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of present.",
+    "examples": [
+      {
+        "en": "I can use 'present' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'present' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_227",
     "lemma": "change",
     "zh": "找零",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of change.",
+    "examples": [
+      {
+        "en": "I can use 'change' in my answer.",
+        "zh": "我可以在答案里用“找零”。"
+      },
+      {
+        "en": "'change' is important in this lesson.",
+        "zh": "“找零”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_228",
     "lemma": "economy",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of economy.",
+    "examples": [
+      {
+        "en": "I can use 'economy' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'economy' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_229",
     "lemma": "trade",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of trade.",
+    "examples": [
+      {
+        "en": "I can use 'trade' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'trade' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_230",
     "lemma": "job",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of job.",
+    "examples": [
+      {
+        "en": "I can use 'job' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'job' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_231",
     "lemma": "market",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of market.",
+    "examples": [
+      {
+        "en": "I can use 'market' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'market' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_232",
     "lemma": "transport",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of transport.",
+    "examples": [
+      {
+        "en": "I can use 'transport' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'transport' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_233",
     "lemma": "school",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of school.",
+    "examples": [
+      {
+        "en": "I can use 'school' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'school' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_234",
     "lemma": "government",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of government.",
+    "examples": [
+      {
+        "en": "I can use 'government' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'government' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_235",
     "lemma": "citizen",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of citizen.",
+    "examples": [
+      {
+        "en": "I can use 'citizen' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'citizen' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_236",
     "lemma": "law",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of law.",
+    "examples": [
+      {
+        "en": "I can use 'law' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'law' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_237",
     "lemma": "safety",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of safety.",
+    "examples": [
+      {
+        "en": "I can use 'safety' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'safety' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_238",
     "lemma": "resource",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of resource.",
+    "examples": [
+      {
+        "en": "I can use 'resource' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'resource' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_239",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p1_ss_240",
     "lemma": "recycle",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of recycle.",
+    "examples": [
+      {
+        "en": "I can use 'recycle' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'recycle' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_map_key",
+    "lemma": "map key",
+    "zh": "地图图例",
+    "pos": "phr",
+    "def": "A useful phrase: map key.",
+    "examples": [
+      {
+        "en": "Question: map key?",
+        "zh": "问题：地图图例？"
+      },
+      {
+        "en": "We often say 'map key' in class.",
+        "zh": "课堂上经常说“地图图例”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_compass_directions",
+    "lemma": "compass directions",
+    "zh": "指南针方向",
+    "pos": "phr",
+    "def": "A useful phrase: compass directions.",
+    "examples": [
+      {
+        "en": "Question: compass directions?",
+        "zh": "问题：指南针方向？"
+      },
+      {
+        "en": "We often say 'compass directions' in class.",
+        "zh": "课堂上经常说“指南针方向”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_north,_south,_east,_west",
+    "lemma": "north, south, east, west",
+    "zh": "东南西北",
+    "pos": "phr",
+    "def": "A useful phrase: north, south, east, west.",
+    "examples": [
+      {
+        "en": "Question: north, south, east, west?",
+        "zh": "问题：东南西北？"
+      },
+      {
+        "en": "We often say 'north, south, east, west' in class.",
+        "zh": "课堂上经常说“东南西北”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_weather_and_climate",
+    "lemma": "weather and climate",
+    "zh": "天气与气候",
+    "pos": "phr",
+    "def": "A useful phrase: weather and climate.",
+    "examples": [
+      {
+        "en": "Question: weather and climate?",
+        "zh": "问题：天气与气候？"
+      },
+      {
+        "en": "We often say 'weather and climate' in class.",
+        "zh": "课堂上经常说“天气与气候”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_community_helpers",
+    "lemma": "community helpers",
+    "zh": "社区职业",
+    "pos": "phr",
+    "def": "A useful phrase: community helpers.",
+    "examples": [
+      {
+        "en": "Question: community helpers?",
+        "zh": "问题：社区职业？"
+      },
+      {
+        "en": "We often say 'community helpers' in class.",
+        "zh": "课堂上经常说“社区职业”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_rules_and_responsibilities",
+    "lemma": "rules and responsibilities",
+    "zh": "规则与责任",
+    "pos": "phr",
+    "def": "A useful phrase: rules and responsibilities.",
+    "examples": [
+      {
+        "en": "Question: rules and responsibilities?",
+        "zh": "问题：规则与责任？"
+      },
+      {
+        "en": "We often say 'rules and responsibilities' in class.",
+        "zh": "课堂上经常说“规则与责任”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_public_places",
+    "lemma": "public places",
+    "zh": "公共场所",
+    "pos": "phr",
+    "def": "A useful phrase: public places.",
+    "examples": [
+      {
+        "en": "Question: public places?",
+        "zh": "问题：公共场所？"
+      },
+      {
+        "en": "We often say 'public places' in class.",
+        "zh": "课堂上经常说“公共场所”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_school_rules",
+    "lemma": "school rules",
+    "zh": "学校规则",
+    "pos": "phr",
+    "def": "A useful phrase: school rules.",
+    "examples": [
+      {
+        "en": "Question: school rules?",
+        "zh": "问题：学校规则？"
+      },
+      {
+        "en": "We often say 'school rules' in class.",
+        "zh": "课堂上经常说“学校规则”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_take_care_of",
+    "lemma": "take care of",
+    "zh": "照顾",
+    "pos": "phr",
+    "def": "A useful phrase: take care of.",
+    "examples": [
+      {
+        "en": "Question: take care of?",
+        "zh": "问题：照顾？"
+      },
+      {
+        "en": "We often say 'take care of' in class.",
+        "zh": "课堂上经常说“照顾”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_work_together",
+    "lemma": "work together",
+    "zh": "合作",
+    "pos": "phr",
+    "def": "A useful phrase: work together.",
+    "examples": [
+      {
+        "en": "Question: work together?",
+        "zh": "问题：合作？"
+      },
+      {
+        "en": "We often say 'work together' in class.",
+        "zh": "课堂上经常说“合作”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_make_a_choice",
+    "lemma": "make a choice",
+    "zh": "做选择",
+    "pos": "phr",
+    "def": "A useful phrase: make a choice.",
+    "examples": [
+      {
+        "en": "Question: make a choice?",
+        "zh": "问题：做选择？"
+      },
+      {
+        "en": "We often say 'make a choice' in class.",
+        "zh": "课堂上经常说“做选择”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_safe_and_unsafe",
+    "lemma": "safe and unsafe",
+    "zh": "安全与不安全",
+    "pos": "phr",
+    "def": "A useful phrase: safe and unsafe.",
+    "examples": [
+      {
+        "en": "Question: safe and unsafe?",
+        "zh": "问题：安全与不安全？"
+      },
+      {
+        "en": "We often say 'safe and unsafe' in class.",
+        "zh": "课堂上经常说“安全与不安全”。"
+      }
+    ]
+  },
+  {
+    "lemma": "rules and laws",
+    "zh": "规则与法律",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: rules and laws",
+    "examples": [
+      {
+        "en": "Use the phrase 'rules and laws' in a sentence.",
+        "zh": "在句子里用“规则与法律”。"
+      }
+    ]
+  },
+  {
+    "lemma": "north south east west",
+    "zh": "东南西北",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: north south east west",
+    "examples": [
+      {
+        "en": "Use the phrase 'north south east west' in a sentence.",
+        "zh": "在句子里用“东南西北”。"
+      }
+    ]
+  },
+  {
+    "lemma": "follow directions",
+    "zh": "按指示走",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: follow directions",
+    "examples": [
+      {
+        "en": "Use the phrase 'follow directions' in a sentence.",
+        "zh": "在句子里用“按指示走”。"
+      }
+    ]
+  },
+  {
+    "lemma": "goods and services",
+    "zh": "商品与服务",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: goods and services",
+    "examples": [
+      {
+        "en": "Use the phrase 'goods and services' in a sentence.",
+        "zh": "在句子里用“商品与服务”。"
+      }
+    ]
+  },
+  {
+    "lemma": "needs and wants",
+    "zh": "需要与想要",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: needs and wants",
+    "examples": [
+      {
+        "en": "Use the phrase 'needs and wants' in a sentence.",
+        "zh": "在句子里用“需要与想要”。"
+      }
+    ]
+  },
+  {
+    "lemma": "save money",
+    "zh": "存钱",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: save money",
+    "examples": [
+      {
+        "en": "Use the phrase 'save money' in a sentence.",
+        "zh": "在句子里用“存钱”。"
+      }
+    ]
+  },
+  {
+    "lemma": "spend wisely",
+    "zh": "聪明花钱",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: spend wisely",
+    "examples": [
+      {
+        "en": "Use the phrase 'spend wisely' in a sentence.",
+        "zh": "在句子里用“聪明花钱”。"
+      }
+    ]
+  },
+  {
+    "lemma": "respect others",
+    "zh": "尊重别人",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: respect others",
+    "examples": [
+      {
+        "en": "Use the phrase 'respect others' in a sentence.",
+        "zh": "在句子里用“尊重别人”。"
+      }
+    ]
+  },
+  {
+    "lemma": "take responsibility",
+    "zh": "承担责任",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: take responsibility",
+    "examples": [
+      {
+        "en": "Use the phrase 'take responsibility' in a sentence.",
+        "zh": "在句子里用“承担责任”。"
+      }
+    ]
+  },
+  {
+    "lemma": "keep the environment clean",
+    "zh": "保持环境干净",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: keep the environment clean",
+    "examples": [
+      {
+        "en": "Use the phrase 'keep the environment clean' in a sentence.",
+        "zh": "在句子里用“保持环境干净”。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -36",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -36",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -34",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -34",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -33",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -33",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -32",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -32",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -31",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -31",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -30",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -30",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -29",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -29",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -28",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -28",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -27",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -27",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -26",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -26",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -24",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -24",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -23",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -23",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -22",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -22",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -21",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -21",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -20",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -20",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -18",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -18",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -17",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -17",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -16",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -16",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -15",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -15",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -14",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -14",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -13",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -13",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -12",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -12",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -11",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -11",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -10",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -10",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -9",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -9",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -8",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -8",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -7",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -7",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -6",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -6",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -5",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -5",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -4",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -4",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -3",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -3",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -2",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -2",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -1",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -1",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question 0",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question 0",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning 1",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning 1",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question 2",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question 2",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords 3",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords 3",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out 4",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out 4",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out 5",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out 5",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
   }
 ]

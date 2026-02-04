@@ -3,1440 +3,5475 @@
     "id": "p2_m_001",
     "lemma": "add",
     "zh": "相加",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: add.",
+    "examples": [
+      {
+        "en": "I can use 'add' in my answer.",
+        "zh": "我可以在答案里用“相加”。"
+      },
+      {
+        "en": "'add' is important in this lesson.",
+        "zh": "“相加”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_002",
     "lemma": "subtract",
     "zh": "相减",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: subtract.",
+    "examples": [
+      {
+        "en": "I can use 'subtract' in my answer.",
+        "zh": "我可以在答案里用“相减”。"
+      },
+      {
+        "en": "'subtract' is important in this lesson.",
+        "zh": "“相减”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_003",
     "lemma": "multiply",
     "zh": "相乘",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: multiply.",
+    "examples": [
+      {
+        "en": "I can use 'multiply' in my answer.",
+        "zh": "我可以在答案里用“相乘”。"
+      },
+      {
+        "en": "'multiply' is important in this lesson.",
+        "zh": "“相乘”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_004",
     "lemma": "divide",
     "zh": "相除",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: divide.",
+    "examples": [
+      {
+        "en": "I can use 'divide' in my answer.",
+        "zh": "我可以在答案里用“相除”。"
+      },
+      {
+        "en": "'divide' is important in this lesson.",
+        "zh": "“相除”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_005",
     "lemma": "equal",
     "zh": "相等",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: equal.",
+    "examples": [
+      {
+        "en": "I can use 'equal' in my answer.",
+        "zh": "我可以在答案里用“相等”。"
+      },
+      {
+        "en": "'equal' is important in this lesson.",
+        "zh": "“相等”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_006",
     "lemma": "compare",
     "zh": "比较",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: compare.",
+    "examples": [
+      {
+        "en": "I can use 'compare' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'compare' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_007",
     "lemma": "difference",
     "zh": "差",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: difference.",
+    "examples": [
+      {
+        "en": "I can use 'difference' in my answer.",
+        "zh": "我可以在答案里用“差”。"
+      },
+      {
+        "en": "'difference' is important in this lesson.",
+        "zh": "“差”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_008",
     "lemma": "total",
     "zh": "总数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: total.",
+    "examples": [
+      {
+        "en": "I can use 'total' in my answer.",
+        "zh": "我可以在答案里用“总数”。"
+      },
+      {
+        "en": "'total' is important in this lesson.",
+        "zh": "“总数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_009",
     "lemma": "sum",
     "zh": "总和",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: sum.",
+    "examples": [
+      {
+        "en": "I can use 'sum' in my answer.",
+        "zh": "我可以在答案里用“总和”。"
+      },
+      {
+        "en": "'sum' is important in this lesson.",
+        "zh": "“总和”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_010",
     "lemma": "product",
     "zh": "乘积",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: product.",
+    "examples": [
+      {
+        "en": "I can use 'product' in my answer.",
+        "zh": "我可以在答案里用“乘积”。"
+      },
+      {
+        "en": "'product' is important in this lesson.",
+        "zh": "“乘积”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_011",
     "lemma": "quotient",
     "zh": "商",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: quotient.",
+    "examples": [
+      {
+        "en": "I can use 'quotient' in my answer.",
+        "zh": "我可以在答案里用“商”。"
+      },
+      {
+        "en": "'quotient' is important in this lesson.",
+        "zh": "“商”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_012",
     "lemma": "remainder",
     "zh": "余数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: remainder.",
+    "examples": [
+      {
+        "en": "I can use 'remainder' in my answer.",
+        "zh": "我可以在答案里用“余数”。"
+      },
+      {
+        "en": "'remainder' is important in this lesson.",
+        "zh": "“余数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_013",
     "lemma": "estimate",
     "zh": "估算",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: estimate.",
+    "examples": [
+      {
+        "en": "I can use 'estimate' in my answer.",
+        "zh": "我可以在答案里用“估算”。"
+      },
+      {
+        "en": "'estimate' is important in this lesson.",
+        "zh": "“估算”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_014",
     "lemma": "round",
     "zh": "四舍五入",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: round.",
+    "examples": [
+      {
+        "en": "I can use 'round' in my answer.",
+        "zh": "我可以在答案里用“四舍五入”。"
+      },
+      {
+        "en": "'round' is important in this lesson.",
+        "zh": "“四舍五入”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_015",
     "lemma": "nearest",
     "zh": "最接近的",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: nearest.",
+    "examples": [
+      {
+        "en": "I can use 'nearest' in my answer.",
+        "zh": "我可以在答案里用“最接近的”。"
+      },
+      {
+        "en": "'nearest' is important in this lesson.",
+        "zh": "“最接近的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_016",
     "lemma": "place value",
     "zh": "数位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: place value.",
+    "examples": [
+      {
+        "en": "We use the phrase 'place value' in a question.",
+        "zh": "我们在问题里会用到短语“数位”。"
+      },
+      {
+        "en": "Say it clearly: place value.",
+        "zh": "把它说清楚：数位。"
+      }
+    ]
   },
   {
     "id": "p2_m_017",
     "lemma": "digit",
     "zh": "数字",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: digit.",
+    "examples": [
+      {
+        "en": "I can use 'digit' in my answer.",
+        "zh": "我可以在答案里用“数字”。"
+      },
+      {
+        "en": "'digit' is important in this lesson.",
+        "zh": "“数字”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_018",
     "lemma": "hundreds",
     "zh": "百位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: hundreds.",
+    "examples": [
+      {
+        "en": "I can use 'hundreds' in my answer.",
+        "zh": "我可以在答案里用“百位”。"
+      },
+      {
+        "en": "'hundreds' is important in this lesson.",
+        "zh": "“百位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_019",
     "lemma": "thousands",
     "zh": "千位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: thousands.",
+    "examples": [
+      {
+        "en": "I can use 'thousands' in my answer.",
+        "zh": "我可以在答案里用“千位”。"
+      },
+      {
+        "en": "'thousands' is important in this lesson.",
+        "zh": "“千位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_020",
     "lemma": "tens",
     "zh": "十位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: tens.",
+    "examples": [
+      {
+        "en": "I can use 'tens' in my answer.",
+        "zh": "我可以在答案里用“十位”。"
+      },
+      {
+        "en": "'tens' is important in this lesson.",
+        "zh": "“十位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_021",
     "lemma": "ones",
     "zh": "个位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: ones.",
+    "examples": [
+      {
+        "en": "I can use 'ones' in my answer.",
+        "zh": "我可以在答案里用“个位”。"
+      },
+      {
+        "en": "'ones' is important in this lesson.",
+        "zh": "“个位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_022",
     "lemma": "fraction",
     "zh": "分数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: fraction.",
+    "examples": [
+      {
+        "en": "I can use 'fraction' in my answer.",
+        "zh": "我可以在答案里用“分数”。"
+      },
+      {
+        "en": "'fraction' is important in this lesson.",
+        "zh": "“分数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_023",
     "lemma": "numerator",
     "zh": "分子",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: numerator.",
+    "examples": [
+      {
+        "en": "I can use 'numerator' in my answer.",
+        "zh": "我可以在答案里用“分子”。"
+      },
+      {
+        "en": "'numerator' is important in this lesson.",
+        "zh": "“分子”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_024",
     "lemma": "denominator",
     "zh": "分母",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: denominator.",
+    "examples": [
+      {
+        "en": "I can use 'denominator' in my answer.",
+        "zh": "我可以在答案里用“分母”。"
+      },
+      {
+        "en": "'denominator' is important in this lesson.",
+        "zh": "“分母”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_025",
     "lemma": "decimal",
     "zh": "小数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: decimal.",
+    "examples": [
+      {
+        "en": "I can use 'decimal' in my answer.",
+        "zh": "我可以在答案里用“小数”。"
+      },
+      {
+        "en": "'decimal' is important in this lesson.",
+        "zh": "“小数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_026",
     "lemma": "tenths",
     "zh": "十分位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: tenths.",
+    "examples": [
+      {
+        "en": "I can use 'tenths' in my answer.",
+        "zh": "我可以在答案里用“十分位”。"
+      },
+      {
+        "en": "'tenths' is important in this lesson.",
+        "zh": "“十分位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_027",
     "lemma": "hundredths",
     "zh": "百分位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: hundredths.",
+    "examples": [
+      {
+        "en": "I can use 'hundredths' in my answer.",
+        "zh": "我可以在答案里用“百分位”。"
+      },
+      {
+        "en": "'hundredths' is important in this lesson.",
+        "zh": "“百分位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_028",
     "lemma": "unit",
     "zh": "单位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: unit.",
+    "examples": [
+      {
+        "en": "I can use 'unit' in my answer.",
+        "zh": "我可以在答案里用“单位”。"
+      },
+      {
+        "en": "'unit' is important in this lesson.",
+        "zh": "“单位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_029",
     "lemma": "metre",
     "zh": "米",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: metre.",
+    "examples": [
+      {
+        "en": "I can use 'metre' in my answer.",
+        "zh": "我可以在答案里用“米”。"
+      },
+      {
+        "en": "'metre' is important in this lesson.",
+        "zh": "“米”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_030",
     "lemma": "centimetre",
     "zh": "厘米",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: centimetre.",
+    "examples": [
+      {
+        "en": "I can use 'centimetre' in my answer.",
+        "zh": "我可以在答案里用“厘米”。"
+      },
+      {
+        "en": "'centimetre' is important in this lesson.",
+        "zh": "“厘米”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_031",
     "lemma": "kilometre",
     "zh": "公里",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: kilometre.",
+    "examples": [
+      {
+        "en": "I can use 'kilometre' in my answer.",
+        "zh": "我可以在答案里用“公里”。"
+      },
+      {
+        "en": "'kilometre' is important in this lesson.",
+        "zh": "“公里”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_032",
     "lemma": "millimetre",
     "zh": "毫米",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: millimetre.",
+    "examples": [
+      {
+        "en": "I can use 'millimetre' in my answer.",
+        "zh": "我可以在答案里用“毫米”。"
+      },
+      {
+        "en": "'millimetre' is important in this lesson.",
+        "zh": "“毫米”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_033",
     "lemma": "gram",
     "zh": "克",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: gram.",
+    "examples": [
+      {
+        "en": "I can use 'gram' in my answer.",
+        "zh": "我可以在答案里用“克”。"
+      },
+      {
+        "en": "'gram' is important in this lesson.",
+        "zh": "“克”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_034",
     "lemma": "kilogram",
     "zh": "千克",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: kilogram.",
+    "examples": [
+      {
+        "en": "I can use 'kilogram' in my answer.",
+        "zh": "我可以在答案里用“千克”。"
+      },
+      {
+        "en": "'kilogram' is important in this lesson.",
+        "zh": "“千克”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_035",
     "lemma": "litre",
     "zh": "升",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: litre.",
+    "examples": [
+      {
+        "en": "I can use 'litre' in my answer.",
+        "zh": "我可以在答案里用“升”。"
+      },
+      {
+        "en": "'litre' is important in this lesson.",
+        "zh": "“升”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_036",
     "lemma": "millilitre",
     "zh": "毫升",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: millilitre.",
+    "examples": [
+      {
+        "en": "I can use 'millilitre' in my answer.",
+        "zh": "我可以在答案里用“毫升”。"
+      },
+      {
+        "en": "'millilitre' is important in this lesson.",
+        "zh": "“毫升”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_037",
     "lemma": "perimeter",
     "zh": "周长",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: perimeter.",
+    "examples": [
+      {
+        "en": "I can use 'perimeter' in my answer.",
+        "zh": "我可以在答案里用“周长”。"
+      },
+      {
+        "en": "'perimeter' is important in this lesson.",
+        "zh": "“周长”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_038",
     "lemma": "area",
     "zh": "面积",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: area.",
+    "examples": [
+      {
+        "en": "I can use 'area' in my answer.",
+        "zh": "我可以在答案里用“面积”。"
+      },
+      {
+        "en": "'area' is important in this lesson.",
+        "zh": "“面积”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_039",
     "lemma": "rectangle",
     "zh": "长方形",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: rectangle.",
+    "examples": [
+      {
+        "en": "I can use 'rectangle' in my answer.",
+        "zh": "我可以在答案里用“长方形”。"
+      },
+      {
+        "en": "'rectangle' is important in this lesson.",
+        "zh": "“长方形”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_040",
     "lemma": "square",
     "zh": "正方形",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: square.",
+    "examples": [
+      {
+        "en": "I can use 'square' in my answer.",
+        "zh": "我可以在答案里用“正方形”。"
+      },
+      {
+        "en": "'square' is important in this lesson.",
+        "zh": "“正方形”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_041",
     "lemma": "triangle",
     "zh": "三角形",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: triangle.",
+    "examples": [
+      {
+        "en": "I can use 'triangle' in my answer.",
+        "zh": "我可以在答案里用“三角形”。"
+      },
+      {
+        "en": "'triangle' is important in this lesson.",
+        "zh": "“三角形”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_042",
     "lemma": "circle",
     "zh": "圆",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: circle.",
+    "examples": [
+      {
+        "en": "I can use 'circle' in my answer.",
+        "zh": "我可以在答案里用“圆”。"
+      },
+      {
+        "en": "'circle' is important in this lesson.",
+        "zh": "“圆”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_043",
     "lemma": "radius",
     "zh": "半径",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: radius.",
+    "examples": [
+      {
+        "en": "I can use 'radius' in my answer.",
+        "zh": "我可以在答案里用“半径”。"
+      },
+      {
+        "en": "'radius' is important in this lesson.",
+        "zh": "“半径”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_044",
     "lemma": "diameter",
     "zh": "直径",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: diameter.",
+    "examples": [
+      {
+        "en": "I can use 'diameter' in my answer.",
+        "zh": "我可以在答案里用“直径”。"
+      },
+      {
+        "en": "'diameter' is important in this lesson.",
+        "zh": "“直径”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_045",
     "lemma": "length",
     "zh": "长度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: length.",
+    "examples": [
+      {
+        "en": "I can use 'length' in my answer.",
+        "zh": "我可以在答案里用“长度”。"
+      },
+      {
+        "en": "'length' is important in this lesson.",
+        "zh": "“长度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_046",
     "lemma": "width",
     "zh": "宽度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: width.",
+    "examples": [
+      {
+        "en": "I can use 'width' in my answer.",
+        "zh": "我可以在答案里用“宽度”。"
+      },
+      {
+        "en": "'width' is important in this lesson.",
+        "zh": "“宽度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_047",
     "lemma": "height",
     "zh": "高度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: height.",
+    "examples": [
+      {
+        "en": "I can use 'height' in my answer.",
+        "zh": "我可以在答案里用“高度”。"
+      },
+      {
+        "en": "'height' is important in this lesson.",
+        "zh": "“高度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_048",
     "lemma": "volume",
     "zh": "体积",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: volume.",
+    "examples": [
+      {
+        "en": "I can use 'volume' in my answer.",
+        "zh": "我可以在答案里用“体积”。"
+      },
+      {
+        "en": "'volume' is important in this lesson.",
+        "zh": "“体积”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_049",
     "lemma": "mass",
     "zh": "质量",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: mass.",
+    "examples": [
+      {
+        "en": "I can use 'mass' in my answer.",
+        "zh": "我可以在答案里用“质量”。"
+      },
+      {
+        "en": "'mass' is important in this lesson.",
+        "zh": "“质量”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_050",
     "lemma": "time",
     "zh": "时间",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: time.",
+    "examples": [
+      {
+        "en": "I can use 'time' in my answer.",
+        "zh": "我可以在答案里用“时间”。"
+      },
+      {
+        "en": "'time' is important in this lesson.",
+        "zh": "“时间”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_051",
     "lemma": "minute",
     "zh": "分钟",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: minute.",
+    "examples": [
+      {
+        "en": "I can use 'minute' in my answer.",
+        "zh": "我可以在答案里用“分钟”。"
+      },
+      {
+        "en": "'minute' is important in this lesson.",
+        "zh": "“分钟”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_052",
     "lemma": "hour",
     "zh": "小时",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: hour.",
+    "examples": [
+      {
+        "en": "I can use 'hour' in my answer.",
+        "zh": "我可以在答案里用“小时”。"
+      },
+      {
+        "en": "'hour' is important in this lesson.",
+        "zh": "“小时”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_053",
     "lemma": "day",
     "zh": "天",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: day.",
+    "examples": [
+      {
+        "en": "I can use 'day' in my answer.",
+        "zh": "我可以在答案里用“天”。"
+      },
+      {
+        "en": "'day' is important in this lesson.",
+        "zh": "“天”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_054",
     "lemma": "week",
     "zh": "周",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: week.",
+    "examples": [
+      {
+        "en": "I can use 'week' in my answer.",
+        "zh": "我可以在答案里用“周”。"
+      },
+      {
+        "en": "'week' is important in this lesson.",
+        "zh": "“周”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_055",
     "lemma": "month",
     "zh": "月",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: month.",
+    "examples": [
+      {
+        "en": "I can use 'month' in my answer.",
+        "zh": "我可以在答案里用“月”。"
+      },
+      {
+        "en": "'month' is important in this lesson.",
+        "zh": "“月”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_056",
     "lemma": "year",
     "zh": "年",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: year.",
+    "examples": [
+      {
+        "en": "I can use 'year' in my answer.",
+        "zh": "我可以在答案里用“年”。"
+      },
+      {
+        "en": "'year' is important in this lesson.",
+        "zh": "“年”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_057",
     "lemma": "calendar",
     "zh": "日历",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: calendar.",
+    "examples": [
+      {
+        "en": "I can use 'calendar' in my answer.",
+        "zh": "我可以在答案里用“日历”。"
+      },
+      {
+        "en": "'calendar' is important in this lesson.",
+        "zh": "“日历”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_058",
     "lemma": "temperature",
     "zh": "温度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: temperature.",
+    "examples": [
+      {
+        "en": "I can use 'temperature' in my answer.",
+        "zh": "我可以在答案里用“温度”。"
+      },
+      {
+        "en": "'temperature' is important in this lesson.",
+        "zh": "“温度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_059",
     "lemma": "data",
     "zh": "数据",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: data.",
+    "examples": [
+      {
+        "en": "I can use 'data' in my answer.",
+        "zh": "我可以在答案里用“数据”。"
+      },
+      {
+        "en": "'data' is important in this lesson.",
+        "zh": "“数据”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_060",
     "lemma": "table",
     "zh": "表格",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: table.",
+    "examples": [
+      {
+        "en": "I can use 'table' in my answer.",
+        "zh": "我可以在答案里用“表格”。"
+      },
+      {
+        "en": "'table' is important in this lesson.",
+        "zh": "“表格”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_061",
     "lemma": "chart",
     "zh": "图表",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: chart.",
+    "examples": [
+      {
+        "en": "I can use 'chart' in my answer.",
+        "zh": "我可以在答案里用“图表”。"
+      },
+      {
+        "en": "'chart' is important in this lesson.",
+        "zh": "“图表”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_062",
     "lemma": "bar graph",
     "zh": "柱状图",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: bar graph.",
+    "examples": [
+      {
+        "en": "We use the phrase 'bar graph' in a question.",
+        "zh": "我们在问题里会用到短语“柱状图”。"
+      },
+      {
+        "en": "Say it clearly: bar graph.",
+        "zh": "把它说清楚：柱状图。"
+      }
+    ]
   },
   {
     "id": "p2_m_063",
     "lemma": "pictograph",
     "zh": "象形图",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: pictograph.",
+    "examples": [
+      {
+        "en": "I can use 'pictograph' in my answer.",
+        "zh": "我可以在答案里用“象形图”。"
+      },
+      {
+        "en": "'pictograph' is important in this lesson.",
+        "zh": "“象形图”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_064",
     "lemma": "pattern",
     "zh": "规律",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: pattern.",
+    "examples": [
+      {
+        "en": "I can use 'pattern' in my answer.",
+        "zh": "我可以在答案里用“规律”。"
+      },
+      {
+        "en": "'pattern' is important in this lesson.",
+        "zh": "“规律”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_065",
     "lemma": "odd",
     "zh": "奇数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: odd.",
+    "examples": [
+      {
+        "en": "I can use 'odd' in my answer.",
+        "zh": "我可以在答案里用“奇数”。"
+      },
+      {
+        "en": "'odd' is important in this lesson.",
+        "zh": "“奇数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_066",
     "lemma": "even",
     "zh": "偶数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: even.",
+    "examples": [
+      {
+        "en": "I can use 'even' in my answer.",
+        "zh": "我可以在答案里用“偶数”。"
+      },
+      {
+        "en": "'even' is important in this lesson.",
+        "zh": "“偶数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_067",
     "lemma": "multiple",
     "zh": "倍数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: multiple.",
+    "examples": [
+      {
+        "en": "I can use 'multiple' in my answer.",
+        "zh": "我可以在答案里用“倍数”。"
+      },
+      {
+        "en": "'multiple' is important in this lesson.",
+        "zh": "“倍数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_068",
     "lemma": "factor",
     "zh": "因数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: factor.",
+    "examples": [
+      {
+        "en": "I can use 'factor' in my answer.",
+        "zh": "我可以在答案里用“因数”。"
+      },
+      {
+        "en": "'factor' is important in this lesson.",
+        "zh": "“因数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_069",
     "lemma": "prime",
     "zh": "质数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: prime.",
+    "examples": [
+      {
+        "en": "I can use 'prime' in my answer.",
+        "zh": "我可以在答案里用“质数”。"
+      },
+      {
+        "en": "'prime' is important in this lesson.",
+        "zh": "“质数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_070",
     "lemma": "composite",
     "zh": "合数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: composite.",
+    "examples": [
+      {
+        "en": "I can use 'composite' in my answer.",
+        "zh": "我可以在答案里用“合数”。"
+      },
+      {
+        "en": "'composite' is important in this lesson.",
+        "zh": "“合数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_071",
     "lemma": "money",
     "zh": "钱",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: money.",
+    "examples": [
+      {
+        "en": "I can use 'money' in my answer.",
+        "zh": "我可以在答案里用“钱”。"
+      },
+      {
+        "en": "'money' is important in this lesson.",
+        "zh": "“钱”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_072",
     "lemma": "coin",
     "zh": "硬币",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: coin.",
+    "examples": [
+      {
+        "en": "I can use 'coin' in my answer.",
+        "zh": "我可以在答案里用“硬币”。"
+      },
+      {
+        "en": "'coin' is important in this lesson.",
+        "zh": "“硬币”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_073",
     "lemma": "note",
     "zh": "纸币",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: note.",
+    "examples": [
+      {
+        "en": "I can use 'note' in my answer.",
+        "zh": "我可以在答案里用“纸币”。"
+      },
+      {
+        "en": "'note' is important in this lesson.",
+        "zh": "“纸币”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_074",
     "lemma": "change",
     "zh": "找零",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: change.",
+    "examples": [
+      {
+        "en": "I can use 'change' in my answer.",
+        "zh": "我可以在答案里用“找零”。"
+      },
+      {
+        "en": "'change' is important in this lesson.",
+        "zh": "“找零”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_075",
     "lemma": "price",
     "zh": "价格",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: price.",
+    "examples": [
+      {
+        "en": "I can use 'price' in my answer.",
+        "zh": "我可以在答案里用“价格”。"
+      },
+      {
+        "en": "'price' is important in this lesson.",
+        "zh": "“价格”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_076",
     "lemma": "cost",
     "zh": "花费",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: cost.",
+    "examples": [
+      {
+        "en": "I can use 'cost' in my answer.",
+        "zh": "我可以在答案里用“花费”。"
+      },
+      {
+        "en": "'cost' is important in this lesson.",
+        "zh": "“花费”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_077",
     "lemma": "sell",
     "zh": "卖",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: sell.",
+    "examples": [
+      {
+        "en": "I can use 'sell' in my answer.",
+        "zh": "我可以在答案里用“卖”。"
+      },
+      {
+        "en": "'sell' is important in this lesson.",
+        "zh": "“卖”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_078",
     "lemma": "buy",
     "zh": "买",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: buy.",
+    "examples": [
+      {
+        "en": "I can use 'buy' in my answer.",
+        "zh": "我可以在答案里用“买”。"
+      },
+      {
+        "en": "'buy' is important in this lesson.",
+        "zh": "“买”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_079",
     "lemma": "word problem",
     "zh": "应用题",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: word problem.",
+    "examples": [
+      {
+        "en": "We use the phrase 'word problem' in a question.",
+        "zh": "我们在问题里会用到短语“应用题”。"
+      },
+      {
+        "en": "Say it clearly: word problem.",
+        "zh": "把它说清楚：应用题。"
+      }
+    ]
   },
   {
     "id": "p2_m_080",
     "lemma": "model",
     "zh": "模型图",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: model.",
+    "examples": [
+      {
+        "en": "I can use 'model' in my answer.",
+        "zh": "我可以在答案里用“模型图”。"
+      },
+      {
+        "en": "'model' is important in this lesson.",
+        "zh": "“模型图”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_081",
     "lemma": "draw",
     "zh": "画图",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: draw.",
+    "examples": [
+      {
+        "en": "I can use 'draw' in my answer.",
+        "zh": "我可以在答案里用“画图”。"
+      },
+      {
+        "en": "'draw' is important in this lesson.",
+        "zh": "“画图”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_082",
     "lemma": "strategy",
     "zh": "策略",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: strategy.",
+    "examples": [
+      {
+        "en": "I can use 'strategy' in my answer.",
+        "zh": "我可以在答案里用“策略”。"
+      },
+      {
+        "en": "'strategy' is important in this lesson.",
+        "zh": "“策略”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_083",
     "lemma": "check",
     "zh": "检查",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: check.",
+    "examples": [
+      {
+        "en": "I can use 'check' in my answer.",
+        "zh": "我可以在答案里用“检查”。"
+      },
+      {
+        "en": "'check' is important in this lesson.",
+        "zh": "“检查”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_084",
     "lemma": "answer",
     "zh": "答案",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: answer.",
+    "examples": [
+      {
+        "en": "I can use 'answer' in my answer.",
+        "zh": "我可以在答案里用“答案”。"
+      },
+      {
+        "en": "'answer' is important in this lesson.",
+        "zh": "“答案”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_085",
     "lemma": "working",
     "zh": "过程",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: working.",
+    "examples": [
+      {
+        "en": "I can use 'working' in my answer.",
+        "zh": "我可以在答案里用“过程”。"
+      },
+      {
+        "en": "'working' is important in this lesson.",
+        "zh": "“过程”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_086",
     "lemma": "step",
     "zh": "步骤",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: step.",
+    "examples": [
+      {
+        "en": "I can use 'step' in my answer.",
+        "zh": "我可以在答案里用“步骤”。"
+      },
+      {
+        "en": "'step' is important in this lesson.",
+        "zh": "“步骤”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_087",
     "lemma": "reason",
     "zh": "理由",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: reason.",
+    "examples": [
+      {
+        "en": "I can use 'reason' in my answer.",
+        "zh": "我可以在答案里用“理由”。"
+      },
+      {
+        "en": "'reason' is important in this lesson.",
+        "zh": "“理由”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_088",
     "lemma": "add",
     "zh": "相加",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: add.",
+    "examples": [
+      {
+        "en": "I can use 'add' in my answer.",
+        "zh": "我可以在答案里用“相加”。"
+      },
+      {
+        "en": "'add' is important in this lesson.",
+        "zh": "“相加”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_089",
     "lemma": "subtract",
     "zh": "相减",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: subtract.",
+    "examples": [
+      {
+        "en": "I can use 'subtract' in my answer.",
+        "zh": "我可以在答案里用“相减”。"
+      },
+      {
+        "en": "'subtract' is important in this lesson.",
+        "zh": "“相减”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_090",
     "lemma": "multiply",
     "zh": "相乘",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: multiply.",
+    "examples": [
+      {
+        "en": "I can use 'multiply' in my answer.",
+        "zh": "我可以在答案里用“相乘”。"
+      },
+      {
+        "en": "'multiply' is important in this lesson.",
+        "zh": "“相乘”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_091",
     "lemma": "divide",
     "zh": "相除",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: divide.",
+    "examples": [
+      {
+        "en": "I can use 'divide' in my answer.",
+        "zh": "我可以在答案里用“相除”。"
+      },
+      {
+        "en": "'divide' is important in this lesson.",
+        "zh": "“相除”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_092",
     "lemma": "equal",
     "zh": "相等",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: equal.",
+    "examples": [
+      {
+        "en": "I can use 'equal' in my answer.",
+        "zh": "我可以在答案里用“相等”。"
+      },
+      {
+        "en": "'equal' is important in this lesson.",
+        "zh": "“相等”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_093",
     "lemma": "compare",
     "zh": "比较",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: compare.",
+    "examples": [
+      {
+        "en": "I can use 'compare' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'compare' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_094",
     "lemma": "difference",
     "zh": "差",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: difference.",
+    "examples": [
+      {
+        "en": "I can use 'difference' in my answer.",
+        "zh": "我可以在答案里用“差”。"
+      },
+      {
+        "en": "'difference' is important in this lesson.",
+        "zh": "“差”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_095",
     "lemma": "total",
     "zh": "总数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: total.",
+    "examples": [
+      {
+        "en": "I can use 'total' in my answer.",
+        "zh": "我可以在答案里用“总数”。"
+      },
+      {
+        "en": "'total' is important in this lesson.",
+        "zh": "“总数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_096",
     "lemma": "sum",
     "zh": "总和",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: sum.",
+    "examples": [
+      {
+        "en": "I can use 'sum' in my answer.",
+        "zh": "我可以在答案里用“总和”。"
+      },
+      {
+        "en": "'sum' is important in this lesson.",
+        "zh": "“总和”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_097",
     "lemma": "product",
     "zh": "乘积",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: product.",
+    "examples": [
+      {
+        "en": "I can use 'product' in my answer.",
+        "zh": "我可以在答案里用“乘积”。"
+      },
+      {
+        "en": "'product' is important in this lesson.",
+        "zh": "“乘积”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_098",
     "lemma": "quotient",
     "zh": "商",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: quotient.",
+    "examples": [
+      {
+        "en": "I can use 'quotient' in my answer.",
+        "zh": "我可以在答案里用“商”。"
+      },
+      {
+        "en": "'quotient' is important in this lesson.",
+        "zh": "“商”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_099",
     "lemma": "remainder",
     "zh": "余数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: remainder.",
+    "examples": [
+      {
+        "en": "I can use 'remainder' in my answer.",
+        "zh": "我可以在答案里用“余数”。"
+      },
+      {
+        "en": "'remainder' is important in this lesson.",
+        "zh": "“余数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_100",
     "lemma": "estimate",
     "zh": "估算",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: estimate.",
+    "examples": [
+      {
+        "en": "I can use 'estimate' in my answer.",
+        "zh": "我可以在答案里用“估算”。"
+      },
+      {
+        "en": "'estimate' is important in this lesson.",
+        "zh": "“估算”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_101",
     "lemma": "round",
     "zh": "四舍五入",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: round.",
+    "examples": [
+      {
+        "en": "I can use 'round' in my answer.",
+        "zh": "我可以在答案里用“四舍五入”。"
+      },
+      {
+        "en": "'round' is important in this lesson.",
+        "zh": "“四舍五入”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_102",
     "lemma": "nearest",
     "zh": "最接近的",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: nearest.",
+    "examples": [
+      {
+        "en": "I can use 'nearest' in my answer.",
+        "zh": "我可以在答案里用“最接近的”。"
+      },
+      {
+        "en": "'nearest' is important in this lesson.",
+        "zh": "“最接近的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_103",
     "lemma": "place-value",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: place-value.",
+    "examples": [
+      {
+        "en": "I can use 'place-value' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'place-value' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_104",
     "lemma": "digit",
     "zh": "数字",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: digit.",
+    "examples": [
+      {
+        "en": "I can use 'digit' in my answer.",
+        "zh": "我可以在答案里用“数字”。"
+      },
+      {
+        "en": "'digit' is important in this lesson.",
+        "zh": "“数字”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_105",
     "lemma": "hundreds",
     "zh": "百位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: hundreds.",
+    "examples": [
+      {
+        "en": "I can use 'hundreds' in my answer.",
+        "zh": "我可以在答案里用“百位”。"
+      },
+      {
+        "en": "'hundreds' is important in this lesson.",
+        "zh": "“百位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_106",
     "lemma": "thousands",
     "zh": "千位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: thousands.",
+    "examples": [
+      {
+        "en": "I can use 'thousands' in my answer.",
+        "zh": "我可以在答案里用“千位”。"
+      },
+      {
+        "en": "'thousands' is important in this lesson.",
+        "zh": "“千位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_107",
     "lemma": "tens",
     "zh": "十位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: tens.",
+    "examples": [
+      {
+        "en": "I can use 'tens' in my answer.",
+        "zh": "我可以在答案里用“十位”。"
+      },
+      {
+        "en": "'tens' is important in this lesson.",
+        "zh": "“十位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_108",
     "lemma": "ones",
     "zh": "个位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: ones.",
+    "examples": [
+      {
+        "en": "I can use 'ones' in my answer.",
+        "zh": "我可以在答案里用“个位”。"
+      },
+      {
+        "en": "'ones' is important in this lesson.",
+        "zh": "“个位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_109",
     "lemma": "fraction",
     "zh": "分数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: fraction.",
+    "examples": [
+      {
+        "en": "I can use 'fraction' in my answer.",
+        "zh": "我可以在答案里用“分数”。"
+      },
+      {
+        "en": "'fraction' is important in this lesson.",
+        "zh": "“分数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_110",
     "lemma": "numerator",
     "zh": "分子",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: numerator.",
+    "examples": [
+      {
+        "en": "I can use 'numerator' in my answer.",
+        "zh": "我可以在答案里用“分子”。"
+      },
+      {
+        "en": "'numerator' is important in this lesson.",
+        "zh": "“分子”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_111",
     "lemma": "denominator",
     "zh": "分母",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: denominator.",
+    "examples": [
+      {
+        "en": "I can use 'denominator' in my answer.",
+        "zh": "我可以在答案里用“分母”。"
+      },
+      {
+        "en": "'denominator' is important in this lesson.",
+        "zh": "“分母”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_112",
     "lemma": "decimal",
     "zh": "小数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: decimal.",
+    "examples": [
+      {
+        "en": "I can use 'decimal' in my answer.",
+        "zh": "我可以在答案里用“小数”。"
+      },
+      {
+        "en": "'decimal' is important in this lesson.",
+        "zh": "“小数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_113",
     "lemma": "tenths",
     "zh": "十分位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: tenths.",
+    "examples": [
+      {
+        "en": "I can use 'tenths' in my answer.",
+        "zh": "我可以在答案里用“十分位”。"
+      },
+      {
+        "en": "'tenths' is important in this lesson.",
+        "zh": "“十分位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_114",
     "lemma": "hundredths",
     "zh": "百分位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: hundredths.",
+    "examples": [
+      {
+        "en": "I can use 'hundredths' in my answer.",
+        "zh": "我可以在答案里用“百分位”。"
+      },
+      {
+        "en": "'hundredths' is important in this lesson.",
+        "zh": "“百分位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_115",
     "lemma": "unit",
     "zh": "单位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: unit.",
+    "examples": [
+      {
+        "en": "I can use 'unit' in my answer.",
+        "zh": "我可以在答案里用“单位”。"
+      },
+      {
+        "en": "'unit' is important in this lesson.",
+        "zh": "“单位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_116",
     "lemma": "metre",
     "zh": "米",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: metre.",
+    "examples": [
+      {
+        "en": "I can use 'metre' in my answer.",
+        "zh": "我可以在答案里用“米”。"
+      },
+      {
+        "en": "'metre' is important in this lesson.",
+        "zh": "“米”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_117",
     "lemma": "centimetre",
     "zh": "厘米",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: centimetre.",
+    "examples": [
+      {
+        "en": "I can use 'centimetre' in my answer.",
+        "zh": "我可以在答案里用“厘米”。"
+      },
+      {
+        "en": "'centimetre' is important in this lesson.",
+        "zh": "“厘米”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_118",
     "lemma": "kilometre",
     "zh": "公里",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: kilometre.",
+    "examples": [
+      {
+        "en": "I can use 'kilometre' in my answer.",
+        "zh": "我可以在答案里用“公里”。"
+      },
+      {
+        "en": "'kilometre' is important in this lesson.",
+        "zh": "“公里”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_119",
     "lemma": "millimetre",
     "zh": "毫米",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: millimetre.",
+    "examples": [
+      {
+        "en": "I can use 'millimetre' in my answer.",
+        "zh": "我可以在答案里用“毫米”。"
+      },
+      {
+        "en": "'millimetre' is important in this lesson.",
+        "zh": "“毫米”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_120",
     "lemma": "gram",
     "zh": "克",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: gram.",
+    "examples": [
+      {
+        "en": "I can use 'gram' in my answer.",
+        "zh": "我可以在答案里用“克”。"
+      },
+      {
+        "en": "'gram' is important in this lesson.",
+        "zh": "“克”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_121",
     "lemma": "kilogram",
     "zh": "千克",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: kilogram.",
+    "examples": [
+      {
+        "en": "I can use 'kilogram' in my answer.",
+        "zh": "我可以在答案里用“千克”。"
+      },
+      {
+        "en": "'kilogram' is important in this lesson.",
+        "zh": "“千克”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_122",
     "lemma": "litre",
     "zh": "升",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: litre.",
+    "examples": [
+      {
+        "en": "I can use 'litre' in my answer.",
+        "zh": "我可以在答案里用“升”。"
+      },
+      {
+        "en": "'litre' is important in this lesson.",
+        "zh": "“升”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_123",
     "lemma": "millilitre",
     "zh": "毫升",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: millilitre.",
+    "examples": [
+      {
+        "en": "I can use 'millilitre' in my answer.",
+        "zh": "我可以在答案里用“毫升”。"
+      },
+      {
+        "en": "'millilitre' is important in this lesson.",
+        "zh": "“毫升”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_124",
     "lemma": "perimeter",
     "zh": "周长",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: perimeter.",
+    "examples": [
+      {
+        "en": "I can use 'perimeter' in my answer.",
+        "zh": "我可以在答案里用“周长”。"
+      },
+      {
+        "en": "'perimeter' is important in this lesson.",
+        "zh": "“周长”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_125",
     "lemma": "area",
     "zh": "面积",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: area.",
+    "examples": [
+      {
+        "en": "I can use 'area' in my answer.",
+        "zh": "我可以在答案里用“面积”。"
+      },
+      {
+        "en": "'area' is important in this lesson.",
+        "zh": "“面积”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_126",
     "lemma": "rectangle",
     "zh": "长方形",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: rectangle.",
+    "examples": [
+      {
+        "en": "I can use 'rectangle' in my answer.",
+        "zh": "我可以在答案里用“长方形”。"
+      },
+      {
+        "en": "'rectangle' is important in this lesson.",
+        "zh": "“长方形”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_127",
     "lemma": "square",
     "zh": "正方形",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: square.",
+    "examples": [
+      {
+        "en": "I can use 'square' in my answer.",
+        "zh": "我可以在答案里用“正方形”。"
+      },
+      {
+        "en": "'square' is important in this lesson.",
+        "zh": "“正方形”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_128",
     "lemma": "triangle",
     "zh": "三角形",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: triangle.",
+    "examples": [
+      {
+        "en": "I can use 'triangle' in my answer.",
+        "zh": "我可以在答案里用“三角形”。"
+      },
+      {
+        "en": "'triangle' is important in this lesson.",
+        "zh": "“三角形”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_129",
     "lemma": "circle",
     "zh": "圆",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: circle.",
+    "examples": [
+      {
+        "en": "I can use 'circle' in my answer.",
+        "zh": "我可以在答案里用“圆”。"
+      },
+      {
+        "en": "'circle' is important in this lesson.",
+        "zh": "“圆”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_130",
     "lemma": "radius",
     "zh": "半径",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: radius.",
+    "examples": [
+      {
+        "en": "I can use 'radius' in my answer.",
+        "zh": "我可以在答案里用“半径”。"
+      },
+      {
+        "en": "'radius' is important in this lesson.",
+        "zh": "“半径”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_131",
     "lemma": "diameter",
     "zh": "直径",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: diameter.",
+    "examples": [
+      {
+        "en": "I can use 'diameter' in my answer.",
+        "zh": "我可以在答案里用“直径”。"
+      },
+      {
+        "en": "'diameter' is important in this lesson.",
+        "zh": "“直径”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_132",
     "lemma": "length",
     "zh": "长度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: length.",
+    "examples": [
+      {
+        "en": "I can use 'length' in my answer.",
+        "zh": "我可以在答案里用“长度”。"
+      },
+      {
+        "en": "'length' is important in this lesson.",
+        "zh": "“长度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_133",
     "lemma": "width",
     "zh": "宽度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: width.",
+    "examples": [
+      {
+        "en": "I can use 'width' in my answer.",
+        "zh": "我可以在答案里用“宽度”。"
+      },
+      {
+        "en": "'width' is important in this lesson.",
+        "zh": "“宽度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_134",
     "lemma": "height",
     "zh": "高度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: height.",
+    "examples": [
+      {
+        "en": "I can use 'height' in my answer.",
+        "zh": "我可以在答案里用“高度”。"
+      },
+      {
+        "en": "'height' is important in this lesson.",
+        "zh": "“高度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_135",
     "lemma": "volume",
     "zh": "体积",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: volume.",
+    "examples": [
+      {
+        "en": "I can use 'volume' in my answer.",
+        "zh": "我可以在答案里用“体积”。"
+      },
+      {
+        "en": "'volume' is important in this lesson.",
+        "zh": "“体积”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_136",
     "lemma": "mass",
     "zh": "质量",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: mass.",
+    "examples": [
+      {
+        "en": "I can use 'mass' in my answer.",
+        "zh": "我可以在答案里用“质量”。"
+      },
+      {
+        "en": "'mass' is important in this lesson.",
+        "zh": "“质量”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_137",
     "lemma": "time",
     "zh": "时间",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: time.",
+    "examples": [
+      {
+        "en": "I can use 'time' in my answer.",
+        "zh": "我可以在答案里用“时间”。"
+      },
+      {
+        "en": "'time' is important in this lesson.",
+        "zh": "“时间”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_138",
     "lemma": "minute",
     "zh": "分钟",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: minute.",
+    "examples": [
+      {
+        "en": "I can use 'minute' in my answer.",
+        "zh": "我可以在答案里用“分钟”。"
+      },
+      {
+        "en": "'minute' is important in this lesson.",
+        "zh": "“分钟”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_139",
     "lemma": "hour",
     "zh": "小时",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: hour.",
+    "examples": [
+      {
+        "en": "I can use 'hour' in my answer.",
+        "zh": "我可以在答案里用“小时”。"
+      },
+      {
+        "en": "'hour' is important in this lesson.",
+        "zh": "“小时”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_140",
     "lemma": "day",
     "zh": "天",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: day.",
+    "examples": [
+      {
+        "en": "I can use 'day' in my answer.",
+        "zh": "我可以在答案里用“天”。"
+      },
+      {
+        "en": "'day' is important in this lesson.",
+        "zh": "“天”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_141",
     "lemma": "week",
     "zh": "周",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: week.",
+    "examples": [
+      {
+        "en": "I can use 'week' in my answer.",
+        "zh": "我可以在答案里用“周”。"
+      },
+      {
+        "en": "'week' is important in this lesson.",
+        "zh": "“周”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_142",
     "lemma": "month",
     "zh": "月",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: month.",
+    "examples": [
+      {
+        "en": "I can use 'month' in my answer.",
+        "zh": "我可以在答案里用“月”。"
+      },
+      {
+        "en": "'month' is important in this lesson.",
+        "zh": "“月”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_143",
     "lemma": "year",
     "zh": "年",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: year.",
+    "examples": [
+      {
+        "en": "I can use 'year' in my answer.",
+        "zh": "我可以在答案里用“年”。"
+      },
+      {
+        "en": "'year' is important in this lesson.",
+        "zh": "“年”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_144",
     "lemma": "calendar",
     "zh": "日历",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: calendar.",
+    "examples": [
+      {
+        "en": "I can use 'calendar' in my answer.",
+        "zh": "我可以在答案里用“日历”。"
+      },
+      {
+        "en": "'calendar' is important in this lesson.",
+        "zh": "“日历”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_145",
     "lemma": "temperature",
     "zh": "温度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: temperature.",
+    "examples": [
+      {
+        "en": "I can use 'temperature' in my answer.",
+        "zh": "我可以在答案里用“温度”。"
+      },
+      {
+        "en": "'temperature' is important in this lesson.",
+        "zh": "“温度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_146",
     "lemma": "data",
     "zh": "数据",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: data.",
+    "examples": [
+      {
+        "en": "I can use 'data' in my answer.",
+        "zh": "我可以在答案里用“数据”。"
+      },
+      {
+        "en": "'data' is important in this lesson.",
+        "zh": "“数据”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_147",
     "lemma": "table",
     "zh": "表格",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: table.",
+    "examples": [
+      {
+        "en": "I can use 'table' in my answer.",
+        "zh": "我可以在答案里用“表格”。"
+      },
+      {
+        "en": "'table' is important in this lesson.",
+        "zh": "“表格”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_148",
     "lemma": "chart",
     "zh": "图表",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: chart.",
+    "examples": [
+      {
+        "en": "I can use 'chart' in my answer.",
+        "zh": "我可以在答案里用“图表”。"
+      },
+      {
+        "en": "'chart' is important in this lesson.",
+        "zh": "“图表”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_149",
     "lemma": "bar-graph",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: bar-graph.",
+    "examples": [
+      {
+        "en": "I can use 'bar-graph' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'bar-graph' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_150",
     "lemma": "pictograph",
     "zh": "象形图",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: pictograph.",
+    "examples": [
+      {
+        "en": "I can use 'pictograph' in my answer.",
+        "zh": "我可以在答案里用“象形图”。"
+      },
+      {
+        "en": "'pictograph' is important in this lesson.",
+        "zh": "“象形图”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_151",
     "lemma": "pattern",
     "zh": "规律",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: pattern.",
+    "examples": [
+      {
+        "en": "I can use 'pattern' in my answer.",
+        "zh": "我可以在答案里用“规律”。"
+      },
+      {
+        "en": "'pattern' is important in this lesson.",
+        "zh": "“规律”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_152",
     "lemma": "odd",
     "zh": "奇数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: odd.",
+    "examples": [
+      {
+        "en": "I can use 'odd' in my answer.",
+        "zh": "我可以在答案里用“奇数”。"
+      },
+      {
+        "en": "'odd' is important in this lesson.",
+        "zh": "“奇数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_153",
     "lemma": "even",
     "zh": "偶数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: even.",
+    "examples": [
+      {
+        "en": "I can use 'even' in my answer.",
+        "zh": "我可以在答案里用“偶数”。"
+      },
+      {
+        "en": "'even' is important in this lesson.",
+        "zh": "“偶数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_154",
     "lemma": "multiple",
     "zh": "倍数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: multiple.",
+    "examples": [
+      {
+        "en": "I can use 'multiple' in my answer.",
+        "zh": "我可以在答案里用“倍数”。"
+      },
+      {
+        "en": "'multiple' is important in this lesson.",
+        "zh": "“倍数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_155",
     "lemma": "factor",
     "zh": "因数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: factor.",
+    "examples": [
+      {
+        "en": "I can use 'factor' in my answer.",
+        "zh": "我可以在答案里用“因数”。"
+      },
+      {
+        "en": "'factor' is important in this lesson.",
+        "zh": "“因数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_156",
     "lemma": "prime",
     "zh": "质数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: prime.",
+    "examples": [
+      {
+        "en": "I can use 'prime' in my answer.",
+        "zh": "我可以在答案里用“质数”。"
+      },
+      {
+        "en": "'prime' is important in this lesson.",
+        "zh": "“质数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_157",
     "lemma": "composite",
     "zh": "合数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: composite.",
+    "examples": [
+      {
+        "en": "I can use 'composite' in my answer.",
+        "zh": "我可以在答案里用“合数”。"
+      },
+      {
+        "en": "'composite' is important in this lesson.",
+        "zh": "“合数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_158",
     "lemma": "money",
     "zh": "钱",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: money.",
+    "examples": [
+      {
+        "en": "I can use 'money' in my answer.",
+        "zh": "我可以在答案里用“钱”。"
+      },
+      {
+        "en": "'money' is important in this lesson.",
+        "zh": "“钱”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_159",
     "lemma": "coin",
     "zh": "硬币",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: coin.",
+    "examples": [
+      {
+        "en": "I can use 'coin' in my answer.",
+        "zh": "我可以在答案里用“硬币”。"
+      },
+      {
+        "en": "'coin' is important in this lesson.",
+        "zh": "“硬币”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_160",
     "lemma": "note",
     "zh": "纸币",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: note.",
+    "examples": [
+      {
+        "en": "I can use 'note' in my answer.",
+        "zh": "我可以在答案里用“纸币”。"
+      },
+      {
+        "en": "'note' is important in this lesson.",
+        "zh": "“纸币”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_161",
     "lemma": "change",
     "zh": "找零",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: change.",
+    "examples": [
+      {
+        "en": "I can use 'change' in my answer.",
+        "zh": "我可以在答案里用“找零”。"
+      },
+      {
+        "en": "'change' is important in this lesson.",
+        "zh": "“找零”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_162",
     "lemma": "price",
     "zh": "价格",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: price.",
+    "examples": [
+      {
+        "en": "I can use 'price' in my answer.",
+        "zh": "我可以在答案里用“价格”。"
+      },
+      {
+        "en": "'price' is important in this lesson.",
+        "zh": "“价格”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_163",
     "lemma": "cost",
     "zh": "花费",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: cost.",
+    "examples": [
+      {
+        "en": "I can use 'cost' in my answer.",
+        "zh": "我可以在答案里用“花费”。"
+      },
+      {
+        "en": "'cost' is important in this lesson.",
+        "zh": "“花费”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_164",
     "lemma": "sell",
     "zh": "卖",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: sell.",
+    "examples": [
+      {
+        "en": "I can use 'sell' in my answer.",
+        "zh": "我可以在答案里用“卖”。"
+      },
+      {
+        "en": "'sell' is important in this lesson.",
+        "zh": "“卖”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_165",
     "lemma": "buy",
     "zh": "买",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: buy.",
+    "examples": [
+      {
+        "en": "I can use 'buy' in my answer.",
+        "zh": "我可以在答案里用“买”。"
+      },
+      {
+        "en": "'buy' is important in this lesson.",
+        "zh": "“买”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_166",
     "lemma": "word-problem",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: word-problem.",
+    "examples": [
+      {
+        "en": "I can use 'word-problem' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'word-problem' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_167",
     "lemma": "model",
     "zh": "模型图",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: model.",
+    "examples": [
+      {
+        "en": "I can use 'model' in my answer.",
+        "zh": "我可以在答案里用“模型图”。"
+      },
+      {
+        "en": "'model' is important in this lesson.",
+        "zh": "“模型图”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_168",
     "lemma": "draw",
     "zh": "画图",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: draw.",
+    "examples": [
+      {
+        "en": "I can use 'draw' in my answer.",
+        "zh": "我可以在答案里用“画图”。"
+      },
+      {
+        "en": "'draw' is important in this lesson.",
+        "zh": "“画图”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_169",
     "lemma": "strategy",
     "zh": "策略",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: strategy.",
+    "examples": [
+      {
+        "en": "I can use 'strategy' in my answer.",
+        "zh": "我可以在答案里用“策略”。"
+      },
+      {
+        "en": "'strategy' is important in this lesson.",
+        "zh": "“策略”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_170",
     "lemma": "check",
     "zh": "检查",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: check.",
+    "examples": [
+      {
+        "en": "I can use 'check' in my answer.",
+        "zh": "我可以在答案里用“检查”。"
+      },
+      {
+        "en": "'check' is important in this lesson.",
+        "zh": "“检查”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_171",
     "lemma": "answer",
     "zh": "答案",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: answer.",
+    "examples": [
+      {
+        "en": "I can use 'answer' in my answer.",
+        "zh": "我可以在答案里用“答案”。"
+      },
+      {
+        "en": "'answer' is important in this lesson.",
+        "zh": "“答案”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_172",
     "lemma": "working",
     "zh": "过程",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: working.",
+    "examples": [
+      {
+        "en": "I can use 'working' in my answer.",
+        "zh": "我可以在答案里用“过程”。"
+      },
+      {
+        "en": "'working' is important in this lesson.",
+        "zh": "“过程”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_173",
     "lemma": "step",
     "zh": "步骤",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: step.",
+    "examples": [
+      {
+        "en": "I can use 'step' in my answer.",
+        "zh": "我可以在答案里用“步骤”。"
+      },
+      {
+        "en": "'step' is important in this lesson.",
+        "zh": "“步骤”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_174",
     "lemma": "reason",
     "zh": "理由",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: reason.",
+    "examples": [
+      {
+        "en": "I can use 'reason' in my answer.",
+        "zh": "我可以在答案里用“理由”。"
+      },
+      {
+        "en": "'reason' is important in this lesson.",
+        "zh": "“理由”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_175",
     "lemma": "add",
     "zh": "相加",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: add.",
+    "examples": [
+      {
+        "en": "I can use 'add' in my answer.",
+        "zh": "我可以在答案里用“相加”。"
+      },
+      {
+        "en": "'add' is important in this lesson.",
+        "zh": "“相加”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_176",
     "lemma": "subtract",
     "zh": "相减",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: subtract.",
+    "examples": [
+      {
+        "en": "I can use 'subtract' in my answer.",
+        "zh": "我可以在答案里用“相减”。"
+      },
+      {
+        "en": "'subtract' is important in this lesson.",
+        "zh": "“相减”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_177",
     "lemma": "multiply",
     "zh": "相乘",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: multiply.",
+    "examples": [
+      {
+        "en": "I can use 'multiply' in my answer.",
+        "zh": "我可以在答案里用“相乘”。"
+      },
+      {
+        "en": "'multiply' is important in this lesson.",
+        "zh": "“相乘”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_178",
     "lemma": "divide",
     "zh": "相除",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: divide.",
+    "examples": [
+      {
+        "en": "I can use 'divide' in my answer.",
+        "zh": "我可以在答案里用“相除”。"
+      },
+      {
+        "en": "'divide' is important in this lesson.",
+        "zh": "“相除”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_179",
     "lemma": "equal",
     "zh": "相等",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: equal.",
+    "examples": [
+      {
+        "en": "I can use 'equal' in my answer.",
+        "zh": "我可以在答案里用“相等”。"
+      },
+      {
+        "en": "'equal' is important in this lesson.",
+        "zh": "“相等”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_180",
     "lemma": "compare",
     "zh": "比较",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: compare.",
+    "examples": [
+      {
+        "en": "I can use 'compare' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'compare' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_181",
     "lemma": "difference",
     "zh": "差",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: difference.",
+    "examples": [
+      {
+        "en": "I can use 'difference' in my answer.",
+        "zh": "我可以在答案里用“差”。"
+      },
+      {
+        "en": "'difference' is important in this lesson.",
+        "zh": "“差”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_182",
     "lemma": "total",
     "zh": "总数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: total.",
+    "examples": [
+      {
+        "en": "I can use 'total' in my answer.",
+        "zh": "我可以在答案里用“总数”。"
+      },
+      {
+        "en": "'total' is important in this lesson.",
+        "zh": "“总数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_183",
     "lemma": "sum",
     "zh": "总和",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: sum.",
+    "examples": [
+      {
+        "en": "I can use 'sum' in my answer.",
+        "zh": "我可以在答案里用“总和”。"
+      },
+      {
+        "en": "'sum' is important in this lesson.",
+        "zh": "“总和”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_184",
     "lemma": "product",
     "zh": "乘积",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: product.",
+    "examples": [
+      {
+        "en": "I can use 'product' in my answer.",
+        "zh": "我可以在答案里用“乘积”。"
+      },
+      {
+        "en": "'product' is important in this lesson.",
+        "zh": "“乘积”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_185",
     "lemma": "quotient",
     "zh": "商",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: quotient.",
+    "examples": [
+      {
+        "en": "I can use 'quotient' in my answer.",
+        "zh": "我可以在答案里用“商”。"
+      },
+      {
+        "en": "'quotient' is important in this lesson.",
+        "zh": "“商”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_186",
     "lemma": "remainder",
     "zh": "余数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: remainder.",
+    "examples": [
+      {
+        "en": "I can use 'remainder' in my answer.",
+        "zh": "我可以在答案里用“余数”。"
+      },
+      {
+        "en": "'remainder' is important in this lesson.",
+        "zh": "“余数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_187",
     "lemma": "estimate",
     "zh": "估算",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: estimate.",
+    "examples": [
+      {
+        "en": "I can use 'estimate' in my answer.",
+        "zh": "我可以在答案里用“估算”。"
+      },
+      {
+        "en": "'estimate' is important in this lesson.",
+        "zh": "“估算”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_188",
     "lemma": "round",
     "zh": "四舍五入",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: round.",
+    "examples": [
+      {
+        "en": "I can use 'round' in my answer.",
+        "zh": "我可以在答案里用“四舍五入”。"
+      },
+      {
+        "en": "'round' is important in this lesson.",
+        "zh": "“四舍五入”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_189",
     "lemma": "nearest",
     "zh": "最接近的",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: nearest.",
+    "examples": [
+      {
+        "en": "I can use 'nearest' in my answer.",
+        "zh": "我可以在答案里用“最接近的”。"
+      },
+      {
+        "en": "'nearest' is important in this lesson.",
+        "zh": "“最接近的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_190",
     "lemma": "place-value",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: place-value.",
+    "examples": [
+      {
+        "en": "I can use 'place-value' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'place-value' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_191",
     "lemma": "digit",
     "zh": "数字",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: digit.",
+    "examples": [
+      {
+        "en": "I can use 'digit' in my answer.",
+        "zh": "我可以在答案里用“数字”。"
+      },
+      {
+        "en": "'digit' is important in this lesson.",
+        "zh": "“数字”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_192",
     "lemma": "hundreds",
     "zh": "百位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: hundreds.",
+    "examples": [
+      {
+        "en": "I can use 'hundreds' in my answer.",
+        "zh": "我可以在答案里用“百位”。"
+      },
+      {
+        "en": "'hundreds' is important in this lesson.",
+        "zh": "“百位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_193",
     "lemma": "thousands",
     "zh": "千位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: thousands.",
+    "examples": [
+      {
+        "en": "I can use 'thousands' in my answer.",
+        "zh": "我可以在答案里用“千位”。"
+      },
+      {
+        "en": "'thousands' is important in this lesson.",
+        "zh": "“千位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_194",
     "lemma": "tens",
     "zh": "十位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: tens.",
+    "examples": [
+      {
+        "en": "I can use 'tens' in my answer.",
+        "zh": "我可以在答案里用“十位”。"
+      },
+      {
+        "en": "'tens' is important in this lesson.",
+        "zh": "“十位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_195",
     "lemma": "ones",
     "zh": "个位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: ones.",
+    "examples": [
+      {
+        "en": "I can use 'ones' in my answer.",
+        "zh": "我可以在答案里用“个位”。"
+      },
+      {
+        "en": "'ones' is important in this lesson.",
+        "zh": "“个位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_196",
     "lemma": "fraction",
     "zh": "分数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: fraction.",
+    "examples": [
+      {
+        "en": "I can use 'fraction' in my answer.",
+        "zh": "我可以在答案里用“分数”。"
+      },
+      {
+        "en": "'fraction' is important in this lesson.",
+        "zh": "“分数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_197",
     "lemma": "numerator",
     "zh": "分子",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: numerator.",
+    "examples": [
+      {
+        "en": "I can use 'numerator' in my answer.",
+        "zh": "我可以在答案里用“分子”。"
+      },
+      {
+        "en": "'numerator' is important in this lesson.",
+        "zh": "“分子”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_198",
     "lemma": "denominator",
     "zh": "分母",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: denominator.",
+    "examples": [
+      {
+        "en": "I can use 'denominator' in my answer.",
+        "zh": "我可以在答案里用“分母”。"
+      },
+      {
+        "en": "'denominator' is important in this lesson.",
+        "zh": "“分母”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_199",
     "lemma": "decimal",
     "zh": "小数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: decimal.",
+    "examples": [
+      {
+        "en": "I can use 'decimal' in my answer.",
+        "zh": "我可以在答案里用“小数”。"
+      },
+      {
+        "en": "'decimal' is important in this lesson.",
+        "zh": "“小数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_200",
     "lemma": "tenths",
     "zh": "十分位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: tenths.",
+    "examples": [
+      {
+        "en": "I can use 'tenths' in my answer.",
+        "zh": "我可以在答案里用“十分位”。"
+      },
+      {
+        "en": "'tenths' is important in this lesson.",
+        "zh": "“十分位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_201",
     "lemma": "hundredths",
     "zh": "百分位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: hundredths.",
+    "examples": [
+      {
+        "en": "I can use 'hundredths' in my answer.",
+        "zh": "我可以在答案里用“百分位”。"
+      },
+      {
+        "en": "'hundredths' is important in this lesson.",
+        "zh": "“百分位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_202",
     "lemma": "unit",
     "zh": "单位",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: unit.",
+    "examples": [
+      {
+        "en": "I can use 'unit' in my answer.",
+        "zh": "我可以在答案里用“单位”。"
+      },
+      {
+        "en": "'unit' is important in this lesson.",
+        "zh": "“单位”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_203",
     "lemma": "metre",
     "zh": "米",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: metre.",
+    "examples": [
+      {
+        "en": "I can use 'metre' in my answer.",
+        "zh": "我可以在答案里用“米”。"
+      },
+      {
+        "en": "'metre' is important in this lesson.",
+        "zh": "“米”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_204",
     "lemma": "centimetre",
     "zh": "厘米",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: centimetre.",
+    "examples": [
+      {
+        "en": "I can use 'centimetre' in my answer.",
+        "zh": "我可以在答案里用“厘米”。"
+      },
+      {
+        "en": "'centimetre' is important in this lesson.",
+        "zh": "“厘米”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_205",
     "lemma": "kilometre",
     "zh": "公里",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: kilometre.",
+    "examples": [
+      {
+        "en": "I can use 'kilometre' in my answer.",
+        "zh": "我可以在答案里用“公里”。"
+      },
+      {
+        "en": "'kilometre' is important in this lesson.",
+        "zh": "“公里”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_206",
     "lemma": "millimetre",
     "zh": "毫米",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: millimetre.",
+    "examples": [
+      {
+        "en": "I can use 'millimetre' in my answer.",
+        "zh": "我可以在答案里用“毫米”。"
+      },
+      {
+        "en": "'millimetre' is important in this lesson.",
+        "zh": "“毫米”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_207",
     "lemma": "gram",
     "zh": "克",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: gram.",
+    "examples": [
+      {
+        "en": "I can use 'gram' in my answer.",
+        "zh": "我可以在答案里用“克”。"
+      },
+      {
+        "en": "'gram' is important in this lesson.",
+        "zh": "“克”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_208",
     "lemma": "kilogram",
     "zh": "千克",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: kilogram.",
+    "examples": [
+      {
+        "en": "I can use 'kilogram' in my answer.",
+        "zh": "我可以在答案里用“千克”。"
+      },
+      {
+        "en": "'kilogram' is important in this lesson.",
+        "zh": "“千克”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_209",
     "lemma": "litre",
     "zh": "升",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: litre.",
+    "examples": [
+      {
+        "en": "I can use 'litre' in my answer.",
+        "zh": "我可以在答案里用“升”。"
+      },
+      {
+        "en": "'litre' is important in this lesson.",
+        "zh": "“升”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_210",
     "lemma": "millilitre",
     "zh": "毫升",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: millilitre.",
+    "examples": [
+      {
+        "en": "I can use 'millilitre' in my answer.",
+        "zh": "我可以在答案里用“毫升”。"
+      },
+      {
+        "en": "'millilitre' is important in this lesson.",
+        "zh": "“毫升”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_211",
     "lemma": "perimeter",
     "zh": "周长",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: perimeter.",
+    "examples": [
+      {
+        "en": "I can use 'perimeter' in my answer.",
+        "zh": "我可以在答案里用“周长”。"
+      },
+      {
+        "en": "'perimeter' is important in this lesson.",
+        "zh": "“周长”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_212",
     "lemma": "area",
     "zh": "面积",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: area.",
+    "examples": [
+      {
+        "en": "I can use 'area' in my answer.",
+        "zh": "我可以在答案里用“面积”。"
+      },
+      {
+        "en": "'area' is important in this lesson.",
+        "zh": "“面积”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_213",
     "lemma": "rectangle",
     "zh": "长方形",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: rectangle.",
+    "examples": [
+      {
+        "en": "I can use 'rectangle' in my answer.",
+        "zh": "我可以在答案里用“长方形”。"
+      },
+      {
+        "en": "'rectangle' is important in this lesson.",
+        "zh": "“长方形”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_214",
     "lemma": "square",
     "zh": "正方形",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: square.",
+    "examples": [
+      {
+        "en": "I can use 'square' in my answer.",
+        "zh": "我可以在答案里用“正方形”。"
+      },
+      {
+        "en": "'square' is important in this lesson.",
+        "zh": "“正方形”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_215",
     "lemma": "triangle",
     "zh": "三角形",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: triangle.",
+    "examples": [
+      {
+        "en": "I can use 'triangle' in my answer.",
+        "zh": "我可以在答案里用“三角形”。"
+      },
+      {
+        "en": "'triangle' is important in this lesson.",
+        "zh": "“三角形”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_216",
     "lemma": "circle",
     "zh": "圆",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: circle.",
+    "examples": [
+      {
+        "en": "I can use 'circle' in my answer.",
+        "zh": "我可以在答案里用“圆”。"
+      },
+      {
+        "en": "'circle' is important in this lesson.",
+        "zh": "“圆”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_217",
     "lemma": "radius",
     "zh": "半径",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: radius.",
+    "examples": [
+      {
+        "en": "I can use 'radius' in my answer.",
+        "zh": "我可以在答案里用“半径”。"
+      },
+      {
+        "en": "'radius' is important in this lesson.",
+        "zh": "“半径”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_218",
     "lemma": "diameter",
     "zh": "直径",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: diameter.",
+    "examples": [
+      {
+        "en": "I can use 'diameter' in my answer.",
+        "zh": "我可以在答案里用“直径”。"
+      },
+      {
+        "en": "'diameter' is important in this lesson.",
+        "zh": "“直径”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_219",
     "lemma": "length",
     "zh": "长度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: length.",
+    "examples": [
+      {
+        "en": "I can use 'length' in my answer.",
+        "zh": "我可以在答案里用“长度”。"
+      },
+      {
+        "en": "'length' is important in this lesson.",
+        "zh": "“长度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_220",
     "lemma": "width",
     "zh": "宽度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: width.",
+    "examples": [
+      {
+        "en": "I can use 'width' in my answer.",
+        "zh": "我可以在答案里用“宽度”。"
+      },
+      {
+        "en": "'width' is important in this lesson.",
+        "zh": "“宽度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_221",
     "lemma": "height",
     "zh": "高度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: height.",
+    "examples": [
+      {
+        "en": "I can use 'height' in my answer.",
+        "zh": "我可以在答案里用“高度”。"
+      },
+      {
+        "en": "'height' is important in this lesson.",
+        "zh": "“高度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_222",
     "lemma": "volume",
     "zh": "体积",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: volume.",
+    "examples": [
+      {
+        "en": "I can use 'volume' in my answer.",
+        "zh": "我可以在答案里用“体积”。"
+      },
+      {
+        "en": "'volume' is important in this lesson.",
+        "zh": "“体积”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_223",
     "lemma": "mass",
     "zh": "质量",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: mass.",
+    "examples": [
+      {
+        "en": "I can use 'mass' in my answer.",
+        "zh": "我可以在答案里用“质量”。"
+      },
+      {
+        "en": "'mass' is important in this lesson.",
+        "zh": "“质量”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_224",
     "lemma": "time",
     "zh": "时间",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: time.",
+    "examples": [
+      {
+        "en": "I can use 'time' in my answer.",
+        "zh": "我可以在答案里用“时间”。"
+      },
+      {
+        "en": "'time' is important in this lesson.",
+        "zh": "“时间”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_225",
     "lemma": "minute",
     "zh": "分钟",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: minute.",
+    "examples": [
+      {
+        "en": "I can use 'minute' in my answer.",
+        "zh": "我可以在答案里用“分钟”。"
+      },
+      {
+        "en": "'minute' is important in this lesson.",
+        "zh": "“分钟”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_226",
     "lemma": "hour",
     "zh": "小时",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: hour.",
+    "examples": [
+      {
+        "en": "I can use 'hour' in my answer.",
+        "zh": "我可以在答案里用“小时”。"
+      },
+      {
+        "en": "'hour' is important in this lesson.",
+        "zh": "“小时”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_227",
     "lemma": "day",
     "zh": "天",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: day.",
+    "examples": [
+      {
+        "en": "I can use 'day' in my answer.",
+        "zh": "我可以在答案里用“天”。"
+      },
+      {
+        "en": "'day' is important in this lesson.",
+        "zh": "“天”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_228",
     "lemma": "week",
     "zh": "周",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: week.",
+    "examples": [
+      {
+        "en": "I can use 'week' in my answer.",
+        "zh": "我可以在答案里用“周”。"
+      },
+      {
+        "en": "'week' is important in this lesson.",
+        "zh": "“周”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_229",
     "lemma": "month",
     "zh": "月",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: month.",
+    "examples": [
+      {
+        "en": "I can use 'month' in my answer.",
+        "zh": "我可以在答案里用“月”。"
+      },
+      {
+        "en": "'month' is important in this lesson.",
+        "zh": "“月”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_230",
     "lemma": "year",
     "zh": "年",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: year.",
+    "examples": [
+      {
+        "en": "I can use 'year' in my answer.",
+        "zh": "我可以在答案里用“年”。"
+      },
+      {
+        "en": "'year' is important in this lesson.",
+        "zh": "“年”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_231",
     "lemma": "calendar",
     "zh": "日历",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: calendar.",
+    "examples": [
+      {
+        "en": "I can use 'calendar' in my answer.",
+        "zh": "我可以在答案里用“日历”。"
+      },
+      {
+        "en": "'calendar' is important in this lesson.",
+        "zh": "“日历”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_232",
     "lemma": "temperature",
     "zh": "温度",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: temperature.",
+    "examples": [
+      {
+        "en": "I can use 'temperature' in my answer.",
+        "zh": "我可以在答案里用“温度”。"
+      },
+      {
+        "en": "'temperature' is important in this lesson.",
+        "zh": "“温度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_233",
     "lemma": "data",
     "zh": "数据",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: data.",
+    "examples": [
+      {
+        "en": "I can use 'data' in my answer.",
+        "zh": "我可以在答案里用“数据”。"
+      },
+      {
+        "en": "'data' is important in this lesson.",
+        "zh": "“数据”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_234",
     "lemma": "table",
     "zh": "表格",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: table.",
+    "examples": [
+      {
+        "en": "I can use 'table' in my answer.",
+        "zh": "我可以在答案里用“表格”。"
+      },
+      {
+        "en": "'table' is important in this lesson.",
+        "zh": "“表格”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_235",
     "lemma": "chart",
     "zh": "图表",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: chart.",
+    "examples": [
+      {
+        "en": "I can use 'chart' in my answer.",
+        "zh": "我可以在答案里用“图表”。"
+      },
+      {
+        "en": "'chart' is important in this lesson.",
+        "zh": "“图表”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_236",
     "lemma": "bar-graph",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: bar-graph.",
+    "examples": [
+      {
+        "en": "I can use 'bar-graph' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'bar-graph' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_237",
     "lemma": "pictograph",
     "zh": "象形图",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: pictograph.",
+    "examples": [
+      {
+        "en": "I can use 'pictograph' in my answer.",
+        "zh": "我可以在答案里用“象形图”。"
+      },
+      {
+        "en": "'pictograph' is important in this lesson.",
+        "zh": "“象形图”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_238",
     "lemma": "pattern",
     "zh": "规律",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: pattern.",
+    "examples": [
+      {
+        "en": "I can use 'pattern' in my answer.",
+        "zh": "我可以在答案里用“规律”。"
+      },
+      {
+        "en": "'pattern' is important in this lesson.",
+        "zh": "“规律”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_239",
     "lemma": "odd",
     "zh": "奇数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: odd.",
+    "examples": [
+      {
+        "en": "I can use 'odd' in my answer.",
+        "zh": "我可以在答案里用“奇数”。"
+      },
+      {
+        "en": "'odd' is important in this lesson.",
+        "zh": "“奇数”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p2_m_240",
     "lemma": "even",
     "zh": "偶数",
-    "pos": ""
+    "pos": "",
+    "def": "A word used in math problems: even.",
+    "examples": [
+      {
+        "en": "I can use 'even' in my answer.",
+        "zh": "我可以在答案里用“偶数”。"
+      },
+      {
+        "en": "'even' is important in this lesson.",
+        "zh": "“偶数”在这课很重要。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_in_total",
+    "lemma": "in total",
+    "zh": "总共",
+    "pos": "phr",
+    "def": "A useful phrase: in total.",
+    "examples": [
+      {
+        "en": "Question: in total?",
+        "zh": "问题：总共？"
+      },
+      {
+        "en": "We often say 'in total' in class.",
+        "zh": "课堂上经常说“总共”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_altogether",
+    "lemma": "altogether",
+    "zh": "一共",
+    "pos": "phr",
+    "def": "A useful phrase: altogether.",
+    "examples": [
+      {
+        "en": "Question: altogether?",
+        "zh": "问题：一共？"
+      },
+      {
+        "en": "We often say 'altogether' in class.",
+        "zh": "课堂上经常说“一共”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_how_many_are_left",
+    "lemma": "how many are left",
+    "zh": "还剩多少",
+    "pos": "phr",
+    "def": "A useful phrase: how many are left.",
+    "examples": [
+      {
+        "en": "Question: how many are left?",
+        "zh": "问题：还剩多少？"
+      },
+      {
+        "en": "We often say 'how many are left' in class.",
+        "zh": "课堂上经常说“还剩多少”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_left_over",
+    "lemma": "left over",
+    "zh": "剩下的",
+    "pos": "phr",
+    "def": "A useful phrase: left over.",
+    "examples": [
+      {
+        "en": "Question: left over?",
+        "zh": "问题：剩下的？"
+      },
+      {
+        "en": "We often say 'left over' in class.",
+        "zh": "课堂上经常说“剩下的”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_more_than",
+    "lemma": "more than",
+    "zh": "多于",
+    "pos": "phr",
+    "def": "A useful phrase: more than.",
+    "examples": [
+      {
+        "en": "Question: more than?",
+        "zh": "问题：多于？"
+      },
+      {
+        "en": "We often say 'more than' in class.",
+        "zh": "课堂上经常说“多于”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_less_than",
+    "lemma": "less than",
+    "zh": "少于",
+    "pos": "phr",
+    "def": "A useful phrase: less than.",
+    "examples": [
+      {
+        "en": "Question: less than?",
+        "zh": "问题：少于？"
+      },
+      {
+        "en": "We often say 'less than' in class.",
+        "zh": "课堂上经常说“少于”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_find_the_difference",
+    "lemma": "find the difference",
+    "zh": "求差",
+    "pos": "phr",
+    "def": "A useful phrase: find the difference.",
+    "examples": [
+      {
+        "en": "Question: find the difference?",
+        "zh": "问题：求差？"
+      },
+      {
+        "en": "We often say 'find the difference' in class.",
+        "zh": "课堂上经常说“求差”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_equal_to",
+    "lemma": "equal to",
+    "zh": "等于",
+    "pos": "phr",
+    "def": "A useful phrase: equal to.",
+    "examples": [
+      {
+        "en": "Question: equal to?",
+        "zh": "问题：等于？"
+      },
+      {
+        "en": "We often say 'equal to' in class.",
+        "zh": "课堂上经常说“等于”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_share_equally",
+    "lemma": "share equally",
+    "zh": "平均分",
+    "pos": "phr",
+    "def": "A useful phrase: share equally.",
+    "examples": [
+      {
+        "en": "Question: share equally?",
+        "zh": "问题：平均分？"
+      },
+      {
+        "en": "We often say 'share equally' in class.",
+        "zh": "课堂上经常说“平均分”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_each_of_them",
+    "lemma": "each of them",
+    "zh": "他们每个",
+    "pos": "phr",
+    "def": "A useful phrase: each of them.",
+    "examples": [
+      {
+        "en": "Question: each of them?",
+        "zh": "问题：他们每个？"
+      },
+      {
+        "en": "We often say 'each of them' in class.",
+        "zh": "课堂上经常说“他们每个”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_per_day",
+    "lemma": "per day",
+    "zh": "每天",
+    "pos": "phr",
+    "def": "A useful phrase: per day.",
+    "examples": [
+      {
+        "en": "Question: per day?",
+        "zh": "问题：每天？"
+      },
+      {
+        "en": "We often say 'per day' in class.",
+        "zh": "课堂上经常说“每天”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_at_least",
+    "lemma": "at least",
+    "zh": "至少",
+    "pos": "phr",
+    "def": "A useful phrase: at least.",
+    "examples": [
+      {
+        "en": "Question: at least?",
+        "zh": "问题：至少？"
+      },
+      {
+        "en": "We often say 'at least' in class.",
+        "zh": "课堂上经常说“至少”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_at_most",
+    "lemma": "at most",
+    "zh": "最多",
+    "pos": "phr",
+    "def": "A useful phrase: at most.",
+    "examples": [
+      {
+        "en": "Question: at most?",
+        "zh": "问题：最多？"
+      },
+      {
+        "en": "We often say 'at most' in class.",
+        "zh": "课堂上经常说“最多”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_how_much_longer",
+    "lemma": "how much longer",
+    "zh": "多多少",
+    "pos": "phr",
+    "def": "A useful phrase: how much longer.",
+    "examples": [
+      {
+        "en": "Question: how much longer?",
+        "zh": "问题：多多少？"
+      },
+      {
+        "en": "We often say 'how much longer' in class.",
+        "zh": "课堂上经常说“多多少”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_how_much_more",
+    "lemma": "how much more",
+    "zh": "多多少",
+    "pos": "phr",
+    "def": "A useful phrase: how much more.",
+    "examples": [
+      {
+        "en": "Question: how much more?",
+        "zh": "问题：多多少？"
+      },
+      {
+        "en": "We often say 'how much more' in class.",
+        "zh": "课堂上经常说“多多少”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_how_much_less",
+    "lemma": "how much less",
+    "zh": "少多少",
+    "pos": "phr",
+    "def": "A useful phrase: how much less.",
+    "examples": [
+      {
+        "en": "Question: how much less?",
+        "zh": "问题：少多少？"
+      },
+      {
+        "en": "We often say 'how much less' in class.",
+        "zh": "课堂上经常说“少多少”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_round_to_the_nearest",
+    "lemma": "round to the nearest",
+    "zh": "四舍五入到最近的",
+    "pos": "phr",
+    "def": "A useful phrase: round to the nearest.",
+    "examples": [
+      {
+        "en": "Question: round to the nearest?",
+        "zh": "问题：四舍五入到最近的？"
+      },
+      {
+        "en": "We often say 'round to the nearest' in class.",
+        "zh": "课堂上经常说“四舍五入到最近的”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_write_in_metres",
+    "lemma": "write in metres",
+    "zh": "写成米",
+    "pos": "phr",
+    "def": "A useful phrase: write in metres.",
+    "examples": [
+      {
+        "en": "Question: write in metres?",
+        "zh": "问题：写成米？"
+      },
+      {
+        "en": "We often say 'write in metres' in class.",
+        "zh": "课堂上经常说“写成米”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_convert_into",
+    "lemma": "convert into",
+    "zh": "换算成",
+    "pos": "phr",
+    "def": "A useful phrase: convert into.",
+    "examples": [
+      {
+        "en": "Question: convert into?",
+        "zh": "问题：换算成？"
+      },
+      {
+        "en": "We often say 'convert into' in class.",
+        "zh": "课堂上经常说“换算成”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_compare_the_numbers",
+    "lemma": "compare the numbers",
+    "zh": "比较数字",
+    "pos": "phr",
+    "def": "A useful phrase: compare the numbers.",
+    "examples": [
+      {
+        "en": "Question: compare the numbers?",
+        "zh": "问题：比较数字？"
+      },
+      {
+        "en": "We often say 'compare the numbers' in class.",
+        "zh": "课堂上经常说“比较数字”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_put_in_order",
+    "lemma": "put in order",
+    "zh": "按顺序排列",
+    "pos": "phr",
+    "def": "A useful phrase: put in order.",
+    "examples": [
+      {
+        "en": "Question: put in order?",
+        "zh": "问题：按顺序排列？"
+      },
+      {
+        "en": "We often say 'put in order' in class.",
+        "zh": "课堂上经常说“按顺序排列”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_in_ascending_order",
+    "lemma": "in ascending order",
+    "zh": "按升序",
+    "pos": "phr",
+    "def": "A useful phrase: in ascending order.",
+    "examples": [
+      {
+        "en": "Question: in ascending order?",
+        "zh": "问题：按升序？"
+      },
+      {
+        "en": "We often say 'in ascending order' in class.",
+        "zh": "课堂上经常说“按升序”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_in_descending_order",
+    "lemma": "in descending order",
+    "zh": "按降序",
+    "pos": "phr",
+    "def": "A useful phrase: in descending order.",
+    "examples": [
+      {
+        "en": "Question: in descending order?",
+        "zh": "问题：按降序？"
+      },
+      {
+        "en": "We often say 'in descending order' in class.",
+        "zh": "课堂上经常说“按降序”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_show_your_working",
+    "lemma": "show your working",
+    "zh": "写出过程",
+    "pos": "phr",
+    "def": "A useful phrase: show your working.",
+    "examples": [
+      {
+        "en": "Question: show your working?",
+        "zh": "问题：写出过程？"
+      },
+      {
+        "en": "We often say 'show your working' in class.",
+        "zh": "课堂上经常说“写出过程”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_check_your_answer",
+    "lemma": "check your answer",
+    "zh": "检查答案",
+    "pos": "phr",
+    "def": "A useful phrase: check your answer.",
+    "examples": [
+      {
+        "en": "Question: check your answer?",
+        "zh": "问题：检查答案？"
+      },
+      {
+        "en": "We often say 'check your answer' in class.",
+        "zh": "课堂上经常说“检查答案”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_solve_step_by_step",
+    "lemma": "solve step by step",
+    "zh": "一步步解题",
+    "pos": "phr",
+    "def": "A useful phrase: solve step by step.",
+    "examples": [
+      {
+        "en": "Question: solve step by step?",
+        "zh": "问题：一步步解题？"
+      },
+      {
+        "en": "We often say 'solve step by step' in class.",
+        "zh": "课堂上经常说“一步步解题”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_draw_a_model",
+    "lemma": "draw a model",
+    "zh": "画模型图",
+    "pos": "phr",
+    "def": "A useful phrase: draw a model.",
+    "examples": [
+      {
+        "en": "Question: draw a model?",
+        "zh": "问题：画模型图？"
+      },
+      {
+        "en": "We often say 'draw a model' in class.",
+        "zh": "课堂上经常说“画模型图”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_use_a_bar_model",
+    "lemma": "use a bar model",
+    "zh": "用条形图",
+    "pos": "phr",
+    "def": "A useful phrase: use a bar model.",
+    "examples": [
+      {
+        "en": "Question: use a bar model?",
+        "zh": "问题：用条形图？"
+      },
+      {
+        "en": "We often say 'use a bar model' in class.",
+        "zh": "课堂上经常说“用条形图”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_work_out",
+    "lemma": "work out",
+    "zh": "算出",
+    "pos": "phr",
+    "def": "A useful phrase: work out.",
+    "examples": [
+      {
+        "en": "Question: work out?",
+        "zh": "问题：算出？"
+      },
+      {
+        "en": "We often say 'work out' in class.",
+        "zh": "课堂上经常说“算出”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_estimate_first",
+    "lemma": "estimate first",
+    "zh": "先估算",
+    "pos": "phr",
+    "def": "A useful phrase: estimate first.",
+    "examples": [
+      {
+        "en": "Question: estimate first?",
+        "zh": "问题：先估算？"
+      },
+      {
+        "en": "We often say 'estimate first' in class.",
+        "zh": "课堂上经常说“先估算”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_exact_answer",
+    "lemma": "exact answer",
+    "zh": "精确答案",
+    "pos": "phr",
+    "def": "A useful phrase: exact answer.",
+    "examples": [
+      {
+        "en": "Question: exact answer?",
+        "zh": "问题：精确答案？"
+      },
+      {
+        "en": "We often say 'exact answer' in class.",
+        "zh": "课堂上经常说“精确答案”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_divide_equally",
+    "lemma": "divide equally",
+    "zh": "平均分配",
+    "pos": "phr",
+    "def": "A useful phrase: divide equally.",
+    "examples": [
+      {
+        "en": "Question: divide equally?",
+        "zh": "问题：平均分配？"
+      },
+      {
+        "en": "We often say 'divide equally' in class.",
+        "zh": "课堂上经常说“平均分配”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_times_as_many_as",
+    "lemma": "times as many as",
+    "zh": "是…的几倍",
+    "pos": "phr",
+    "def": "A useful phrase: times as many as.",
+    "examples": [
+      {
+        "en": "Question: times as many as?",
+        "zh": "问题：是…的几倍？"
+      },
+      {
+        "en": "We often say 'times as many as' in class.",
+        "zh": "课堂上经常说“是…的几倍”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_difference_between",
+    "lemma": "difference between",
+    "zh": "…之间的差",
+    "pos": "phr",
+    "def": "A useful phrase: difference between.",
+    "examples": [
+      {
+        "en": "Question: difference between?",
+        "zh": "问题：…之间的差？"
+      },
+      {
+        "en": "We often say 'difference between' in class.",
+        "zh": "课堂上经常说“…之间的差”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_total_number_of",
+    "lemma": "total number of",
+    "zh": "…的总数",
+    "pos": "phr",
+    "def": "A useful phrase: total number of.",
+    "examples": [
+      {
+        "en": "Question: total number of?",
+        "zh": "问题：…的总数？"
+      },
+      {
+        "en": "We often say 'total number of' in class.",
+        "zh": "课堂上经常说“…的总数”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_number_of_packs",
+    "lemma": "number of packs",
+    "zh": "几包",
+    "pos": "phr",
+    "def": "A useful phrase: number of packs.",
+    "examples": [
+      {
+        "en": "Question: number of packs?",
+        "zh": "问题：几包？"
+      },
+      {
+        "en": "We often say 'number of packs' in class.",
+        "zh": "课堂上经常说“几包”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_pack_of_4",
+    "lemma": "pack of 4",
+    "zh": "4个一包",
+    "pos": "phr",
+    "def": "A useful phrase: pack of 4.",
+    "examples": [
+      {
+        "en": "Question: pack of 4?",
+        "zh": "问题：4个一包？"
+      },
+      {
+        "en": "We often say 'pack of 4' in class.",
+        "zh": "课堂上经常说“4个一包”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_walking_around_the_market",
+    "lemma": "walking around the market",
+    "zh": "在市场里走着卖",
+    "pos": "phr",
+    "def": "A useful phrase: walking around the market.",
+    "examples": [
+      {
+        "en": "Question: walking around the market?",
+        "zh": "问题：在市场里走着卖？"
+      },
+      {
+        "en": "We often say 'walking around the market' in class.",
+        "zh": "课堂上经常说“在市场里走着卖”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_take_the_rest",
+    "lemma": "take the rest",
+    "zh": "拿走剩下的",
+    "pos": "phr",
+    "def": "A useful phrase: take the rest.",
+    "examples": [
+      {
+        "en": "Question: take the rest?",
+        "zh": "问题：拿走剩下的？"
+      },
+      {
+        "en": "We often say 'take the rest' in class.",
+        "zh": "课堂上经常说“拿走剩下的”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_same_number_of",
+    "lemma": "same number of",
+    "zh": "相同数量的",
+    "pos": "phr",
+    "def": "A useful phrase: same number of.",
+    "examples": [
+      {
+        "en": "Question: same number of?",
+        "zh": "问题：相同数量的？"
+      },
+      {
+        "en": "We often say 'same number of' in class.",
+        "zh": "课堂上经常说“相同数量的”。"
+      }
+    ]
+  },
+  {
+    "lemma": "round off",
+    "zh": "四舍五入",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: round off",
+    "examples": [
+      {
+        "en": "Use the phrase 'round off' in a sentence.",
+        "zh": "在句子里用“四舍五入”。"
+      }
+    ]
+  },
+  {
+    "lemma": "per week",
+    "zh": "每周",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: per week",
+    "examples": [
+      {
+        "en": "Use the phrase 'per week' in a sentence.",
+        "zh": "在句子里用“每周”。"
+      }
+    ]
+  },
+  {
+    "lemma": "per month",
+    "zh": "每月",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: per month",
+    "examples": [
+      {
+        "en": "Use the phrase 'per month' in a sentence.",
+        "zh": "在句子里用“每月”。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -45",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -45",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -44",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -44",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -43",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -43",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -40",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -40",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -39",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -39",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -37",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -37",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -36",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -36",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -35",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -35",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -34",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -34",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -33",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -33",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -32",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -32",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -30",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -30",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -29",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -29",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -28",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -28",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -27",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -27",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -26",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -26",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -25",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -25",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -24",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -24",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -23",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -23",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -22",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -22",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -21",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -21",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -20",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -20",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -19",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -19",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -18",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -18",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -17",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -17",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -16",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -16",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -15",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -15",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -14",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -14",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -13",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -13",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -12",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -12",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -11",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -11",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -10",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -10",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -9",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -9",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -8",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -8",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -7",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -7",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -6",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -6",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -5",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -5",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -4",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -4",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -3",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -3",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -2",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -2",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -1",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -1",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer 0",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer 0",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer 1",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer 1",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning 2",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning 2",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords 3",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords 3",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question 4",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question 4",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps 5",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps 5",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
   }
 ]

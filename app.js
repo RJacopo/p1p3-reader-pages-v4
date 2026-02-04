@@ -16,6 +16,7 @@
   const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
 
   const state = {
+  lookupShowZh: false,
   quizTimerId: null,
     level: localStorage.getItem("p1p3_level") || "p3",
     subject: localStorage.getItem("p1p3_subject") || "math",
@@ -414,48 +415,73 @@
   }
 
   function renderWordBank(filter = "") {
-    const panel = $("#modePanel");
-    const q = filter.trim().toLowerCase();
-    const items = q
-      ? state.words.filter(w => (w.term || w.lemma || w.en || w.word || "").toLowerCase().includes(q) || (w.zh || "").toLowerCase().includes(q))
-      : state.words;
+    const container = $('#modeContainer');
+    container.innerHTML = '';
 
-    panel.innerHTML = `
-      <div class="mb-3">
-        <input id="bankSearch" class="form-control" placeholder="搜索单词/中文 (e.g. classify / measure / 公里)" value="${escapeHtml(filter)}">
+    const ds = getDataset();
+    const words = (ds && Array.isArray(ds.words)) ? ds.words : [];
+    const q = (filter || '').trim().toLowerCase();
+
+    const top = document.createElement('div');
+    top.className = 'd-flex flex-wrap align-items-center justify-content-between gap-2 mb-3';
+    top.innerHTML = `
+      <div>
+        <div class="h5 mb-0">Word Bank</div>
+        <div class="text-muted small">${words.length} items (words + phrases)</div>
       </div>
-      <div class="list-group" id="bankList"></div>
+      <div class="d-flex flex-wrap gap-2 align-items-center">
+        <input id="wbSearch" class="form-control" style="min-width:260px" placeholder="Search word / phrase / 中文" value="${escapeHtml(filter||'')}" />
+      </div>
     `;
+    container.appendChild(top);
 
-    $("#bankSearch").oninput = (e) => { clearTimeout(state._bankDebounce); const v=e.target.value; state._bankDebounce=setTimeout(()=>renderWordBank(v),150); };
+    const grid = document.createElement('div');
+    grid.className = 'wb-grid';
+    container.appendChild(grid);
 
-    const list = $("#bankList");
-    const limit = 400; // UI limit
-    items.slice(0, limit).forEach(w => {
-      const term = (w.term || w.lemma || w.en || w.word || "").toString().trim();
-      const zh = (w.zh || "").toString();
-      if (!term) return;
-      const saved = workbookHas("word", term.toLowerCase());
-      const row = document.createElement("div");
-      row.className = "list-group-item d-flex align-items-center gap-3";
-      row.innerHTML = `
-        <div class="flex-grow-1">
-          <div class="fw-semibold">${escapeHtml(term)}</div>
-          <div class="text-muted small">${state.showZh ? escapeHtml(zh) : ""}</div>
+    const list = q ? words.filter(w => {
+      const lemma = (w && (w.lemma||w.term||w.word) ? String(w.lemma||w.term||w.word) : '');
+      const zh = (w && w.zh) ? String(w.zh) : '';
+      const defn = (w && w.def) ? String(w.def) : '';
+      return lemma.toLowerCase().includes(q) || zh.toLowerCase().includes(q) || defn.toLowerCase().includes(q);
+    }) : words;
+
+    const frag = document.createDocumentFragment();
+    list.slice(0, 1000).forEach((w) => {
+      const lemma = (w && (w.lemma||w.term||w.word)) ? String(w.lemma||w.term||w.word) : '';
+      if (!lemma) return;
+      const zh = (w && w.zh) ? String(w.zh) : '';
+      const tag = (w && w.tag) ? String(w.tag) : '';
+      const exCount = (w && Array.isArray(w.examples)) ? w.examples.length : 0;
+
+      const card = document.createElement('div');
+      card.className = 'wb-card';
+      card.innerHTML = `
+        <div class="wb-top">
+          <div class="wb-lemma">${escapeHtml(lemma)}</div>
+          ${tag ? `<span class="badge text-bg-light border">${escapeHtml(tag)}</span>` : ''}
         </div>
-        <button class="btn btn-outline-secondary btn-sm" data-act="view">查看</button>
-        <button class="btn ${saved ? "btn-outline-warning" : "btn-primary"} btn-sm" data-act="save">${saved ? "已加入" : "加入"}</button>
+        <div class="wb-zh text-muted">${escapeHtml(zh)}</div>
+        <div class="wb-meta">${exCount ? `${exCount} example${exCount>1?'s':''}` : 'examples ready'}</div>
+        <div class="wb-actions">
+          <button class="btn btn-outline-primary btn-sm wb-open">Open</button>
+          <button class="btn btn-primary btn-sm wb-add">Add</button>
+        </div>
       `;
-      row.querySelector('[data-act="view"]').onclick = () => openLookup(term);
-      row.querySelector('[data-act="save"]').onclick = () => addWorkbook({ type:"word", key: term.toLowerCase(), term, zh, subject: state.subject, level: state.level });
-      list.appendChild(row);
+      card.querySelector('.wb-open').onclick = () => openLookup(lemma);
+      card.querySelector('.wb-add').onclick = () => addToWorkbook(lemma);
+      frag.appendChild(card);
     });
 
-    if (items.length > limit) {
-      const note = document.createElement("div");
-      note.className = "text-muted small mt-2";
-      note.textContent = `已显示前 ${limit} 条结果（共 ${items.length} 条）。请继续输入关键词缩小范围。`;
-      panel.appendChild(note);
+    grid.appendChild(frag);
+
+    const input = $('#wbSearch');
+    if (input) {
+      let t = null;
+      input.oninput = () => {
+        if (t) clearTimeout(t);
+        t = setTimeout(() => renderWordBank(input.value), 120);
+      };
     }
   }
 

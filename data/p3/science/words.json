@@ -3,1440 +3,5356 @@
     "id": "p3_s_001",
     "lemma": "classify",
     "zh": "分类",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: classify.",
+    "examples": [
+      {
+        "en": "I can use 'classify' in my answer.",
+        "zh": "我可以在答案里用“分类”。"
+      },
+      {
+        "en": "'classify' is important in this lesson.",
+        "zh": "“分类”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_002",
     "lemma": "group",
     "zh": "分组",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: group.",
+    "examples": [
+      {
+        "en": "I can use 'group' in my answer.",
+        "zh": "我可以在答案里用“分组”。"
+      },
+      {
+        "en": "'group' is important in this lesson.",
+        "zh": "“分组”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_003",
     "lemma": "characteristic",
     "zh": "特征",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: characteristic.",
+    "examples": [
+      {
+        "en": "I can use 'characteristic' in my answer.",
+        "zh": "我可以在答案里用“特征”。"
+      },
+      {
+        "en": "'characteristic' is important in this lesson.",
+        "zh": "“特征”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_004",
     "lemma": "property",
     "zh": "性质",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: property.",
+    "examples": [
+      {
+        "en": "I can use 'property' in my answer.",
+        "zh": "我可以在答案里用“性质”。"
+      },
+      {
+        "en": "'property' is important in this lesson.",
+        "zh": "“性质”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_005",
     "lemma": "observe",
     "zh": "观察",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: observe.",
+    "examples": [
+      {
+        "en": "I can use 'observe' in my answer.",
+        "zh": "我可以在答案里用“观察”。"
+      },
+      {
+        "en": "'observe' is important in this lesson.",
+        "zh": "“观察”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_006",
     "lemma": "compare",
     "zh": "比较",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: compare.",
+    "examples": [
+      {
+        "en": "I can use 'compare' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'compare' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_007",
     "lemma": "measure",
     "zh": "测量",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: measure.",
+    "examples": [
+      {
+        "en": "I can use 'measure' in my answer.",
+        "zh": "我可以在答案里用“测量”。"
+      },
+      {
+        "en": "'measure' is important in this lesson.",
+        "zh": "“测量”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_008",
     "lemma": "living",
     "zh": "有生命的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: living.",
+    "examples": [
+      {
+        "en": "I can use 'living' in my answer.",
+        "zh": "我可以在答案里用“有生命的”。"
+      },
+      {
+        "en": "'living' is important in this lesson.",
+        "zh": "“有生命的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_009",
     "lemma": "non-living",
     "zh": "无生命的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: non-living.",
+    "examples": [
+      {
+        "en": "I can use 'non-living' in my answer.",
+        "zh": "我可以在答案里用“无生命的”。"
+      },
+      {
+        "en": "'non-living' is important in this lesson.",
+        "zh": "“无生命的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_010",
     "lemma": "plant",
     "zh": "植物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: plant.",
+    "examples": [
+      {
+        "en": "I can use 'plant' in my answer.",
+        "zh": "我可以在答案里用“植物”。"
+      },
+      {
+        "en": "'plant' is important in this lesson.",
+        "zh": "“植物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_011",
     "lemma": "animal",
     "zh": "动物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: animal.",
+    "examples": [
+      {
+        "en": "I can use 'animal' in my answer.",
+        "zh": "我可以在答案里用“动物”。"
+      },
+      {
+        "en": "'animal' is important in this lesson.",
+        "zh": "“动物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_012",
     "lemma": "fungus",
     "zh": "真菌",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: fungus.",
+    "examples": [
+      {
+        "en": "I can use 'fungus' in my answer.",
+        "zh": "我可以在答案里用“真菌”。"
+      },
+      {
+        "en": "'fungus' is important in this lesson.",
+        "zh": "“真菌”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_013",
     "lemma": "bacteria",
     "zh": "细菌",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: bacteria.",
+    "examples": [
+      {
+        "en": "I can use 'bacteria' in my answer.",
+        "zh": "我可以在答案里用“细菌”。"
+      },
+      {
+        "en": "'bacteria' is important in this lesson.",
+        "zh": "“细菌”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_014",
     "lemma": "habitat",
     "zh": "栖息地",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: habitat.",
+    "examples": [
+      {
+        "en": "I can use 'habitat' in my answer.",
+        "zh": "我可以在答案里用“栖息地”。"
+      },
+      {
+        "en": "'habitat' is important in this lesson.",
+        "zh": "“栖息地”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_015",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_016",
     "lemma": "life cycle",
     "zh": "生命周期",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: life cycle.",
+    "examples": [
+      {
+        "en": "We use the phrase 'life cycle' in a question.",
+        "zh": "我们在问题里会用到短语“生命周期”。"
+      },
+      {
+        "en": "Say it clearly: life cycle.",
+        "zh": "把它说清楚：生命周期。"
+      }
+    ]
   },
   {
     "id": "p3_s_017",
     "lemma": "egg",
     "zh": "卵",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: egg.",
+    "examples": [
+      {
+        "en": "I can use 'egg' in my answer.",
+        "zh": "我可以在答案里用“卵”。"
+      },
+      {
+        "en": "'egg' is important in this lesson.",
+        "zh": "“卵”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_018",
     "lemma": "larva",
     "zh": "幼虫",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: larva.",
+    "examples": [
+      {
+        "en": "I can use 'larva' in my answer.",
+        "zh": "我可以在答案里用“幼虫”。"
+      },
+      {
+        "en": "'larva' is important in this lesson.",
+        "zh": "“幼虫”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_019",
     "lemma": "pupa",
     "zh": "蛹",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: pupa.",
+    "examples": [
+      {
+        "en": "I can use 'pupa' in my answer.",
+        "zh": "我可以在答案里用“蛹”。"
+      },
+      {
+        "en": "'pupa' is important in this lesson.",
+        "zh": "“蛹”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_020",
     "lemma": "adult",
     "zh": "成体",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: adult.",
+    "examples": [
+      {
+        "en": "I can use 'adult' in my answer.",
+        "zh": "我可以在答案里用“成体”。"
+      },
+      {
+        "en": "'adult' is important in this lesson.",
+        "zh": "“成体”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_021",
     "lemma": "grow",
     "zh": "生长",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: grow.",
+    "examples": [
+      {
+        "en": "I can use 'grow' in my answer.",
+        "zh": "我可以在答案里用“生长”。"
+      },
+      {
+        "en": "'grow' is important in this lesson.",
+        "zh": "“生长”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_022",
     "lemma": "reproduce",
     "zh": "繁殖",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: reproduce.",
+    "examples": [
+      {
+        "en": "I can use 'reproduce' in my answer.",
+        "zh": "我可以在答案里用“繁殖”。"
+      },
+      {
+        "en": "'reproduce' is important in this lesson.",
+        "zh": "“繁殖”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_023",
     "lemma": "respond",
     "zh": "反应",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: respond.",
+    "examples": [
+      {
+        "en": "I can use 'respond' in my answer.",
+        "zh": "我可以在答案里用“反应”。"
+      },
+      {
+        "en": "'respond' is important in this lesson.",
+        "zh": "“反应”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_024",
     "lemma": "need",
     "zh": "需要",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: need.",
+    "examples": [
+      {
+        "en": "I can use 'need' in my answer.",
+        "zh": "我可以在答案里用“需要”。"
+      },
+      {
+        "en": "'need' is important in this lesson.",
+        "zh": "“需要”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_025",
     "lemma": "water",
     "zh": "水",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: water.",
+    "examples": [
+      {
+        "en": "I can use 'water' in my answer.",
+        "zh": "我可以在答案里用“水”。"
+      },
+      {
+        "en": "'water' is important in this lesson.",
+        "zh": "“水”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_026",
     "lemma": "air",
     "zh": "空气",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: air.",
+    "examples": [
+      {
+        "en": "I can use 'air' in my answer.",
+        "zh": "我可以在答案里用“空气”。"
+      },
+      {
+        "en": "'air' is important in this lesson.",
+        "zh": "“空气”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_027",
     "lemma": "food",
     "zh": "食物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: food.",
+    "examples": [
+      {
+        "en": "I can use 'food' in my answer.",
+        "zh": "我可以在答案里用“食物”。"
+      },
+      {
+        "en": "'food' is important in this lesson.",
+        "zh": "“食物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_028",
     "lemma": "shelter",
     "zh": "庇护所",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: shelter.",
+    "examples": [
+      {
+        "en": "I can use 'shelter' in my answer.",
+        "zh": "我可以在答案里用“庇护所”。"
+      },
+      {
+        "en": "'shelter' is important in this lesson.",
+        "zh": "“庇护所”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_029",
     "lemma": "material",
     "zh": "材料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: material.",
+    "examples": [
+      {
+        "en": "I can use 'material' in my answer.",
+        "zh": "我可以在答案里用“材料”。"
+      },
+      {
+        "en": "'material' is important in this lesson.",
+        "zh": "“材料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_030",
     "lemma": "wood",
     "zh": "木材",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: wood.",
+    "examples": [
+      {
+        "en": "I can use 'wood' in my answer.",
+        "zh": "我可以在答案里用“木材”。"
+      },
+      {
+        "en": "'wood' is important in this lesson.",
+        "zh": "“木材”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_031",
     "lemma": "metal",
     "zh": "金属",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: metal.",
+    "examples": [
+      {
+        "en": "I can use 'metal' in my answer.",
+        "zh": "我可以在答案里用“金属”。"
+      },
+      {
+        "en": "'metal' is important in this lesson.",
+        "zh": "“金属”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_032",
     "lemma": "plastic",
     "zh": "塑料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: plastic.",
+    "examples": [
+      {
+        "en": "I can use 'plastic' in my answer.",
+        "zh": "我可以在答案里用“塑料”。"
+      },
+      {
+        "en": "'plastic' is important in this lesson.",
+        "zh": "“塑料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_033",
     "lemma": "rubber",
     "zh": "橡胶",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rubber.",
+    "examples": [
+      {
+        "en": "I can use 'rubber' in my answer.",
+        "zh": "我可以在答案里用“橡胶”。"
+      },
+      {
+        "en": "'rubber' is important in this lesson.",
+        "zh": "“橡胶”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_034",
     "lemma": "glass",
     "zh": "玻璃",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: glass.",
+    "examples": [
+      {
+        "en": "I can use 'glass' in my answer.",
+        "zh": "我可以在答案里用“玻璃”。"
+      },
+      {
+        "en": "'glass' is important in this lesson.",
+        "zh": "“玻璃”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_035",
     "lemma": "fabric",
     "zh": "布料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: fabric.",
+    "examples": [
+      {
+        "en": "I can use 'fabric' in my answer.",
+        "zh": "我可以在答案里用“布料”。"
+      },
+      {
+        "en": "'fabric' is important in this lesson.",
+        "zh": "“布料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_036",
     "lemma": "paper",
     "zh": "纸",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: paper.",
+    "examples": [
+      {
+        "en": "I can use 'paper' in my answer.",
+        "zh": "我可以在答案里用“纸”。"
+      },
+      {
+        "en": "'paper' is important in this lesson.",
+        "zh": "“纸”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_037",
     "lemma": "clay",
     "zh": "黏土",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: clay.",
+    "examples": [
+      {
+        "en": "I can use 'clay' in my answer.",
+        "zh": "我可以在答案里用“黏土”。"
+      },
+      {
+        "en": "'clay' is important in this lesson.",
+        "zh": "“黏土”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_038",
     "lemma": "ceramic",
     "zh": "陶瓷",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: ceramic.",
+    "examples": [
+      {
+        "en": "I can use 'ceramic' in my answer.",
+        "zh": "我可以在答案里用“陶瓷”。"
+      },
+      {
+        "en": "'ceramic' is important in this lesson.",
+        "zh": "“陶瓷”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_039",
     "lemma": "strength",
     "zh": "强度",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: strength.",
+    "examples": [
+      {
+        "en": "I can use 'strength' in my answer.",
+        "zh": "我可以在答案里用“强度”。"
+      },
+      {
+        "en": "'strength' is important in this lesson.",
+        "zh": "“强度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_040",
     "lemma": "flexible",
     "zh": "柔韧的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: flexible.",
+    "examples": [
+      {
+        "en": "I can use 'flexible' in my answer.",
+        "zh": "我可以在答案里用“柔韧的”。"
+      },
+      {
+        "en": "'flexible' is important in this lesson.",
+        "zh": "“柔韧的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_041",
     "lemma": "rigid",
     "zh": "坚硬的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rigid.",
+    "examples": [
+      {
+        "en": "I can use 'rigid' in my answer.",
+        "zh": "我可以在答案里用“坚硬的”。"
+      },
+      {
+        "en": "'rigid' is important in this lesson.",
+        "zh": "“坚硬的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_042",
     "lemma": "hard",
     "zh": "硬的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: hard.",
+    "examples": [
+      {
+        "en": "I can use 'hard' in my answer.",
+        "zh": "我可以在答案里用“硬的”。"
+      },
+      {
+        "en": "'hard' is important in this lesson.",
+        "zh": "“硬的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_043",
     "lemma": "soft",
     "zh": "软的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: soft.",
+    "examples": [
+      {
+        "en": "I can use 'soft' in my answer.",
+        "zh": "我可以在答案里用“软的”。"
+      },
+      {
+        "en": "'soft' is important in this lesson.",
+        "zh": "“软的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_044",
     "lemma": "rough",
     "zh": "粗糙的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rough.",
+    "examples": [
+      {
+        "en": "I can use 'rough' in my answer.",
+        "zh": "我可以在答案里用“粗糙的”。"
+      },
+      {
+        "en": "'rough' is important in this lesson.",
+        "zh": "“粗糙的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_045",
     "lemma": "smooth",
     "zh": "光滑的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: smooth.",
+    "examples": [
+      {
+        "en": "I can use 'smooth' in my answer.",
+        "zh": "我可以在答案里用“光滑的”。"
+      },
+      {
+        "en": "'smooth' is important in this lesson.",
+        "zh": "“光滑的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_046",
     "lemma": "transparent",
     "zh": "透明的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: transparent.",
+    "examples": [
+      {
+        "en": "I can use 'transparent' in my answer.",
+        "zh": "我可以在答案里用“透明的”。"
+      },
+      {
+        "en": "'transparent' is important in this lesson.",
+        "zh": "“透明的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_047",
     "lemma": "translucent",
     "zh": "半透明的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: translucent.",
+    "examples": [
+      {
+        "en": "I can use 'translucent' in my answer.",
+        "zh": "我可以在答案里用“半透明的”。"
+      },
+      {
+        "en": "'translucent' is important in this lesson.",
+        "zh": "“半透明的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_048",
     "lemma": "opaque",
     "zh": "不透明的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: opaque.",
+    "examples": [
+      {
+        "en": "I can use 'opaque' in my answer.",
+        "zh": "我可以在答案里用“不透明的”。"
+      },
+      {
+        "en": "'opaque' is important in this lesson.",
+        "zh": "“不透明的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_049",
     "lemma": "absorb",
     "zh": "吸收",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: absorb.",
+    "examples": [
+      {
+        "en": "I can use 'absorb' in my answer.",
+        "zh": "我可以在答案里用“吸收”。"
+      },
+      {
+        "en": "'absorb' is important in this lesson.",
+        "zh": "“吸收”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_050",
     "lemma": "waterproof",
     "zh": "防水的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: waterproof.",
+    "examples": [
+      {
+        "en": "I can use 'waterproof' in my answer.",
+        "zh": "我可以在答案里用“防水的”。"
+      },
+      {
+        "en": "'waterproof' is important in this lesson.",
+        "zh": "“防水的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_051",
     "lemma": "float",
     "zh": "漂浮",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: float.",
+    "examples": [
+      {
+        "en": "I can use 'float' in my answer.",
+        "zh": "我可以在答案里用“漂浮”。"
+      },
+      {
+        "en": "'float' is important in this lesson.",
+        "zh": "“漂浮”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_052",
     "lemma": "sink",
     "zh": "下沉",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: sink.",
+    "examples": [
+      {
+        "en": "I can use 'sink' in my answer.",
+        "zh": "我可以在答案里用“下沉”。"
+      },
+      {
+        "en": "'sink' is important in this lesson.",
+        "zh": "“下沉”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_053",
     "lemma": "magnet",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: magnet.",
+    "examples": [
+      {
+        "en": "I can use 'magnet' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'magnet' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_054",
     "lemma": "heat",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: heat.",
+    "examples": [
+      {
+        "en": "I can use 'heat' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'heat' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_055",
     "lemma": "light",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: light.",
+    "examples": [
+      {
+        "en": "I can use 'light' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'light' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_056",
     "lemma": "sound",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: sound.",
+    "examples": [
+      {
+        "en": "I can use 'sound' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'sound' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_057",
     "lemma": "electric",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: electric.",
+    "examples": [
+      {
+        "en": "I can use 'electric' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'electric' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_058",
     "lemma": "push",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: push.",
+    "examples": [
+      {
+        "en": "I can use 'push' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'push' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_059",
     "lemma": "pull",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: pull.",
+    "examples": [
+      {
+        "en": "I can use 'pull' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'pull' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_060",
     "lemma": "force",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: force.",
+    "examples": [
+      {
+        "en": "I can use 'force' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'force' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_061",
     "lemma": "motion",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: motion.",
+    "examples": [
+      {
+        "en": "I can use 'motion' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'motion' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_062",
     "lemma": "speed",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: speed.",
+    "examples": [
+      {
+        "en": "I can use 'speed' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'speed' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_063",
     "lemma": "friction",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: friction.",
+    "examples": [
+      {
+        "en": "I can use 'friction' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'friction' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_064",
     "lemma": "safety",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: safety.",
+    "examples": [
+      {
+        "en": "I can use 'safety' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'safety' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_065",
     "lemma": "experiment",
     "zh": "实验",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: experiment.",
+    "examples": [
+      {
+        "en": "I can use 'experiment' in my answer.",
+        "zh": "我可以在答案里用“实验”。"
+      },
+      {
+        "en": "'experiment' is important in this lesson.",
+        "zh": "“实验”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_066",
     "lemma": "result",
     "zh": "结果",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: result.",
+    "examples": [
+      {
+        "en": "I can use 'result' in my answer.",
+        "zh": "我可以在答案里用“结果”。"
+      },
+      {
+        "en": "'result' is important in this lesson.",
+        "zh": "“结果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_067",
     "lemma": "classify",
     "zh": "分类",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: classify.",
+    "examples": [
+      {
+        "en": "I can use 'classify' in my answer.",
+        "zh": "我可以在答案里用“分类”。"
+      },
+      {
+        "en": "'classify' is important in this lesson.",
+        "zh": "“分类”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_068",
     "lemma": "group",
     "zh": "分组",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: group.",
+    "examples": [
+      {
+        "en": "I can use 'group' in my answer.",
+        "zh": "我可以在答案里用“分组”。"
+      },
+      {
+        "en": "'group' is important in this lesson.",
+        "zh": "“分组”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_069",
     "lemma": "characteristic",
     "zh": "特征",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: characteristic.",
+    "examples": [
+      {
+        "en": "I can use 'characteristic' in my answer.",
+        "zh": "我可以在答案里用“特征”。"
+      },
+      {
+        "en": "'characteristic' is important in this lesson.",
+        "zh": "“特征”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_070",
     "lemma": "property",
     "zh": "性质",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: property.",
+    "examples": [
+      {
+        "en": "I can use 'property' in my answer.",
+        "zh": "我可以在答案里用“性质”。"
+      },
+      {
+        "en": "'property' is important in this lesson.",
+        "zh": "“性质”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_071",
     "lemma": "observe",
     "zh": "观察",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: observe.",
+    "examples": [
+      {
+        "en": "I can use 'observe' in my answer.",
+        "zh": "我可以在答案里用“观察”。"
+      },
+      {
+        "en": "'observe' is important in this lesson.",
+        "zh": "“观察”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_072",
     "lemma": "compare",
     "zh": "比较",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: compare.",
+    "examples": [
+      {
+        "en": "I can use 'compare' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'compare' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_073",
     "lemma": "measure",
     "zh": "测量",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: measure.",
+    "examples": [
+      {
+        "en": "I can use 'measure' in my answer.",
+        "zh": "我可以在答案里用“测量”。"
+      },
+      {
+        "en": "'measure' is important in this lesson.",
+        "zh": "“测量”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_074",
     "lemma": "living",
     "zh": "有生命的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: living.",
+    "examples": [
+      {
+        "en": "I can use 'living' in my answer.",
+        "zh": "我可以在答案里用“有生命的”。"
+      },
+      {
+        "en": "'living' is important in this lesson.",
+        "zh": "“有生命的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_075",
     "lemma": "non-living",
     "zh": "无生命的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: non-living.",
+    "examples": [
+      {
+        "en": "I can use 'non-living' in my answer.",
+        "zh": "我可以在答案里用“无生命的”。"
+      },
+      {
+        "en": "'non-living' is important in this lesson.",
+        "zh": "“无生命的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_076",
     "lemma": "plant",
     "zh": "植物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: plant.",
+    "examples": [
+      {
+        "en": "I can use 'plant' in my answer.",
+        "zh": "我可以在答案里用“植物”。"
+      },
+      {
+        "en": "'plant' is important in this lesson.",
+        "zh": "“植物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_077",
     "lemma": "animal",
     "zh": "动物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: animal.",
+    "examples": [
+      {
+        "en": "I can use 'animal' in my answer.",
+        "zh": "我可以在答案里用“动物”。"
+      },
+      {
+        "en": "'animal' is important in this lesson.",
+        "zh": "“动物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_078",
     "lemma": "fungus",
     "zh": "真菌",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: fungus.",
+    "examples": [
+      {
+        "en": "I can use 'fungus' in my answer.",
+        "zh": "我可以在答案里用“真菌”。"
+      },
+      {
+        "en": "'fungus' is important in this lesson.",
+        "zh": "“真菌”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_079",
     "lemma": "bacteria",
     "zh": "细菌",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: bacteria.",
+    "examples": [
+      {
+        "en": "I can use 'bacteria' in my answer.",
+        "zh": "我可以在答案里用“细菌”。"
+      },
+      {
+        "en": "'bacteria' is important in this lesson.",
+        "zh": "“细菌”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_080",
     "lemma": "habitat",
     "zh": "栖息地",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: habitat.",
+    "examples": [
+      {
+        "en": "I can use 'habitat' in my answer.",
+        "zh": "我可以在答案里用“栖息地”。"
+      },
+      {
+        "en": "'habitat' is important in this lesson.",
+        "zh": "“栖息地”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_081",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_082",
     "lemma": "life-cycle",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: life-cycle.",
+    "examples": [
+      {
+        "en": "I can use 'life-cycle' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'life-cycle' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_083",
     "lemma": "egg",
     "zh": "卵",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: egg.",
+    "examples": [
+      {
+        "en": "I can use 'egg' in my answer.",
+        "zh": "我可以在答案里用“卵”。"
+      },
+      {
+        "en": "'egg' is important in this lesson.",
+        "zh": "“卵”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_084",
     "lemma": "larva",
     "zh": "幼虫",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: larva.",
+    "examples": [
+      {
+        "en": "I can use 'larva' in my answer.",
+        "zh": "我可以在答案里用“幼虫”。"
+      },
+      {
+        "en": "'larva' is important in this lesson.",
+        "zh": "“幼虫”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_085",
     "lemma": "pupa",
     "zh": "蛹",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: pupa.",
+    "examples": [
+      {
+        "en": "I can use 'pupa' in my answer.",
+        "zh": "我可以在答案里用“蛹”。"
+      },
+      {
+        "en": "'pupa' is important in this lesson.",
+        "zh": "“蛹”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_086",
     "lemma": "adult",
     "zh": "成体",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: adult.",
+    "examples": [
+      {
+        "en": "I can use 'adult' in my answer.",
+        "zh": "我可以在答案里用“成体”。"
+      },
+      {
+        "en": "'adult' is important in this lesson.",
+        "zh": "“成体”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_087",
     "lemma": "grow",
     "zh": "生长",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: grow.",
+    "examples": [
+      {
+        "en": "I can use 'grow' in my answer.",
+        "zh": "我可以在答案里用“生长”。"
+      },
+      {
+        "en": "'grow' is important in this lesson.",
+        "zh": "“生长”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_088",
     "lemma": "reproduce",
     "zh": "繁殖",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: reproduce.",
+    "examples": [
+      {
+        "en": "I can use 'reproduce' in my answer.",
+        "zh": "我可以在答案里用“繁殖”。"
+      },
+      {
+        "en": "'reproduce' is important in this lesson.",
+        "zh": "“繁殖”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_089",
     "lemma": "respond",
     "zh": "反应",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: respond.",
+    "examples": [
+      {
+        "en": "I can use 'respond' in my answer.",
+        "zh": "我可以在答案里用“反应”。"
+      },
+      {
+        "en": "'respond' is important in this lesson.",
+        "zh": "“反应”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_090",
     "lemma": "need",
     "zh": "需要",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: need.",
+    "examples": [
+      {
+        "en": "I can use 'need' in my answer.",
+        "zh": "我可以在答案里用“需要”。"
+      },
+      {
+        "en": "'need' is important in this lesson.",
+        "zh": "“需要”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_091",
     "lemma": "water",
     "zh": "水",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: water.",
+    "examples": [
+      {
+        "en": "I can use 'water' in my answer.",
+        "zh": "我可以在答案里用“水”。"
+      },
+      {
+        "en": "'water' is important in this lesson.",
+        "zh": "“水”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_092",
     "lemma": "air",
     "zh": "空气",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: air.",
+    "examples": [
+      {
+        "en": "I can use 'air' in my answer.",
+        "zh": "我可以在答案里用“空气”。"
+      },
+      {
+        "en": "'air' is important in this lesson.",
+        "zh": "“空气”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_093",
     "lemma": "food",
     "zh": "食物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: food.",
+    "examples": [
+      {
+        "en": "I can use 'food' in my answer.",
+        "zh": "我可以在答案里用“食物”。"
+      },
+      {
+        "en": "'food' is important in this lesson.",
+        "zh": "“食物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_094",
     "lemma": "shelter",
     "zh": "庇护所",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: shelter.",
+    "examples": [
+      {
+        "en": "I can use 'shelter' in my answer.",
+        "zh": "我可以在答案里用“庇护所”。"
+      },
+      {
+        "en": "'shelter' is important in this lesson.",
+        "zh": "“庇护所”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_095",
     "lemma": "material",
     "zh": "材料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: material.",
+    "examples": [
+      {
+        "en": "I can use 'material' in my answer.",
+        "zh": "我可以在答案里用“材料”。"
+      },
+      {
+        "en": "'material' is important in this lesson.",
+        "zh": "“材料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_096",
     "lemma": "wood",
     "zh": "木材",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: wood.",
+    "examples": [
+      {
+        "en": "I can use 'wood' in my answer.",
+        "zh": "我可以在答案里用“木材”。"
+      },
+      {
+        "en": "'wood' is important in this lesson.",
+        "zh": "“木材”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_097",
     "lemma": "metal",
     "zh": "金属",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: metal.",
+    "examples": [
+      {
+        "en": "I can use 'metal' in my answer.",
+        "zh": "我可以在答案里用“金属”。"
+      },
+      {
+        "en": "'metal' is important in this lesson.",
+        "zh": "“金属”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_098",
     "lemma": "plastic",
     "zh": "塑料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: plastic.",
+    "examples": [
+      {
+        "en": "I can use 'plastic' in my answer.",
+        "zh": "我可以在答案里用“塑料”。"
+      },
+      {
+        "en": "'plastic' is important in this lesson.",
+        "zh": "“塑料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_099",
     "lemma": "rubber",
     "zh": "橡胶",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rubber.",
+    "examples": [
+      {
+        "en": "I can use 'rubber' in my answer.",
+        "zh": "我可以在答案里用“橡胶”。"
+      },
+      {
+        "en": "'rubber' is important in this lesson.",
+        "zh": "“橡胶”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_100",
     "lemma": "glass",
     "zh": "玻璃",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: glass.",
+    "examples": [
+      {
+        "en": "I can use 'glass' in my answer.",
+        "zh": "我可以在答案里用“玻璃”。"
+      },
+      {
+        "en": "'glass' is important in this lesson.",
+        "zh": "“玻璃”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_101",
     "lemma": "fabric",
     "zh": "布料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: fabric.",
+    "examples": [
+      {
+        "en": "I can use 'fabric' in my answer.",
+        "zh": "我可以在答案里用“布料”。"
+      },
+      {
+        "en": "'fabric' is important in this lesson.",
+        "zh": "“布料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_102",
     "lemma": "paper",
     "zh": "纸",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: paper.",
+    "examples": [
+      {
+        "en": "I can use 'paper' in my answer.",
+        "zh": "我可以在答案里用“纸”。"
+      },
+      {
+        "en": "'paper' is important in this lesson.",
+        "zh": "“纸”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_103",
     "lemma": "clay",
     "zh": "黏土",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: clay.",
+    "examples": [
+      {
+        "en": "I can use 'clay' in my answer.",
+        "zh": "我可以在答案里用“黏土”。"
+      },
+      {
+        "en": "'clay' is important in this lesson.",
+        "zh": "“黏土”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_104",
     "lemma": "ceramic",
     "zh": "陶瓷",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: ceramic.",
+    "examples": [
+      {
+        "en": "I can use 'ceramic' in my answer.",
+        "zh": "我可以在答案里用“陶瓷”。"
+      },
+      {
+        "en": "'ceramic' is important in this lesson.",
+        "zh": "“陶瓷”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_105",
     "lemma": "strength",
     "zh": "强度",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: strength.",
+    "examples": [
+      {
+        "en": "I can use 'strength' in my answer.",
+        "zh": "我可以在答案里用“强度”。"
+      },
+      {
+        "en": "'strength' is important in this lesson.",
+        "zh": "“强度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_106",
     "lemma": "flexible",
     "zh": "柔韧的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: flexible.",
+    "examples": [
+      {
+        "en": "I can use 'flexible' in my answer.",
+        "zh": "我可以在答案里用“柔韧的”。"
+      },
+      {
+        "en": "'flexible' is important in this lesson.",
+        "zh": "“柔韧的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_107",
     "lemma": "rigid",
     "zh": "坚硬的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rigid.",
+    "examples": [
+      {
+        "en": "I can use 'rigid' in my answer.",
+        "zh": "我可以在答案里用“坚硬的”。"
+      },
+      {
+        "en": "'rigid' is important in this lesson.",
+        "zh": "“坚硬的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_108",
     "lemma": "hard",
     "zh": "硬的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: hard.",
+    "examples": [
+      {
+        "en": "I can use 'hard' in my answer.",
+        "zh": "我可以在答案里用“硬的”。"
+      },
+      {
+        "en": "'hard' is important in this lesson.",
+        "zh": "“硬的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_109",
     "lemma": "soft",
     "zh": "软的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: soft.",
+    "examples": [
+      {
+        "en": "I can use 'soft' in my answer.",
+        "zh": "我可以在答案里用“软的”。"
+      },
+      {
+        "en": "'soft' is important in this lesson.",
+        "zh": "“软的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_110",
     "lemma": "rough",
     "zh": "粗糙的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rough.",
+    "examples": [
+      {
+        "en": "I can use 'rough' in my answer.",
+        "zh": "我可以在答案里用“粗糙的”。"
+      },
+      {
+        "en": "'rough' is important in this lesson.",
+        "zh": "“粗糙的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_111",
     "lemma": "smooth",
     "zh": "光滑的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: smooth.",
+    "examples": [
+      {
+        "en": "I can use 'smooth' in my answer.",
+        "zh": "我可以在答案里用“光滑的”。"
+      },
+      {
+        "en": "'smooth' is important in this lesson.",
+        "zh": "“光滑的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_112",
     "lemma": "transparent",
     "zh": "透明的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: transparent.",
+    "examples": [
+      {
+        "en": "I can use 'transparent' in my answer.",
+        "zh": "我可以在答案里用“透明的”。"
+      },
+      {
+        "en": "'transparent' is important in this lesson.",
+        "zh": "“透明的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_113",
     "lemma": "translucent",
     "zh": "半透明的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: translucent.",
+    "examples": [
+      {
+        "en": "I can use 'translucent' in my answer.",
+        "zh": "我可以在答案里用“半透明的”。"
+      },
+      {
+        "en": "'translucent' is important in this lesson.",
+        "zh": "“半透明的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_114",
     "lemma": "opaque",
     "zh": "不透明的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: opaque.",
+    "examples": [
+      {
+        "en": "I can use 'opaque' in my answer.",
+        "zh": "我可以在答案里用“不透明的”。"
+      },
+      {
+        "en": "'opaque' is important in this lesson.",
+        "zh": "“不透明的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_115",
     "lemma": "absorb",
     "zh": "吸收",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: absorb.",
+    "examples": [
+      {
+        "en": "I can use 'absorb' in my answer.",
+        "zh": "我可以在答案里用“吸收”。"
+      },
+      {
+        "en": "'absorb' is important in this lesson.",
+        "zh": "“吸收”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_116",
     "lemma": "waterproof",
     "zh": "防水的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: waterproof.",
+    "examples": [
+      {
+        "en": "I can use 'waterproof' in my answer.",
+        "zh": "我可以在答案里用“防水的”。"
+      },
+      {
+        "en": "'waterproof' is important in this lesson.",
+        "zh": "“防水的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_117",
     "lemma": "float",
     "zh": "漂浮",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: float.",
+    "examples": [
+      {
+        "en": "I can use 'float' in my answer.",
+        "zh": "我可以在答案里用“漂浮”。"
+      },
+      {
+        "en": "'float' is important in this lesson.",
+        "zh": "“漂浮”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_118",
     "lemma": "sink",
     "zh": "下沉",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: sink.",
+    "examples": [
+      {
+        "en": "I can use 'sink' in my answer.",
+        "zh": "我可以在答案里用“下沉”。"
+      },
+      {
+        "en": "'sink' is important in this lesson.",
+        "zh": "“下沉”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_119",
     "lemma": "magnet",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: magnet.",
+    "examples": [
+      {
+        "en": "I can use 'magnet' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'magnet' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_120",
     "lemma": "heat",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: heat.",
+    "examples": [
+      {
+        "en": "I can use 'heat' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'heat' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_121",
     "lemma": "light",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: light.",
+    "examples": [
+      {
+        "en": "I can use 'light' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'light' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_122",
     "lemma": "sound",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: sound.",
+    "examples": [
+      {
+        "en": "I can use 'sound' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'sound' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_123",
     "lemma": "electric",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: electric.",
+    "examples": [
+      {
+        "en": "I can use 'electric' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'electric' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_124",
     "lemma": "push",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: push.",
+    "examples": [
+      {
+        "en": "I can use 'push' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'push' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_125",
     "lemma": "pull",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: pull.",
+    "examples": [
+      {
+        "en": "I can use 'pull' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'pull' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_126",
     "lemma": "force",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: force.",
+    "examples": [
+      {
+        "en": "I can use 'force' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'force' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_127",
     "lemma": "motion",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: motion.",
+    "examples": [
+      {
+        "en": "I can use 'motion' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'motion' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_128",
     "lemma": "speed",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: speed.",
+    "examples": [
+      {
+        "en": "I can use 'speed' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'speed' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_129",
     "lemma": "friction",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: friction.",
+    "examples": [
+      {
+        "en": "I can use 'friction' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'friction' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_130",
     "lemma": "safety",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: safety.",
+    "examples": [
+      {
+        "en": "I can use 'safety' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'safety' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_131",
     "lemma": "experiment",
     "zh": "实验",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: experiment.",
+    "examples": [
+      {
+        "en": "I can use 'experiment' in my answer.",
+        "zh": "我可以在答案里用“实验”。"
+      },
+      {
+        "en": "'experiment' is important in this lesson.",
+        "zh": "“实验”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_132",
     "lemma": "result",
     "zh": "结果",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: result.",
+    "examples": [
+      {
+        "en": "I can use 'result' in my answer.",
+        "zh": "我可以在答案里用“结果”。"
+      },
+      {
+        "en": "'result' is important in this lesson.",
+        "zh": "“结果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_133",
     "lemma": "classify",
     "zh": "分类",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: classify.",
+    "examples": [
+      {
+        "en": "I can use 'classify' in my answer.",
+        "zh": "我可以在答案里用“分类”。"
+      },
+      {
+        "en": "'classify' is important in this lesson.",
+        "zh": "“分类”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_134",
     "lemma": "group",
     "zh": "分组",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: group.",
+    "examples": [
+      {
+        "en": "I can use 'group' in my answer.",
+        "zh": "我可以在答案里用“分组”。"
+      },
+      {
+        "en": "'group' is important in this lesson.",
+        "zh": "“分组”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_135",
     "lemma": "characteristic",
     "zh": "特征",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: characteristic.",
+    "examples": [
+      {
+        "en": "I can use 'characteristic' in my answer.",
+        "zh": "我可以在答案里用“特征”。"
+      },
+      {
+        "en": "'characteristic' is important in this lesson.",
+        "zh": "“特征”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_136",
     "lemma": "property",
     "zh": "性质",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: property.",
+    "examples": [
+      {
+        "en": "I can use 'property' in my answer.",
+        "zh": "我可以在答案里用“性质”。"
+      },
+      {
+        "en": "'property' is important in this lesson.",
+        "zh": "“性质”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_137",
     "lemma": "observe",
     "zh": "观察",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: observe.",
+    "examples": [
+      {
+        "en": "I can use 'observe' in my answer.",
+        "zh": "我可以在答案里用“观察”。"
+      },
+      {
+        "en": "'observe' is important in this lesson.",
+        "zh": "“观察”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_138",
     "lemma": "compare",
     "zh": "比较",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: compare.",
+    "examples": [
+      {
+        "en": "I can use 'compare' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'compare' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_139",
     "lemma": "measure",
     "zh": "测量",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: measure.",
+    "examples": [
+      {
+        "en": "I can use 'measure' in my answer.",
+        "zh": "我可以在答案里用“测量”。"
+      },
+      {
+        "en": "'measure' is important in this lesson.",
+        "zh": "“测量”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_140",
     "lemma": "living",
     "zh": "有生命的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: living.",
+    "examples": [
+      {
+        "en": "I can use 'living' in my answer.",
+        "zh": "我可以在答案里用“有生命的”。"
+      },
+      {
+        "en": "'living' is important in this lesson.",
+        "zh": "“有生命的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_141",
     "lemma": "non-living",
     "zh": "无生命的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: non-living.",
+    "examples": [
+      {
+        "en": "I can use 'non-living' in my answer.",
+        "zh": "我可以在答案里用“无生命的”。"
+      },
+      {
+        "en": "'non-living' is important in this lesson.",
+        "zh": "“无生命的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_142",
     "lemma": "plant",
     "zh": "植物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: plant.",
+    "examples": [
+      {
+        "en": "I can use 'plant' in my answer.",
+        "zh": "我可以在答案里用“植物”。"
+      },
+      {
+        "en": "'plant' is important in this lesson.",
+        "zh": "“植物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_143",
     "lemma": "animal",
     "zh": "动物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: animal.",
+    "examples": [
+      {
+        "en": "I can use 'animal' in my answer.",
+        "zh": "我可以在答案里用“动物”。"
+      },
+      {
+        "en": "'animal' is important in this lesson.",
+        "zh": "“动物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_144",
     "lemma": "fungus",
     "zh": "真菌",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: fungus.",
+    "examples": [
+      {
+        "en": "I can use 'fungus' in my answer.",
+        "zh": "我可以在答案里用“真菌”。"
+      },
+      {
+        "en": "'fungus' is important in this lesson.",
+        "zh": "“真菌”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_145",
     "lemma": "bacteria",
     "zh": "细菌",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: bacteria.",
+    "examples": [
+      {
+        "en": "I can use 'bacteria' in my answer.",
+        "zh": "我可以在答案里用“细菌”。"
+      },
+      {
+        "en": "'bacteria' is important in this lesson.",
+        "zh": "“细菌”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_146",
     "lemma": "habitat",
     "zh": "栖息地",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: habitat.",
+    "examples": [
+      {
+        "en": "I can use 'habitat' in my answer.",
+        "zh": "我可以在答案里用“栖息地”。"
+      },
+      {
+        "en": "'habitat' is important in this lesson.",
+        "zh": "“栖息地”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_147",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_148",
     "lemma": "life-cycle",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: life-cycle.",
+    "examples": [
+      {
+        "en": "I can use 'life-cycle' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'life-cycle' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_149",
     "lemma": "egg",
     "zh": "卵",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: egg.",
+    "examples": [
+      {
+        "en": "I can use 'egg' in my answer.",
+        "zh": "我可以在答案里用“卵”。"
+      },
+      {
+        "en": "'egg' is important in this lesson.",
+        "zh": "“卵”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_150",
     "lemma": "larva",
     "zh": "幼虫",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: larva.",
+    "examples": [
+      {
+        "en": "I can use 'larva' in my answer.",
+        "zh": "我可以在答案里用“幼虫”。"
+      },
+      {
+        "en": "'larva' is important in this lesson.",
+        "zh": "“幼虫”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_151",
     "lemma": "pupa",
     "zh": "蛹",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: pupa.",
+    "examples": [
+      {
+        "en": "I can use 'pupa' in my answer.",
+        "zh": "我可以在答案里用“蛹”。"
+      },
+      {
+        "en": "'pupa' is important in this lesson.",
+        "zh": "“蛹”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_152",
     "lemma": "adult",
     "zh": "成体",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: adult.",
+    "examples": [
+      {
+        "en": "I can use 'adult' in my answer.",
+        "zh": "我可以在答案里用“成体”。"
+      },
+      {
+        "en": "'adult' is important in this lesson.",
+        "zh": "“成体”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_153",
     "lemma": "grow",
     "zh": "生长",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: grow.",
+    "examples": [
+      {
+        "en": "I can use 'grow' in my answer.",
+        "zh": "我可以在答案里用“生长”。"
+      },
+      {
+        "en": "'grow' is important in this lesson.",
+        "zh": "“生长”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_154",
     "lemma": "reproduce",
     "zh": "繁殖",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: reproduce.",
+    "examples": [
+      {
+        "en": "I can use 'reproduce' in my answer.",
+        "zh": "我可以在答案里用“繁殖”。"
+      },
+      {
+        "en": "'reproduce' is important in this lesson.",
+        "zh": "“繁殖”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_155",
     "lemma": "respond",
     "zh": "反应",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: respond.",
+    "examples": [
+      {
+        "en": "I can use 'respond' in my answer.",
+        "zh": "我可以在答案里用“反应”。"
+      },
+      {
+        "en": "'respond' is important in this lesson.",
+        "zh": "“反应”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_156",
     "lemma": "need",
     "zh": "需要",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: need.",
+    "examples": [
+      {
+        "en": "I can use 'need' in my answer.",
+        "zh": "我可以在答案里用“需要”。"
+      },
+      {
+        "en": "'need' is important in this lesson.",
+        "zh": "“需要”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_157",
     "lemma": "water",
     "zh": "水",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: water.",
+    "examples": [
+      {
+        "en": "I can use 'water' in my answer.",
+        "zh": "我可以在答案里用“水”。"
+      },
+      {
+        "en": "'water' is important in this lesson.",
+        "zh": "“水”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_158",
     "lemma": "air",
     "zh": "空气",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: air.",
+    "examples": [
+      {
+        "en": "I can use 'air' in my answer.",
+        "zh": "我可以在答案里用“空气”。"
+      },
+      {
+        "en": "'air' is important in this lesson.",
+        "zh": "“空气”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_159",
     "lemma": "food",
     "zh": "食物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: food.",
+    "examples": [
+      {
+        "en": "I can use 'food' in my answer.",
+        "zh": "我可以在答案里用“食物”。"
+      },
+      {
+        "en": "'food' is important in this lesson.",
+        "zh": "“食物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_160",
     "lemma": "shelter",
     "zh": "庇护所",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: shelter.",
+    "examples": [
+      {
+        "en": "I can use 'shelter' in my answer.",
+        "zh": "我可以在答案里用“庇护所”。"
+      },
+      {
+        "en": "'shelter' is important in this lesson.",
+        "zh": "“庇护所”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_161",
     "lemma": "material",
     "zh": "材料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: material.",
+    "examples": [
+      {
+        "en": "I can use 'material' in my answer.",
+        "zh": "我可以在答案里用“材料”。"
+      },
+      {
+        "en": "'material' is important in this lesson.",
+        "zh": "“材料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_162",
     "lemma": "wood",
     "zh": "木材",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: wood.",
+    "examples": [
+      {
+        "en": "I can use 'wood' in my answer.",
+        "zh": "我可以在答案里用“木材”。"
+      },
+      {
+        "en": "'wood' is important in this lesson.",
+        "zh": "“木材”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_163",
     "lemma": "metal",
     "zh": "金属",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: metal.",
+    "examples": [
+      {
+        "en": "I can use 'metal' in my answer.",
+        "zh": "我可以在答案里用“金属”。"
+      },
+      {
+        "en": "'metal' is important in this lesson.",
+        "zh": "“金属”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_164",
     "lemma": "plastic",
     "zh": "塑料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: plastic.",
+    "examples": [
+      {
+        "en": "I can use 'plastic' in my answer.",
+        "zh": "我可以在答案里用“塑料”。"
+      },
+      {
+        "en": "'plastic' is important in this lesson.",
+        "zh": "“塑料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_165",
     "lemma": "rubber",
     "zh": "橡胶",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rubber.",
+    "examples": [
+      {
+        "en": "I can use 'rubber' in my answer.",
+        "zh": "我可以在答案里用“橡胶”。"
+      },
+      {
+        "en": "'rubber' is important in this lesson.",
+        "zh": "“橡胶”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_166",
     "lemma": "glass",
     "zh": "玻璃",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: glass.",
+    "examples": [
+      {
+        "en": "I can use 'glass' in my answer.",
+        "zh": "我可以在答案里用“玻璃”。"
+      },
+      {
+        "en": "'glass' is important in this lesson.",
+        "zh": "“玻璃”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_167",
     "lemma": "fabric",
     "zh": "布料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: fabric.",
+    "examples": [
+      {
+        "en": "I can use 'fabric' in my answer.",
+        "zh": "我可以在答案里用“布料”。"
+      },
+      {
+        "en": "'fabric' is important in this lesson.",
+        "zh": "“布料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_168",
     "lemma": "paper",
     "zh": "纸",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: paper.",
+    "examples": [
+      {
+        "en": "I can use 'paper' in my answer.",
+        "zh": "我可以在答案里用“纸”。"
+      },
+      {
+        "en": "'paper' is important in this lesson.",
+        "zh": "“纸”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_169",
     "lemma": "clay",
     "zh": "黏土",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: clay.",
+    "examples": [
+      {
+        "en": "I can use 'clay' in my answer.",
+        "zh": "我可以在答案里用“黏土”。"
+      },
+      {
+        "en": "'clay' is important in this lesson.",
+        "zh": "“黏土”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_170",
     "lemma": "ceramic",
     "zh": "陶瓷",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: ceramic.",
+    "examples": [
+      {
+        "en": "I can use 'ceramic' in my answer.",
+        "zh": "我可以在答案里用“陶瓷”。"
+      },
+      {
+        "en": "'ceramic' is important in this lesson.",
+        "zh": "“陶瓷”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_171",
     "lemma": "strength",
     "zh": "强度",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: strength.",
+    "examples": [
+      {
+        "en": "I can use 'strength' in my answer.",
+        "zh": "我可以在答案里用“强度”。"
+      },
+      {
+        "en": "'strength' is important in this lesson.",
+        "zh": "“强度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_172",
     "lemma": "flexible",
     "zh": "柔韧的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: flexible.",
+    "examples": [
+      {
+        "en": "I can use 'flexible' in my answer.",
+        "zh": "我可以在答案里用“柔韧的”。"
+      },
+      {
+        "en": "'flexible' is important in this lesson.",
+        "zh": "“柔韧的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_173",
     "lemma": "rigid",
     "zh": "坚硬的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rigid.",
+    "examples": [
+      {
+        "en": "I can use 'rigid' in my answer.",
+        "zh": "我可以在答案里用“坚硬的”。"
+      },
+      {
+        "en": "'rigid' is important in this lesson.",
+        "zh": "“坚硬的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_174",
     "lemma": "hard",
     "zh": "硬的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: hard.",
+    "examples": [
+      {
+        "en": "I can use 'hard' in my answer.",
+        "zh": "我可以在答案里用“硬的”。"
+      },
+      {
+        "en": "'hard' is important in this lesson.",
+        "zh": "“硬的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_175",
     "lemma": "soft",
     "zh": "软的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: soft.",
+    "examples": [
+      {
+        "en": "I can use 'soft' in my answer.",
+        "zh": "我可以在答案里用“软的”。"
+      },
+      {
+        "en": "'soft' is important in this lesson.",
+        "zh": "“软的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_176",
     "lemma": "rough",
     "zh": "粗糙的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rough.",
+    "examples": [
+      {
+        "en": "I can use 'rough' in my answer.",
+        "zh": "我可以在答案里用“粗糙的”。"
+      },
+      {
+        "en": "'rough' is important in this lesson.",
+        "zh": "“粗糙的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_177",
     "lemma": "smooth",
     "zh": "光滑的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: smooth.",
+    "examples": [
+      {
+        "en": "I can use 'smooth' in my answer.",
+        "zh": "我可以在答案里用“光滑的”。"
+      },
+      {
+        "en": "'smooth' is important in this lesson.",
+        "zh": "“光滑的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_178",
     "lemma": "transparent",
     "zh": "透明的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: transparent.",
+    "examples": [
+      {
+        "en": "I can use 'transparent' in my answer.",
+        "zh": "我可以在答案里用“透明的”。"
+      },
+      {
+        "en": "'transparent' is important in this lesson.",
+        "zh": "“透明的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_179",
     "lemma": "translucent",
     "zh": "半透明的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: translucent.",
+    "examples": [
+      {
+        "en": "I can use 'translucent' in my answer.",
+        "zh": "我可以在答案里用“半透明的”。"
+      },
+      {
+        "en": "'translucent' is important in this lesson.",
+        "zh": "“半透明的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_180",
     "lemma": "opaque",
     "zh": "不透明的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: opaque.",
+    "examples": [
+      {
+        "en": "I can use 'opaque' in my answer.",
+        "zh": "我可以在答案里用“不透明的”。"
+      },
+      {
+        "en": "'opaque' is important in this lesson.",
+        "zh": "“不透明的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_181",
     "lemma": "absorb",
     "zh": "吸收",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: absorb.",
+    "examples": [
+      {
+        "en": "I can use 'absorb' in my answer.",
+        "zh": "我可以在答案里用“吸收”。"
+      },
+      {
+        "en": "'absorb' is important in this lesson.",
+        "zh": "“吸收”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_182",
     "lemma": "waterproof",
     "zh": "防水的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: waterproof.",
+    "examples": [
+      {
+        "en": "I can use 'waterproof' in my answer.",
+        "zh": "我可以在答案里用“防水的”。"
+      },
+      {
+        "en": "'waterproof' is important in this lesson.",
+        "zh": "“防水的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_183",
     "lemma": "float",
     "zh": "漂浮",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: float.",
+    "examples": [
+      {
+        "en": "I can use 'float' in my answer.",
+        "zh": "我可以在答案里用“漂浮”。"
+      },
+      {
+        "en": "'float' is important in this lesson.",
+        "zh": "“漂浮”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_184",
     "lemma": "sink",
     "zh": "下沉",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: sink.",
+    "examples": [
+      {
+        "en": "I can use 'sink' in my answer.",
+        "zh": "我可以在答案里用“下沉”。"
+      },
+      {
+        "en": "'sink' is important in this lesson.",
+        "zh": "“下沉”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_185",
     "lemma": "magnet",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: magnet.",
+    "examples": [
+      {
+        "en": "I can use 'magnet' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'magnet' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_186",
     "lemma": "heat",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: heat.",
+    "examples": [
+      {
+        "en": "I can use 'heat' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'heat' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_187",
     "lemma": "light",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: light.",
+    "examples": [
+      {
+        "en": "I can use 'light' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'light' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_188",
     "lemma": "sound",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: sound.",
+    "examples": [
+      {
+        "en": "I can use 'sound' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'sound' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_189",
     "lemma": "electric",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: electric.",
+    "examples": [
+      {
+        "en": "I can use 'electric' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'electric' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_190",
     "lemma": "push",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: push.",
+    "examples": [
+      {
+        "en": "I can use 'push' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'push' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_191",
     "lemma": "pull",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: pull.",
+    "examples": [
+      {
+        "en": "I can use 'pull' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'pull' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_192",
     "lemma": "force",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: force.",
+    "examples": [
+      {
+        "en": "I can use 'force' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'force' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_193",
     "lemma": "motion",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: motion.",
+    "examples": [
+      {
+        "en": "I can use 'motion' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'motion' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_194",
     "lemma": "speed",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: speed.",
+    "examples": [
+      {
+        "en": "I can use 'speed' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'speed' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_195",
     "lemma": "friction",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: friction.",
+    "examples": [
+      {
+        "en": "I can use 'friction' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'friction' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_196",
     "lemma": "safety",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: safety.",
+    "examples": [
+      {
+        "en": "I can use 'safety' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'safety' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_197",
     "lemma": "experiment",
     "zh": "实验",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: experiment.",
+    "examples": [
+      {
+        "en": "I can use 'experiment' in my answer.",
+        "zh": "我可以在答案里用“实验”。"
+      },
+      {
+        "en": "'experiment' is important in this lesson.",
+        "zh": "“实验”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_198",
     "lemma": "result",
     "zh": "结果",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: result.",
+    "examples": [
+      {
+        "en": "I can use 'result' in my answer.",
+        "zh": "我可以在答案里用“结果”。"
+      },
+      {
+        "en": "'result' is important in this lesson.",
+        "zh": "“结果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_199",
     "lemma": "classify",
     "zh": "分类",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: classify.",
+    "examples": [
+      {
+        "en": "I can use 'classify' in my answer.",
+        "zh": "我可以在答案里用“分类”。"
+      },
+      {
+        "en": "'classify' is important in this lesson.",
+        "zh": "“分类”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_200",
     "lemma": "group",
     "zh": "分组",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: group.",
+    "examples": [
+      {
+        "en": "I can use 'group' in my answer.",
+        "zh": "我可以在答案里用“分组”。"
+      },
+      {
+        "en": "'group' is important in this lesson.",
+        "zh": "“分组”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_201",
     "lemma": "characteristic",
     "zh": "特征",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: characteristic.",
+    "examples": [
+      {
+        "en": "I can use 'characteristic' in my answer.",
+        "zh": "我可以在答案里用“特征”。"
+      },
+      {
+        "en": "'characteristic' is important in this lesson.",
+        "zh": "“特征”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_202",
     "lemma": "property",
     "zh": "性质",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: property.",
+    "examples": [
+      {
+        "en": "I can use 'property' in my answer.",
+        "zh": "我可以在答案里用“性质”。"
+      },
+      {
+        "en": "'property' is important in this lesson.",
+        "zh": "“性质”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_203",
     "lemma": "observe",
     "zh": "观察",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: observe.",
+    "examples": [
+      {
+        "en": "I can use 'observe' in my answer.",
+        "zh": "我可以在答案里用“观察”。"
+      },
+      {
+        "en": "'observe' is important in this lesson.",
+        "zh": "“观察”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_204",
     "lemma": "compare",
     "zh": "比较",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: compare.",
+    "examples": [
+      {
+        "en": "I can use 'compare' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'compare' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_205",
     "lemma": "measure",
     "zh": "测量",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: measure.",
+    "examples": [
+      {
+        "en": "I can use 'measure' in my answer.",
+        "zh": "我可以在答案里用“测量”。"
+      },
+      {
+        "en": "'measure' is important in this lesson.",
+        "zh": "“测量”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_206",
     "lemma": "living",
     "zh": "有生命的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: living.",
+    "examples": [
+      {
+        "en": "I can use 'living' in my answer.",
+        "zh": "我可以在答案里用“有生命的”。"
+      },
+      {
+        "en": "'living' is important in this lesson.",
+        "zh": "“有生命的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_207",
     "lemma": "non-living",
     "zh": "无生命的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: non-living.",
+    "examples": [
+      {
+        "en": "I can use 'non-living' in my answer.",
+        "zh": "我可以在答案里用“无生命的”。"
+      },
+      {
+        "en": "'non-living' is important in this lesson.",
+        "zh": "“无生命的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_208",
     "lemma": "plant",
     "zh": "植物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: plant.",
+    "examples": [
+      {
+        "en": "I can use 'plant' in my answer.",
+        "zh": "我可以在答案里用“植物”。"
+      },
+      {
+        "en": "'plant' is important in this lesson.",
+        "zh": "“植物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_209",
     "lemma": "animal",
     "zh": "动物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: animal.",
+    "examples": [
+      {
+        "en": "I can use 'animal' in my answer.",
+        "zh": "我可以在答案里用“动物”。"
+      },
+      {
+        "en": "'animal' is important in this lesson.",
+        "zh": "“动物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_210",
     "lemma": "fungus",
     "zh": "真菌",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: fungus.",
+    "examples": [
+      {
+        "en": "I can use 'fungus' in my answer.",
+        "zh": "我可以在答案里用“真菌”。"
+      },
+      {
+        "en": "'fungus' is important in this lesson.",
+        "zh": "“真菌”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_211",
     "lemma": "bacteria",
     "zh": "细菌",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: bacteria.",
+    "examples": [
+      {
+        "en": "I can use 'bacteria' in my answer.",
+        "zh": "我可以在答案里用“细菌”。"
+      },
+      {
+        "en": "'bacteria' is important in this lesson.",
+        "zh": "“细菌”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_212",
     "lemma": "habitat",
     "zh": "栖息地",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: habitat.",
+    "examples": [
+      {
+        "en": "I can use 'habitat' in my answer.",
+        "zh": "我可以在答案里用“栖息地”。"
+      },
+      {
+        "en": "'habitat' is important in this lesson.",
+        "zh": "“栖息地”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_213",
     "lemma": "environment",
     "zh": "环境",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: environment.",
+    "examples": [
+      {
+        "en": "I can use 'environment' in my answer.",
+        "zh": "我可以在答案里用“环境”。"
+      },
+      {
+        "en": "'environment' is important in this lesson.",
+        "zh": "“环境”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_214",
     "lemma": "life-cycle",
     "zh": "（可查词典）",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: life-cycle.",
+    "examples": [
+      {
+        "en": "I can use 'life-cycle' in my answer.",
+        "zh": "我可以在答案里用“（可查词典）”。"
+      },
+      {
+        "en": "'life-cycle' is important in this lesson.",
+        "zh": "“（可查词典）”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_215",
     "lemma": "egg",
     "zh": "卵",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: egg.",
+    "examples": [
+      {
+        "en": "I can use 'egg' in my answer.",
+        "zh": "我可以在答案里用“卵”。"
+      },
+      {
+        "en": "'egg' is important in this lesson.",
+        "zh": "“卵”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_216",
     "lemma": "larva",
     "zh": "幼虫",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: larva.",
+    "examples": [
+      {
+        "en": "I can use 'larva' in my answer.",
+        "zh": "我可以在答案里用“幼虫”。"
+      },
+      {
+        "en": "'larva' is important in this lesson.",
+        "zh": "“幼虫”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_217",
     "lemma": "pupa",
     "zh": "蛹",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: pupa.",
+    "examples": [
+      {
+        "en": "I can use 'pupa' in my answer.",
+        "zh": "我可以在答案里用“蛹”。"
+      },
+      {
+        "en": "'pupa' is important in this lesson.",
+        "zh": "“蛹”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_218",
     "lemma": "adult",
     "zh": "成体",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: adult.",
+    "examples": [
+      {
+        "en": "I can use 'adult' in my answer.",
+        "zh": "我可以在答案里用“成体”。"
+      },
+      {
+        "en": "'adult' is important in this lesson.",
+        "zh": "“成体”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_219",
     "lemma": "grow",
     "zh": "生长",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: grow.",
+    "examples": [
+      {
+        "en": "I can use 'grow' in my answer.",
+        "zh": "我可以在答案里用“生长”。"
+      },
+      {
+        "en": "'grow' is important in this lesson.",
+        "zh": "“生长”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_220",
     "lemma": "reproduce",
     "zh": "繁殖",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: reproduce.",
+    "examples": [
+      {
+        "en": "I can use 'reproduce' in my answer.",
+        "zh": "我可以在答案里用“繁殖”。"
+      },
+      {
+        "en": "'reproduce' is important in this lesson.",
+        "zh": "“繁殖”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_221",
     "lemma": "respond",
     "zh": "反应",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: respond.",
+    "examples": [
+      {
+        "en": "I can use 'respond' in my answer.",
+        "zh": "我可以在答案里用“反应”。"
+      },
+      {
+        "en": "'respond' is important in this lesson.",
+        "zh": "“反应”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_222",
     "lemma": "need",
     "zh": "需要",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: need.",
+    "examples": [
+      {
+        "en": "I can use 'need' in my answer.",
+        "zh": "我可以在答案里用“需要”。"
+      },
+      {
+        "en": "'need' is important in this lesson.",
+        "zh": "“需要”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_223",
     "lemma": "water",
     "zh": "水",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: water.",
+    "examples": [
+      {
+        "en": "I can use 'water' in my answer.",
+        "zh": "我可以在答案里用“水”。"
+      },
+      {
+        "en": "'water' is important in this lesson.",
+        "zh": "“水”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_224",
     "lemma": "air",
     "zh": "空气",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: air.",
+    "examples": [
+      {
+        "en": "I can use 'air' in my answer.",
+        "zh": "我可以在答案里用“空气”。"
+      },
+      {
+        "en": "'air' is important in this lesson.",
+        "zh": "“空气”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_225",
     "lemma": "food",
     "zh": "食物",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: food.",
+    "examples": [
+      {
+        "en": "I can use 'food' in my answer.",
+        "zh": "我可以在答案里用“食物”。"
+      },
+      {
+        "en": "'food' is important in this lesson.",
+        "zh": "“食物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_226",
     "lemma": "shelter",
     "zh": "庇护所",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: shelter.",
+    "examples": [
+      {
+        "en": "I can use 'shelter' in my answer.",
+        "zh": "我可以在答案里用“庇护所”。"
+      },
+      {
+        "en": "'shelter' is important in this lesson.",
+        "zh": "“庇护所”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_227",
     "lemma": "material",
     "zh": "材料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: material.",
+    "examples": [
+      {
+        "en": "I can use 'material' in my answer.",
+        "zh": "我可以在答案里用“材料”。"
+      },
+      {
+        "en": "'material' is important in this lesson.",
+        "zh": "“材料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_228",
     "lemma": "wood",
     "zh": "木材",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: wood.",
+    "examples": [
+      {
+        "en": "I can use 'wood' in my answer.",
+        "zh": "我可以在答案里用“木材”。"
+      },
+      {
+        "en": "'wood' is important in this lesson.",
+        "zh": "“木材”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_229",
     "lemma": "metal",
     "zh": "金属",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: metal.",
+    "examples": [
+      {
+        "en": "I can use 'metal' in my answer.",
+        "zh": "我可以在答案里用“金属”。"
+      },
+      {
+        "en": "'metal' is important in this lesson.",
+        "zh": "“金属”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_230",
     "lemma": "plastic",
     "zh": "塑料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: plastic.",
+    "examples": [
+      {
+        "en": "I can use 'plastic' in my answer.",
+        "zh": "我可以在答案里用“塑料”。"
+      },
+      {
+        "en": "'plastic' is important in this lesson.",
+        "zh": "“塑料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_231",
     "lemma": "rubber",
     "zh": "橡胶",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rubber.",
+    "examples": [
+      {
+        "en": "I can use 'rubber' in my answer.",
+        "zh": "我可以在答案里用“橡胶”。"
+      },
+      {
+        "en": "'rubber' is important in this lesson.",
+        "zh": "“橡胶”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_232",
     "lemma": "glass",
     "zh": "玻璃",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: glass.",
+    "examples": [
+      {
+        "en": "I can use 'glass' in my answer.",
+        "zh": "我可以在答案里用“玻璃”。"
+      },
+      {
+        "en": "'glass' is important in this lesson.",
+        "zh": "“玻璃”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_233",
     "lemma": "fabric",
     "zh": "布料",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: fabric.",
+    "examples": [
+      {
+        "en": "I can use 'fabric' in my answer.",
+        "zh": "我可以在答案里用“布料”。"
+      },
+      {
+        "en": "'fabric' is important in this lesson.",
+        "zh": "“布料”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_234",
     "lemma": "paper",
     "zh": "纸",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: paper.",
+    "examples": [
+      {
+        "en": "I can use 'paper' in my answer.",
+        "zh": "我可以在答案里用“纸”。"
+      },
+      {
+        "en": "'paper' is important in this lesson.",
+        "zh": "“纸”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_235",
     "lemma": "clay",
     "zh": "黏土",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: clay.",
+    "examples": [
+      {
+        "en": "I can use 'clay' in my answer.",
+        "zh": "我可以在答案里用“黏土”。"
+      },
+      {
+        "en": "'clay' is important in this lesson.",
+        "zh": "“黏土”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_236",
     "lemma": "ceramic",
     "zh": "陶瓷",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: ceramic.",
+    "examples": [
+      {
+        "en": "I can use 'ceramic' in my answer.",
+        "zh": "我可以在答案里用“陶瓷”。"
+      },
+      {
+        "en": "'ceramic' is important in this lesson.",
+        "zh": "“陶瓷”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_237",
     "lemma": "strength",
     "zh": "强度",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: strength.",
+    "examples": [
+      {
+        "en": "I can use 'strength' in my answer.",
+        "zh": "我可以在答案里用“强度”。"
+      },
+      {
+        "en": "'strength' is important in this lesson.",
+        "zh": "“强度”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_238",
     "lemma": "flexible",
     "zh": "柔韧的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: flexible.",
+    "examples": [
+      {
+        "en": "I can use 'flexible' in my answer.",
+        "zh": "我可以在答案里用“柔韧的”。"
+      },
+      {
+        "en": "'flexible' is important in this lesson.",
+        "zh": "“柔韧的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_239",
     "lemma": "rigid",
     "zh": "坚硬的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: rigid.",
+    "examples": [
+      {
+        "en": "I can use 'rigid' in my answer.",
+        "zh": "我可以在答案里用“坚硬的”。"
+      },
+      {
+        "en": "'rigid' is important in this lesson.",
+        "zh": "“坚硬的”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_s_240",
     "lemma": "hard",
     "zh": "硬的",
-    "pos": ""
+    "pos": "",
+    "def": "A science word: hard.",
+    "examples": [
+      {
+        "en": "I can use 'hard' in my answer.",
+        "zh": "我可以在答案里用“硬的”。"
+      },
+      {
+        "en": "'hard' is important in this lesson.",
+        "zh": "“硬的”在这课很重要。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_living_things",
+    "lemma": "living things",
+    "zh": "生物",
+    "pos": "phr",
+    "def": "A useful phrase: living things.",
+    "examples": [
+      {
+        "en": "Question: living things?",
+        "zh": "问题：生物？"
+      },
+      {
+        "en": "We often say 'living things' in class.",
+        "zh": "课堂上经常说“生物”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_non-living_things",
+    "lemma": "non-living things",
+    "zh": "非生物",
+    "pos": "phr",
+    "def": "A useful phrase: non-living things.",
+    "examples": [
+      {
+        "en": "Question: non-living things?",
+        "zh": "问题：非生物？"
+      },
+      {
+        "en": "We often say 'non-living things' in class.",
+        "zh": "课堂上经常说“非生物”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_characteristics_of",
+    "lemma": "characteristics of",
+    "zh": "…的特征",
+    "pos": "phr",
+    "def": "A useful phrase: characteristics of.",
+    "examples": [
+      {
+        "en": "Question: characteristics of?",
+        "zh": "问题：…的特征？"
+      },
+      {
+        "en": "We often say 'characteristics of' in class.",
+        "zh": "课堂上经常说“…的特征”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_made_of",
+    "lemma": "made of",
+    "zh": "由…制成",
+    "pos": "phr",
+    "def": "A useful phrase: made of.",
+    "examples": [
+      {
+        "en": "Question: made of?",
+        "zh": "问题：由…制成？"
+      },
+      {
+        "en": "We often say 'made of' in class.",
+        "zh": "课堂上经常说“由…制成”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_physical_properties",
+    "lemma": "physical properties",
+    "zh": "物理性质",
+    "pos": "phr",
+    "def": "A useful phrase: physical properties.",
+    "examples": [
+      {
+        "en": "Question: physical properties?",
+        "zh": "问题：物理性质？"
+      },
+      {
+        "en": "We often say 'physical properties' in class.",
+        "zh": "课堂上经常说“物理性质”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_how_it_is_used",
+    "lemma": "how it is used",
+    "zh": "如何使用",
+    "pos": "phr",
+    "def": "A useful phrase: how it is used.",
+    "examples": [
+      {
+        "en": "Question: how it is used?",
+        "zh": "问题：如何使用？"
+      },
+      {
+        "en": "We often say 'how it is used' in class.",
+        "zh": "课堂上经常说“如何使用”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_observe_and_record",
+    "lemma": "observe and record",
+    "zh": "观察并记录",
+    "pos": "phr",
+    "def": "A useful phrase: observe and record.",
+    "examples": [
+      {
+        "en": "Question: observe and record?",
+        "zh": "问题：观察并记录？"
+      },
+      {
+        "en": "We often say 'observe and record' in class.",
+        "zh": "课堂上经常说“观察并记录”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_classify_into_groups",
+    "lemma": "classify into groups",
+    "zh": "分类成组",
+    "pos": "phr",
+    "def": "A useful phrase: classify into groups.",
+    "examples": [
+      {
+        "en": "Question: classify into groups?",
+        "zh": "问题：分类成组？"
+      },
+      {
+        "en": "We often say 'classify into groups' in class.",
+        "zh": "课堂上经常说“分类成组”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_food_chain",
+    "lemma": "food chain",
+    "zh": "食物链",
+    "pos": "phr",
+    "def": "A useful phrase: food chain.",
+    "examples": [
+      {
+        "en": "Question: food chain?",
+        "zh": "问题：食物链？"
+      },
+      {
+        "en": "We often say 'food chain' in class.",
+        "zh": "课堂上经常说“食物链”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_needs_air_and_water",
+    "lemma": "needs air and water",
+    "zh": "需要空气和水",
+    "pos": "phr",
+    "def": "A useful phrase: needs air and water.",
+    "examples": [
+      {
+        "en": "Question: needs air and water?",
+        "zh": "问题：需要空气和水？"
+      },
+      {
+        "en": "We often say 'needs air and water' in class.",
+        "zh": "课堂上经常说“需要空气和水”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_grow_and_change",
+    "lemma": "grow and change",
+    "zh": "生长和变化",
+    "pos": "phr",
+    "def": "A useful phrase: grow and change.",
+    "examples": [
+      {
+        "en": "Question: grow and change?",
+        "zh": "问题：生长和变化？"
+      },
+      {
+        "en": "We often say 'grow and change' in class.",
+        "zh": "课堂上经常说“生长和变化”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_respond_to_changes",
+    "lemma": "respond to changes",
+    "zh": "对变化作出反应",
+    "pos": "phr",
+    "def": "A useful phrase: respond to changes.",
+    "examples": [
+      {
+        "en": "Question: respond to changes?",
+        "zh": "问题：对变化作出反应？"
+      },
+      {
+        "en": "We often say 'respond to changes' in class.",
+        "zh": "课堂上经常说“对变化作出反应”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_warm-blooded",
+    "lemma": "warm-blooded",
+    "zh": "恒温",
+    "pos": "phr",
+    "def": "A useful phrase: warm-blooded.",
+    "examples": [
+      {
+        "en": "Question: warm-blooded?",
+        "zh": "问题：恒温？"
+      },
+      {
+        "en": "We often say 'warm-blooded' in class.",
+        "zh": "课堂上经常说“恒温”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_cold-blooded",
+    "lemma": "cold-blooded",
+    "zh": "变温",
+    "pos": "phr",
+    "def": "A useful phrase: cold-blooded.",
+    "examples": [
+      {
+        "en": "Question: cold-blooded?",
+        "zh": "问题：变温？"
+      },
+      {
+        "en": "We often say 'cold-blooded' in class.",
+        "zh": "课堂上经常说“变温”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_mammals_and_birds",
+    "lemma": "mammals and birds",
+    "zh": "哺乳动物和鸟类",
+    "pos": "phr",
+    "def": "A useful phrase: mammals and birds.",
+    "examples": [
+      {
+        "en": "Question: mammals and birds?",
+        "zh": "问题：哺乳动物和鸟类？"
+      },
+      {
+        "en": "We often say 'mammals and birds' in class.",
+        "zh": "课堂上经常说“哺乳动物和鸟类”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_fish_and_reptiles",
+    "lemma": "fish and reptiles",
+    "zh": "鱼类和爬行动物",
+    "pos": "phr",
+    "def": "A useful phrase: fish and reptiles.",
+    "examples": [
+      {
+        "en": "Question: fish and reptiles?",
+        "zh": "问题：鱼类和爬行动物？"
+      },
+      {
+        "en": "We often say 'fish and reptiles' in class.",
+        "zh": "课堂上经常说“鱼类和爬行动物”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_insect_life_cycle",
+    "lemma": "insect life cycle",
+    "zh": "昆虫生命周期",
+    "pos": "phr",
+    "def": "A useful phrase: insect life cycle.",
+    "examples": [
+      {
+        "en": "Question: insect life cycle?",
+        "zh": "问题：昆虫生命周期？"
+      },
+      {
+        "en": "We often say 'insect life cycle' in class.",
+        "zh": "课堂上经常说“昆虫生命周期”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_larva_and_pupa",
+    "lemma": "larva and pupa",
+    "zh": "幼虫和蛹",
+    "pos": "phr",
+    "def": "A useful phrase: larva and pupa.",
+    "examples": [
+      {
+        "en": "Question: larva and pupa?",
+        "zh": "问题：幼虫和蛹？"
+      },
+      {
+        "en": "We often say 'larva and pupa' in class.",
+        "zh": "课堂上经常说“幼虫和蛹”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_hatch_from_eggs",
+    "lemma": "hatch from eggs",
+    "zh": "从卵孵化",
+    "pos": "phr",
+    "def": "A useful phrase: hatch from eggs.",
+    "examples": [
+      {
+        "en": "Question: hatch from eggs?",
+        "zh": "问题：从卵孵化？"
+      },
+      {
+        "en": "We often say 'hatch from eggs' in class.",
+        "zh": "课堂上经常说“从卵孵化”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_materials_around_us",
+    "lemma": "materials around us",
+    "zh": "身边的材料",
+    "pos": "phr",
+    "def": "A useful phrase: materials around us.",
+    "examples": [
+      {
+        "en": "Question: materials around us?",
+        "zh": "问题：身边的材料？"
+      },
+      {
+        "en": "We often say 'materials around us' in class.",
+        "zh": "课堂上经常说“身边的材料”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_flexible_or_rigid",
+    "lemma": "flexible or rigid",
+    "zh": "柔软或坚硬",
+    "pos": "phr",
+    "def": "A useful phrase: flexible or rigid.",
+    "examples": [
+      {
+        "en": "Question: flexible or rigid?",
+        "zh": "问题：柔软或坚硬？"
+      },
+      {
+        "en": "We often say 'flexible or rigid' in class.",
+        "zh": "课堂上经常说“柔软或坚硬”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_float_or_sink",
+    "lemma": "float or sink",
+    "zh": "浮或沉",
+    "pos": "phr",
+    "def": "A useful phrase: float or sink.",
+    "examples": [
+      {
+        "en": "Question: float or sink?",
+        "zh": "问题：浮或沉？"
+      },
+      {
+        "en": "We often say 'float or sink' in class.",
+        "zh": "课堂上经常说“浮或沉”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_absorb_water",
+    "lemma": "absorb water",
+    "zh": "吸水",
+    "pos": "phr",
+    "def": "A useful phrase: absorb water.",
+    "examples": [
+      {
+        "en": "Question: absorb water?",
+        "zh": "问题：吸水？"
+      },
+      {
+        "en": "We often say 'absorb water' in class.",
+        "zh": "课堂上经常说“吸水”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_magnetic",
+    "lemma": "magnetic",
+    "zh": "有磁性",
+    "pos": "phr",
+    "def": "A useful phrase: magnetic.",
+    "examples": [
+      {
+        "en": "Question: magnetic?",
+        "zh": "问题：有磁性？"
+      },
+      {
+        "en": "We often say 'magnetic' in class.",
+        "zh": "课堂上经常说“有磁性”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_conduct_electricity",
+    "lemma": "conduct electricity",
+    "zh": "导电",
+    "pos": "phr",
+    "def": "A useful phrase: conduct electricity.",
+    "examples": [
+      {
+        "en": "Question: conduct electricity?",
+        "zh": "问题：导电？"
+      },
+      {
+        "en": "We often say 'conduct electricity' in class.",
+        "zh": "课堂上经常说“导电”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_simple_experiment",
+    "lemma": "simple experiment",
+    "zh": "简单实验",
+    "pos": "phr",
+    "def": "A useful phrase: simple experiment.",
+    "examples": [
+      {
+        "en": "Question: simple experiment?",
+        "zh": "问题：简单实验？"
+      },
+      {
+        "en": "We often say 'simple experiment' in class.",
+        "zh": "课堂上经常说“简单实验”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_make_a_prediction",
+    "lemma": "make a prediction",
+    "zh": "做预测",
+    "pos": "phr",
+    "def": "A useful phrase: make a prediction.",
+    "examples": [
+      {
+        "en": "Question: make a prediction?",
+        "zh": "问题：做预测？"
+      },
+      {
+        "en": "We often say 'make a prediction' in class.",
+        "zh": "课堂上经常说“做预测”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_fair_test",
+    "lemma": "fair test",
+    "zh": "公平测试",
+    "pos": "phr",
+    "def": "A useful phrase: fair test.",
+    "examples": [
+      {
+        "en": "Question: fair test?",
+        "zh": "问题：公平测试？"
+      },
+      {
+        "en": "We often say 'fair test' in class.",
+        "zh": "课堂上经常说“公平测试”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_results_table",
+    "lemma": "results table",
+    "zh": "结果表",
+    "pos": "phr",
+    "def": "A useful phrase: results table.",
+    "examples": [
+      {
+        "en": "Question: results table?",
+        "zh": "问题：结果表？"
+      },
+      {
+        "en": "We often say 'results table' in class.",
+        "zh": "课堂上经常说“结果表”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_conclusion",
+    "lemma": "conclusion",
+    "zh": "结论",
+    "pos": "phr",
+    "def": "A useful phrase: conclusion.",
+    "examples": [
+      {
+        "en": "Question: conclusion?",
+        "zh": "问题：结论？"
+      },
+      {
+        "en": "We often say 'conclusion' in class.",
+        "zh": "课堂上经常说“结论”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_safety_rules",
+    "lemma": "safety rules",
+    "zh": "安全规则",
+    "pos": "phr",
+    "def": "A useful phrase: safety rules.",
+    "examples": [
+      {
+        "en": "Question: safety rules?",
+        "zh": "问题：安全规则？"
+      },
+      {
+        "en": "We often say 'safety rules' in class.",
+        "zh": "课堂上经常说“安全规则”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_use_a_diagram",
+    "lemma": "use a diagram",
+    "zh": "使用图表",
+    "pos": "phr",
+    "def": "A useful phrase: use a diagram.",
+    "examples": [
+      {
+        "en": "Question: use a diagram?",
+        "zh": "问题：使用图表？"
+      },
+      {
+        "en": "We often say 'use a diagram' in class.",
+        "zh": "课堂上经常说“使用图表”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_label_the_parts",
+    "lemma": "label the parts",
+    "zh": "标注部分",
+    "pos": "phr",
+    "def": "A useful phrase: label the parts.",
+    "examples": [
+      {
+        "en": "Question: label the parts?",
+        "zh": "问题：标注部分？"
+      },
+      {
+        "en": "We often say 'label the parts' in class.",
+        "zh": "课堂上经常说“标注部分”。"
+      }
+    ]
+  },
+  {
+    "lemma": "needs water",
+    "zh": "需要水",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: needs water",
+    "examples": [
+      {
+        "en": "Use the phrase 'needs water' in a sentence.",
+        "zh": "在句子里用“需要水”。"
+      }
+    ]
+  },
+  {
+    "lemma": "needs air",
+    "zh": "需要空气",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: needs air",
+    "examples": [
+      {
+        "en": "Use the phrase 'needs air' in a sentence.",
+        "zh": "在句子里用“需要空气”。"
+      }
+    ]
+  },
+  {
+    "lemma": "made of material",
+    "zh": "由材料制成",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: made of material",
+    "examples": [
+      {
+        "en": "Use the phrase 'made of material' in a sentence.",
+        "zh": "在句子里用“由材料制成”。"
+      }
+    ]
+  },
+  {
+    "lemma": "do not absorb",
+    "zh": "不吸收",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: do not absorb",
+    "examples": [
+      {
+        "en": "Use the phrase 'do not absorb' in a sentence.",
+        "zh": "在句子里用“不吸收”。"
+      }
+    ]
+  },
+  {
+    "lemma": "float on water",
+    "zh": "浮在水上",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: float on water",
+    "examples": [
+      {
+        "en": "Use the phrase 'float on water' in a sentence.",
+        "zh": "在句子里用“浮在水上”。"
+      }
+    ]
+  },
+  {
+    "lemma": "sink in water",
+    "zh": "沉入水中",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: sink in water",
+    "examples": [
+      {
+        "en": "Use the phrase 'sink in water' in a sentence.",
+        "zh": "在句子里用“沉入水中”。"
+      }
+    ]
+  },
+  {
+    "lemma": "take in food",
+    "zh": "摄取食物",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: take in food",
+    "examples": [
+      {
+        "en": "Use the phrase 'take in food' in a sentence.",
+        "zh": "在句子里用“摄取食物”。"
+      }
+    ]
+  },
+  {
+    "lemma": "give birth",
+    "zh": "生孩子",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: give birth",
+    "examples": [
+      {
+        "en": "Use the phrase 'give birth' in a sentence.",
+        "zh": "在句子里用“生孩子”。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -40",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -40",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -35",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -35",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -34",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -34",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -33",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -33",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -31",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -31",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -30",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -30",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -29",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -29",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -28",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -28",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -27",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -27",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -26",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -26",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -25",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -25",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -24",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -24",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -23",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -23",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -22",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -22",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -21",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -21",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -20",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -20",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -19",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -19",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -18",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -18",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -17",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -17",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -16",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -16",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -15",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -15",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -14",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -14",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -13",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -13",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -12",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -12",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -11",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -11",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -10",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -10",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -9",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -9",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -8",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -8",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -7",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -7",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -6",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -6",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -5",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -5",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -4",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -4",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -3",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -3",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -2",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -2",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -1",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -1",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question 0",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question 0",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps 1",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps 1",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question 2",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question 2",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning 3",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning 3",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer 4",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer 4",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question 5",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question 5",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
   }
 ]

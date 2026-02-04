@@ -34,3 +34,17 @@ body.dark .pill, body.dark .kbd{background:#111827;color:#e5e7eb;border-color:#1
 body.dark .form-control, body.dark .form-select{background:#0b1220;color:#e5e7eb;border-color:#1f2937;}
 body.dark .text-muted{color:#94a3b8 !important;}
 .lookup-body pre{white-space:pre-wrap;}
+
+
+/* Word Bank grid (auto-fill) */
+.wb-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px;}
+.wb-card{background:#fff;border:1px solid rgba(0,0,0,.08);border-radius:14px;padding:14px;box-shadow:0 2px 10px rgba(0,0,0,.04);display:flex;flex-direction:column;min-height:132px;}
+.wb-top{display:flex;align-items:flex-start;justify-content:space-between;gap:8px;}
+.wb-lemma{font-weight:700;font-size:1.05rem;line-height:1.2;}
+.wb-zh{margin-top:6px;min-height:1.2em;}
+.wb-meta{margin-top:8px;color:rgba(0,0,0,.55);font-size:.85rem;}
+.wb-actions{margin-top:auto;display:flex;gap:8px;justify-content:flex-end;}
+.lookup-examples{display:flex;flex-direction:column;gap:10px;}
+.ex-item{padding:10px 12px;border:1px solid rgba(0,0,0,.08);border-radius:12px;background:rgba(13,110,253,.03);}
+.ex-en{font-size:.95rem;}
+.ex-zh{font-size:.9rem;color:rgba(0,0,0,.6);margin-top:4px;}

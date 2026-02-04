@@ -3,1440 +3,4914 @@
     "id": "p3_c_001",
     "lemma": "阅读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 阅读.",
+    "examples": [
+      {
+        "en": "I can use '阅读' in my answer.",
+        "zh": "我可以在答案里用“阅读”。"
+      },
+      {
+        "en": "'阅读' is important in this lesson.",
+        "zh": "“阅读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_002",
     "lemma": "理解",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 理解.",
+    "examples": [
+      {
+        "en": "I can use '理解' in my answer.",
+        "zh": "我可以在答案里用“理解”。"
+      },
+      {
+        "en": "'理解' is important in this lesson.",
+        "zh": "“理解”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_003",
     "lemma": "段落",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段落.",
+    "examples": [
+      {
+        "en": "I can use '段落' in my answer.",
+        "zh": "我可以在答案里用“段落”。"
+      },
+      {
+        "en": "'段落' is important in this lesson.",
+        "zh": "“段落”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_004",
     "lemma": "主旨",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 主旨.",
+    "examples": [
+      {
+        "en": "I can use '主旨' in my answer.",
+        "zh": "我可以在答案里用“主旨”。"
+      },
+      {
+        "en": "'主旨' is important in this lesson.",
+        "zh": "“主旨”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_005",
     "lemma": "细节",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 细节.",
+    "examples": [
+      {
+        "en": "I can use '细节' in my answer.",
+        "zh": "我可以在答案里用“细节”。"
+      },
+      {
+        "en": "'细节' is important in this lesson.",
+        "zh": "“细节”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_006",
     "lemma": "人物",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 人物.",
+    "examples": [
+      {
+        "en": "I can use '人物' in my answer.",
+        "zh": "我可以在答案里用“人物”。"
+      },
+      {
+        "en": "'人物' is important in this lesson.",
+        "zh": "“人物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_007",
     "lemma": "时间",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 时间.",
+    "examples": [
+      {
+        "en": "I can use '时间' in my answer.",
+        "zh": "我可以在答案里用“时间”。"
+      },
+      {
+        "en": "'时间' is important in this lesson.",
+        "zh": "“时间”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_008",
     "lemma": "地点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 地点.",
+    "examples": [
+      {
+        "en": "I can use '地点' in my answer.",
+        "zh": "我可以在答案里用“地点”。"
+      },
+      {
+        "en": "'地点' is important in this lesson.",
+        "zh": "“地点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_009",
     "lemma": "原因",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 原因.",
+    "examples": [
+      {
+        "en": "I can use '原因' in my answer.",
+        "zh": "我可以在答案里用“原因”。"
+      },
+      {
+        "en": "'原因' is important in this lesson.",
+        "zh": "“原因”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_010",
     "lemma": "结果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 结果.",
+    "examples": [
+      {
+        "en": "I can use '结果' in my answer.",
+        "zh": "我可以在答案里用“结果”。"
+      },
+      {
+        "en": "'结果' is important in this lesson.",
+        "zh": "“结果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_011",
     "lemma": "比较",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 比较.",
+    "examples": [
+      {
+        "en": "I can use '比较' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'比较' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_012",
     "lemma": "推断",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 推断.",
+    "examples": [
+      {
+        "en": "I can use '推断' in my answer.",
+        "zh": "我可以在答案里用“推断”。"
+      },
+      {
+        "en": "'推断' is important in this lesson.",
+        "zh": "“推断”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_013",
     "lemma": "总结",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 总结.",
+    "examples": [
+      {
+        "en": "I can use '总结' in my answer.",
+        "zh": "我可以在答案里用“总结”。"
+      },
+      {
+        "en": "'总结' is important in this lesson.",
+        "zh": "“总结”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_014",
     "lemma": "词语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词语.",
+    "examples": [
+      {
+        "en": "I can use '词语' in my answer.",
+        "zh": "我可以在答案里用“词语”。"
+      },
+      {
+        "en": "'词语' is important in this lesson.",
+        "zh": "“词语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_015",
     "lemma": "近义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 近义词.",
+    "examples": [
+      {
+        "en": "I can use '近义词' in my answer.",
+        "zh": "我可以在答案里用“近义词”。"
+      },
+      {
+        "en": "'近义词' is important in this lesson.",
+        "zh": "“近义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_016",
     "lemma": "反义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 反义词.",
+    "examples": [
+      {
+        "en": "I can use '反义词' in my answer.",
+        "zh": "我可以在答案里用“反义词”。"
+      },
+      {
+        "en": "'反义词' is important in this lesson.",
+        "zh": "“反义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_017",
     "lemma": "成语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 成语.",
+    "examples": [
+      {
+        "en": "I can use '成语' in my answer.",
+        "zh": "我可以在答案里用“成语”。"
+      },
+      {
+        "en": "'成语' is important in this lesson.",
+        "zh": "“成语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_018",
     "lemma": "句子",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 句子.",
+    "examples": [
+      {
+        "en": "I can use '句子' in my answer.",
+        "zh": "我可以在答案里用“句子”。"
+      },
+      {
+        "en": "'句子' is important in this lesson.",
+        "zh": "“句子”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_019",
     "lemma": "标点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标点.",
+    "examples": [
+      {
+        "en": "I can use '标点' in my answer.",
+        "zh": "我可以在答案里用“标点”。"
+      },
+      {
+        "en": "'标点' is important in this lesson.",
+        "zh": "“标点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_020",
     "lemma": "朗读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 朗读.",
+    "examples": [
+      {
+        "en": "I can use '朗读' in my answer.",
+        "zh": "我可以在答案里用“朗读”。"
+      },
+      {
+        "en": "'朗读' is important in this lesson.",
+        "zh": "“朗读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_021",
     "lemma": "拼音",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 拼音.",
+    "examples": [
+      {
+        "en": "I can use '拼音' in my answer.",
+        "zh": "我可以在答案里用“拼音”。"
+      },
+      {
+        "en": "'拼音' is important in this lesson.",
+        "zh": "“拼音”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_022",
     "lemma": "偏旁",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 偏旁.",
+    "examples": [
+      {
+        "en": "I can use '偏旁' in my answer.",
+        "zh": "我可以在答案里用“偏旁”。"
+      },
+      {
+        "en": "'偏旁' is important in this lesson.",
+        "zh": "“偏旁”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_023",
     "lemma": "部首",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 部首.",
+    "examples": [
+      {
+        "en": "I can use '部首' in my answer.",
+        "zh": "我可以在答案里用“部首”。"
+      },
+      {
+        "en": "'部首' is important in this lesson.",
+        "zh": "“部首”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_024",
     "lemma": "词性",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词性.",
+    "examples": [
+      {
+        "en": "I can use '词性' in my answer.",
+        "zh": "我可以在答案里用“词性”。"
+      },
+      {
+        "en": "'词性' is important in this lesson.",
+        "zh": "“词性”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_025",
     "lemma": "名词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 名词.",
+    "examples": [
+      {
+        "en": "I can use '名词' in my answer.",
+        "zh": "我可以在答案里用“名词”。"
+      },
+      {
+        "en": "'名词' is important in this lesson.",
+        "zh": "“名词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_026",
     "lemma": "动词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 动词.",
+    "examples": [
+      {
+        "en": "I can use '动词' in my answer.",
+        "zh": "我可以在答案里用“动词”。"
+      },
+      {
+        "en": "'动词' is important in this lesson.",
+        "zh": "“动词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_027",
     "lemma": "形容词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 形容词.",
+    "examples": [
+      {
+        "en": "I can use '形容词' in my answer.",
+        "zh": "我可以在答案里用“形容词”。"
+      },
+      {
+        "en": "'形容词' is important in this lesson.",
+        "zh": "“形容词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_028",
     "lemma": "量词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 量词.",
+    "examples": [
+      {
+        "en": "I can use '量词' in my answer.",
+        "zh": "我可以在答案里用“量词”。"
+      },
+      {
+        "en": "'量词' is important in this lesson.",
+        "zh": "“量词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_029",
     "lemma": "顺序",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 顺序.",
+    "examples": [
+      {
+        "en": "I can use '顺序' in my answer.",
+        "zh": "我可以在答案里用“顺序”。"
+      },
+      {
+        "en": "'顺序' is important in this lesson.",
+        "zh": "“顺序”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_030",
     "lemma": "连词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 连词.",
+    "examples": [
+      {
+        "en": "I can use '连词' in my answer.",
+        "zh": "我可以在答案里用“连词”。"
+      },
+      {
+        "en": "'连词' is important in this lesson.",
+        "zh": "“连词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_031",
     "lemma": "因为",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 因为.",
+    "examples": [
+      {
+        "en": "I can use '因为' in my answer.",
+        "zh": "我可以在答案里用“因为”。"
+      },
+      {
+        "en": "'因为' is important in this lesson.",
+        "zh": "“因为”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_032",
     "lemma": "所以",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 所以.",
+    "examples": [
+      {
+        "en": "I can use '所以' in my answer.",
+        "zh": "我可以在答案里用“所以”。"
+      },
+      {
+        "en": "'所以' is important in this lesson.",
+        "zh": "“所以”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_033",
     "lemma": "但是",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 但是.",
+    "examples": [
+      {
+        "en": "I can use '但是' in my answer.",
+        "zh": "我可以在答案里用“但是”。"
+      },
+      {
+        "en": "'但是' is important in this lesson.",
+        "zh": "“但是”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_034",
     "lemma": "如果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 如果.",
+    "examples": [
+      {
+        "en": "I can use '如果' in my answer.",
+        "zh": "我可以在答案里用“如果”。"
+      },
+      {
+        "en": "'如果' is important in this lesson.",
+        "zh": "“如果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_035",
     "lemma": "然后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 然后.",
+    "examples": [
+      {
+        "en": "I can use '然后' in my answer.",
+        "zh": "我可以在答案里用“然后”。"
+      },
+      {
+        "en": "'然后' is important in this lesson.",
+        "zh": "“然后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_036",
     "lemma": "最后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 最后.",
+    "examples": [
+      {
+        "en": "I can use '最后' in my answer.",
+        "zh": "我可以在答案里用“最后”。"
+      },
+      {
+        "en": "'最后' is important in this lesson.",
+        "zh": "“最后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_037",
     "lemma": "说明",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明.",
+    "examples": [
+      {
+        "en": "I can use '说明' in my answer.",
+        "zh": "我可以在答案里用“说明”。"
+      },
+      {
+        "en": "'说明' is important in this lesson.",
+        "zh": "“说明”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_038",
     "lemma": "描写",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 描写.",
+    "examples": [
+      {
+        "en": "I can use '描写' in my answer.",
+        "zh": "我可以在答案里用“描写”。"
+      },
+      {
+        "en": "'描写' is important in this lesson.",
+        "zh": "“描写”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_039",
     "lemma": "记叙",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙.",
+    "examples": [
+      {
+        "en": "I can use '记叙' in my answer.",
+        "zh": "我可以在答案里用“记叙”。"
+      },
+      {
+        "en": "'记叙' is important in this lesson.",
+        "zh": "“记叙”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_040",
     "lemma": "议论",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 议论.",
+    "examples": [
+      {
+        "en": "I can use '议论' in my answer.",
+        "zh": "我可以在答案里用“议论”。"
+      },
+      {
+        "en": "'议论' is important in this lesson.",
+        "zh": "“议论”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_041",
     "lemma": "说明文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明文.",
+    "examples": [
+      {
+        "en": "I can use '说明文' in my answer.",
+        "zh": "我可以在答案里用“说明文”。"
+      },
+      {
+        "en": "'说明文' is important in this lesson.",
+        "zh": "“说明文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_042",
     "lemma": "记叙文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙文.",
+    "examples": [
+      {
+        "en": "I can use '记叙文' in my answer.",
+        "zh": "我可以在答案里用“记叙文”。"
+      },
+      {
+        "en": "'记叙文' is important in this lesson.",
+        "zh": "“记叙文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_043",
     "lemma": "日记",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 日记.",
+    "examples": [
+      {
+        "en": "I can use '日记' in my answer.",
+        "zh": "我可以在答案里用“日记”。"
+      },
+      {
+        "en": "'日记' is important in this lesson.",
+        "zh": "“日记”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_044",
     "lemma": "通知",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 通知.",
+    "examples": [
+      {
+        "en": "I can use '通知' in my answer.",
+        "zh": "我可以在答案里用“通知”。"
+      },
+      {
+        "en": "'通知' is important in this lesson.",
+        "zh": "“通知”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_045",
     "lemma": "作文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 作文.",
+    "examples": [
+      {
+        "en": "I can use '作文' in my answer.",
+        "zh": "我可以在答案里用“作文”。"
+      },
+      {
+        "en": "'作文' is important in this lesson.",
+        "zh": "“作文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_046",
     "lemma": "标题",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标题.",
+    "examples": [
+      {
+        "en": "I can use '标题' in my answer.",
+        "zh": "我可以在答案里用“标题”。"
+      },
+      {
+        "en": "'标题' is important in this lesson.",
+        "zh": "“标题”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_047",
     "lemma": "段意",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段意.",
+    "examples": [
+      {
+        "en": "I can use '段意' in my answer.",
+        "zh": "我可以在答案里用“段意”。"
+      },
+      {
+        "en": "'段意' is important in this lesson.",
+        "zh": "“段意”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_048",
     "lemma": "阅读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 阅读.",
+    "examples": [
+      {
+        "en": "I can use '阅读' in my answer.",
+        "zh": "我可以在答案里用“阅读”。"
+      },
+      {
+        "en": "'阅读' is important in this lesson.",
+        "zh": "“阅读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_049",
     "lemma": "理解",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 理解.",
+    "examples": [
+      {
+        "en": "I can use '理解' in my answer.",
+        "zh": "我可以在答案里用“理解”。"
+      },
+      {
+        "en": "'理解' is important in this lesson.",
+        "zh": "“理解”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_050",
     "lemma": "段落",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段落.",
+    "examples": [
+      {
+        "en": "I can use '段落' in my answer.",
+        "zh": "我可以在答案里用“段落”。"
+      },
+      {
+        "en": "'段落' is important in this lesson.",
+        "zh": "“段落”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_051",
     "lemma": "主旨",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 主旨.",
+    "examples": [
+      {
+        "en": "I can use '主旨' in my answer.",
+        "zh": "我可以在答案里用“主旨”。"
+      },
+      {
+        "en": "'主旨' is important in this lesson.",
+        "zh": "“主旨”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_052",
     "lemma": "细节",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 细节.",
+    "examples": [
+      {
+        "en": "I can use '细节' in my answer.",
+        "zh": "我可以在答案里用“细节”。"
+      },
+      {
+        "en": "'细节' is important in this lesson.",
+        "zh": "“细节”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_053",
     "lemma": "人物",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 人物.",
+    "examples": [
+      {
+        "en": "I can use '人物' in my answer.",
+        "zh": "我可以在答案里用“人物”。"
+      },
+      {
+        "en": "'人物' is important in this lesson.",
+        "zh": "“人物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_054",
     "lemma": "时间",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 时间.",
+    "examples": [
+      {
+        "en": "I can use '时间' in my answer.",
+        "zh": "我可以在答案里用“时间”。"
+      },
+      {
+        "en": "'时间' is important in this lesson.",
+        "zh": "“时间”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_055",
     "lemma": "地点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 地点.",
+    "examples": [
+      {
+        "en": "I can use '地点' in my answer.",
+        "zh": "我可以在答案里用“地点”。"
+      },
+      {
+        "en": "'地点' is important in this lesson.",
+        "zh": "“地点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_056",
     "lemma": "原因",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 原因.",
+    "examples": [
+      {
+        "en": "I can use '原因' in my answer.",
+        "zh": "我可以在答案里用“原因”。"
+      },
+      {
+        "en": "'原因' is important in this lesson.",
+        "zh": "“原因”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_057",
     "lemma": "结果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 结果.",
+    "examples": [
+      {
+        "en": "I can use '结果' in my answer.",
+        "zh": "我可以在答案里用“结果”。"
+      },
+      {
+        "en": "'结果' is important in this lesson.",
+        "zh": "“结果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_058",
     "lemma": "比较",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 比较.",
+    "examples": [
+      {
+        "en": "I can use '比较' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'比较' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_059",
     "lemma": "推断",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 推断.",
+    "examples": [
+      {
+        "en": "I can use '推断' in my answer.",
+        "zh": "我可以在答案里用“推断”。"
+      },
+      {
+        "en": "'推断' is important in this lesson.",
+        "zh": "“推断”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_060",
     "lemma": "总结",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 总结.",
+    "examples": [
+      {
+        "en": "I can use '总结' in my answer.",
+        "zh": "我可以在答案里用“总结”。"
+      },
+      {
+        "en": "'总结' is important in this lesson.",
+        "zh": "“总结”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_061",
     "lemma": "词语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词语.",
+    "examples": [
+      {
+        "en": "I can use '词语' in my answer.",
+        "zh": "我可以在答案里用“词语”。"
+      },
+      {
+        "en": "'词语' is important in this lesson.",
+        "zh": "“词语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_062",
     "lemma": "近义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 近义词.",
+    "examples": [
+      {
+        "en": "I can use '近义词' in my answer.",
+        "zh": "我可以在答案里用“近义词”。"
+      },
+      {
+        "en": "'近义词' is important in this lesson.",
+        "zh": "“近义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_063",
     "lemma": "反义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 反义词.",
+    "examples": [
+      {
+        "en": "I can use '反义词' in my answer.",
+        "zh": "我可以在答案里用“反义词”。"
+      },
+      {
+        "en": "'反义词' is important in this lesson.",
+        "zh": "“反义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_064",
     "lemma": "成语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 成语.",
+    "examples": [
+      {
+        "en": "I can use '成语' in my answer.",
+        "zh": "我可以在答案里用“成语”。"
+      },
+      {
+        "en": "'成语' is important in this lesson.",
+        "zh": "“成语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_065",
     "lemma": "句子",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 句子.",
+    "examples": [
+      {
+        "en": "I can use '句子' in my answer.",
+        "zh": "我可以在答案里用“句子”。"
+      },
+      {
+        "en": "'句子' is important in this lesson.",
+        "zh": "“句子”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_066",
     "lemma": "标点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标点.",
+    "examples": [
+      {
+        "en": "I can use '标点' in my answer.",
+        "zh": "我可以在答案里用“标点”。"
+      },
+      {
+        "en": "'标点' is important in this lesson.",
+        "zh": "“标点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_067",
     "lemma": "朗读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 朗读.",
+    "examples": [
+      {
+        "en": "I can use '朗读' in my answer.",
+        "zh": "我可以在答案里用“朗读”。"
+      },
+      {
+        "en": "'朗读' is important in this lesson.",
+        "zh": "“朗读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_068",
     "lemma": "拼音",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 拼音.",
+    "examples": [
+      {
+        "en": "I can use '拼音' in my answer.",
+        "zh": "我可以在答案里用“拼音”。"
+      },
+      {
+        "en": "'拼音' is important in this lesson.",
+        "zh": "“拼音”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_069",
     "lemma": "偏旁",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 偏旁.",
+    "examples": [
+      {
+        "en": "I can use '偏旁' in my answer.",
+        "zh": "我可以在答案里用“偏旁”。"
+      },
+      {
+        "en": "'偏旁' is important in this lesson.",
+        "zh": "“偏旁”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_070",
     "lemma": "部首",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 部首.",
+    "examples": [
+      {
+        "en": "I can use '部首' in my answer.",
+        "zh": "我可以在答案里用“部首”。"
+      },
+      {
+        "en": "'部首' is important in this lesson.",
+        "zh": "“部首”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_071",
     "lemma": "词性",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词性.",
+    "examples": [
+      {
+        "en": "I can use '词性' in my answer.",
+        "zh": "我可以在答案里用“词性”。"
+      },
+      {
+        "en": "'词性' is important in this lesson.",
+        "zh": "“词性”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_072",
     "lemma": "名词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 名词.",
+    "examples": [
+      {
+        "en": "I can use '名词' in my answer.",
+        "zh": "我可以在答案里用“名词”。"
+      },
+      {
+        "en": "'名词' is important in this lesson.",
+        "zh": "“名词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_073",
     "lemma": "动词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 动词.",
+    "examples": [
+      {
+        "en": "I can use '动词' in my answer.",
+        "zh": "我可以在答案里用“动词”。"
+      },
+      {
+        "en": "'动词' is important in this lesson.",
+        "zh": "“动词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_074",
     "lemma": "形容词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 形容词.",
+    "examples": [
+      {
+        "en": "I can use '形容词' in my answer.",
+        "zh": "我可以在答案里用“形容词”。"
+      },
+      {
+        "en": "'形容词' is important in this lesson.",
+        "zh": "“形容词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_075",
     "lemma": "量词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 量词.",
+    "examples": [
+      {
+        "en": "I can use '量词' in my answer.",
+        "zh": "我可以在答案里用“量词”。"
+      },
+      {
+        "en": "'量词' is important in this lesson.",
+        "zh": "“量词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_076",
     "lemma": "顺序",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 顺序.",
+    "examples": [
+      {
+        "en": "I can use '顺序' in my answer.",
+        "zh": "我可以在答案里用“顺序”。"
+      },
+      {
+        "en": "'顺序' is important in this lesson.",
+        "zh": "“顺序”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_077",
     "lemma": "连词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 连词.",
+    "examples": [
+      {
+        "en": "I can use '连词' in my answer.",
+        "zh": "我可以在答案里用“连词”。"
+      },
+      {
+        "en": "'连词' is important in this lesson.",
+        "zh": "“连词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_078",
     "lemma": "因为",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 因为.",
+    "examples": [
+      {
+        "en": "I can use '因为' in my answer.",
+        "zh": "我可以在答案里用“因为”。"
+      },
+      {
+        "en": "'因为' is important in this lesson.",
+        "zh": "“因为”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_079",
     "lemma": "所以",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 所以.",
+    "examples": [
+      {
+        "en": "I can use '所以' in my answer.",
+        "zh": "我可以在答案里用“所以”。"
+      },
+      {
+        "en": "'所以' is important in this lesson.",
+        "zh": "“所以”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_080",
     "lemma": "但是",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 但是.",
+    "examples": [
+      {
+        "en": "I can use '但是' in my answer.",
+        "zh": "我可以在答案里用“但是”。"
+      },
+      {
+        "en": "'但是' is important in this lesson.",
+        "zh": "“但是”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_081",
     "lemma": "如果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 如果.",
+    "examples": [
+      {
+        "en": "I can use '如果' in my answer.",
+        "zh": "我可以在答案里用“如果”。"
+      },
+      {
+        "en": "'如果' is important in this lesson.",
+        "zh": "“如果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_082",
     "lemma": "然后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 然后.",
+    "examples": [
+      {
+        "en": "I can use '然后' in my answer.",
+        "zh": "我可以在答案里用“然后”。"
+      },
+      {
+        "en": "'然后' is important in this lesson.",
+        "zh": "“然后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_083",
     "lemma": "最后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 最后.",
+    "examples": [
+      {
+        "en": "I can use '最后' in my answer.",
+        "zh": "我可以在答案里用“最后”。"
+      },
+      {
+        "en": "'最后' is important in this lesson.",
+        "zh": "“最后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_084",
     "lemma": "说明",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明.",
+    "examples": [
+      {
+        "en": "I can use '说明' in my answer.",
+        "zh": "我可以在答案里用“说明”。"
+      },
+      {
+        "en": "'说明' is important in this lesson.",
+        "zh": "“说明”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_085",
     "lemma": "描写",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 描写.",
+    "examples": [
+      {
+        "en": "I can use '描写' in my answer.",
+        "zh": "我可以在答案里用“描写”。"
+      },
+      {
+        "en": "'描写' is important in this lesson.",
+        "zh": "“描写”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_086",
     "lemma": "记叙",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙.",
+    "examples": [
+      {
+        "en": "I can use '记叙' in my answer.",
+        "zh": "我可以在答案里用“记叙”。"
+      },
+      {
+        "en": "'记叙' is important in this lesson.",
+        "zh": "“记叙”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_087",
     "lemma": "议论",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 议论.",
+    "examples": [
+      {
+        "en": "I can use '议论' in my answer.",
+        "zh": "我可以在答案里用“议论”。"
+      },
+      {
+        "en": "'议论' is important in this lesson.",
+        "zh": "“议论”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_088",
     "lemma": "说明文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明文.",
+    "examples": [
+      {
+        "en": "I can use '说明文' in my answer.",
+        "zh": "我可以在答案里用“说明文”。"
+      },
+      {
+        "en": "'说明文' is important in this lesson.",
+        "zh": "“说明文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_089",
     "lemma": "记叙文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙文.",
+    "examples": [
+      {
+        "en": "I can use '记叙文' in my answer.",
+        "zh": "我可以在答案里用“记叙文”。"
+      },
+      {
+        "en": "'记叙文' is important in this lesson.",
+        "zh": "“记叙文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_090",
     "lemma": "日记",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 日记.",
+    "examples": [
+      {
+        "en": "I can use '日记' in my answer.",
+        "zh": "我可以在答案里用“日记”。"
+      },
+      {
+        "en": "'日记' is important in this lesson.",
+        "zh": "“日记”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_091",
     "lemma": "通知",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 通知.",
+    "examples": [
+      {
+        "en": "I can use '通知' in my answer.",
+        "zh": "我可以在答案里用“通知”。"
+      },
+      {
+        "en": "'通知' is important in this lesson.",
+        "zh": "“通知”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_092",
     "lemma": "作文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 作文.",
+    "examples": [
+      {
+        "en": "I can use '作文' in my answer.",
+        "zh": "我可以在答案里用“作文”。"
+      },
+      {
+        "en": "'作文' is important in this lesson.",
+        "zh": "“作文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_093",
     "lemma": "标题",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标题.",
+    "examples": [
+      {
+        "en": "I can use '标题' in my answer.",
+        "zh": "我可以在答案里用“标题”。"
+      },
+      {
+        "en": "'标题' is important in this lesson.",
+        "zh": "“标题”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_094",
     "lemma": "段意",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段意.",
+    "examples": [
+      {
+        "en": "I can use '段意' in my answer.",
+        "zh": "我可以在答案里用“段意”。"
+      },
+      {
+        "en": "'段意' is important in this lesson.",
+        "zh": "“段意”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_095",
     "lemma": "阅读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 阅读.",
+    "examples": [
+      {
+        "en": "I can use '阅读' in my answer.",
+        "zh": "我可以在答案里用“阅读”。"
+      },
+      {
+        "en": "'阅读' is important in this lesson.",
+        "zh": "“阅读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_096",
     "lemma": "理解",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 理解.",
+    "examples": [
+      {
+        "en": "I can use '理解' in my answer.",
+        "zh": "我可以在答案里用“理解”。"
+      },
+      {
+        "en": "'理解' is important in this lesson.",
+        "zh": "“理解”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_097",
     "lemma": "段落",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段落.",
+    "examples": [
+      {
+        "en": "I can use '段落' in my answer.",
+        "zh": "我可以在答案里用“段落”。"
+      },
+      {
+        "en": "'段落' is important in this lesson.",
+        "zh": "“段落”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_098",
     "lemma": "主旨",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 主旨.",
+    "examples": [
+      {
+        "en": "I can use '主旨' in my answer.",
+        "zh": "我可以在答案里用“主旨”。"
+      },
+      {
+        "en": "'主旨' is important in this lesson.",
+        "zh": "“主旨”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_099",
     "lemma": "细节",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 细节.",
+    "examples": [
+      {
+        "en": "I can use '细节' in my answer.",
+        "zh": "我可以在答案里用“细节”。"
+      },
+      {
+        "en": "'细节' is important in this lesson.",
+        "zh": "“细节”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_100",
     "lemma": "人物",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 人物.",
+    "examples": [
+      {
+        "en": "I can use '人物' in my answer.",
+        "zh": "我可以在答案里用“人物”。"
+      },
+      {
+        "en": "'人物' is important in this lesson.",
+        "zh": "“人物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_101",
     "lemma": "时间",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 时间.",
+    "examples": [
+      {
+        "en": "I can use '时间' in my answer.",
+        "zh": "我可以在答案里用“时间”。"
+      },
+      {
+        "en": "'时间' is important in this lesson.",
+        "zh": "“时间”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_102",
     "lemma": "地点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 地点.",
+    "examples": [
+      {
+        "en": "I can use '地点' in my answer.",
+        "zh": "我可以在答案里用“地点”。"
+      },
+      {
+        "en": "'地点' is important in this lesson.",
+        "zh": "“地点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_103",
     "lemma": "原因",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 原因.",
+    "examples": [
+      {
+        "en": "I can use '原因' in my answer.",
+        "zh": "我可以在答案里用“原因”。"
+      },
+      {
+        "en": "'原因' is important in this lesson.",
+        "zh": "“原因”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_104",
     "lemma": "结果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 结果.",
+    "examples": [
+      {
+        "en": "I can use '结果' in my answer.",
+        "zh": "我可以在答案里用“结果”。"
+      },
+      {
+        "en": "'结果' is important in this lesson.",
+        "zh": "“结果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_105",
     "lemma": "比较",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 比较.",
+    "examples": [
+      {
+        "en": "I can use '比较' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'比较' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_106",
     "lemma": "推断",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 推断.",
+    "examples": [
+      {
+        "en": "I can use '推断' in my answer.",
+        "zh": "我可以在答案里用“推断”。"
+      },
+      {
+        "en": "'推断' is important in this lesson.",
+        "zh": "“推断”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_107",
     "lemma": "总结",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 总结.",
+    "examples": [
+      {
+        "en": "I can use '总结' in my answer.",
+        "zh": "我可以在答案里用“总结”。"
+      },
+      {
+        "en": "'总结' is important in this lesson.",
+        "zh": "“总结”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_108",
     "lemma": "词语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词语.",
+    "examples": [
+      {
+        "en": "I can use '词语' in my answer.",
+        "zh": "我可以在答案里用“词语”。"
+      },
+      {
+        "en": "'词语' is important in this lesson.",
+        "zh": "“词语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_109",
     "lemma": "近义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 近义词.",
+    "examples": [
+      {
+        "en": "I can use '近义词' in my answer.",
+        "zh": "我可以在答案里用“近义词”。"
+      },
+      {
+        "en": "'近义词' is important in this lesson.",
+        "zh": "“近义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_110",
     "lemma": "反义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 反义词.",
+    "examples": [
+      {
+        "en": "I can use '反义词' in my answer.",
+        "zh": "我可以在答案里用“反义词”。"
+      },
+      {
+        "en": "'反义词' is important in this lesson.",
+        "zh": "“反义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_111",
     "lemma": "成语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 成语.",
+    "examples": [
+      {
+        "en": "I can use '成语' in my answer.",
+        "zh": "我可以在答案里用“成语”。"
+      },
+      {
+        "en": "'成语' is important in this lesson.",
+        "zh": "“成语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_112",
     "lemma": "句子",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 句子.",
+    "examples": [
+      {
+        "en": "I can use '句子' in my answer.",
+        "zh": "我可以在答案里用“句子”。"
+      },
+      {
+        "en": "'句子' is important in this lesson.",
+        "zh": "“句子”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_113",
     "lemma": "标点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标点.",
+    "examples": [
+      {
+        "en": "I can use '标点' in my answer.",
+        "zh": "我可以在答案里用“标点”。"
+      },
+      {
+        "en": "'标点' is important in this lesson.",
+        "zh": "“标点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_114",
     "lemma": "朗读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 朗读.",
+    "examples": [
+      {
+        "en": "I can use '朗读' in my answer.",
+        "zh": "我可以在答案里用“朗读”。"
+      },
+      {
+        "en": "'朗读' is important in this lesson.",
+        "zh": "“朗读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_115",
     "lemma": "拼音",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 拼音.",
+    "examples": [
+      {
+        "en": "I can use '拼音' in my answer.",
+        "zh": "我可以在答案里用“拼音”。"
+      },
+      {
+        "en": "'拼音' is important in this lesson.",
+        "zh": "“拼音”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_116",
     "lemma": "偏旁",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 偏旁.",
+    "examples": [
+      {
+        "en": "I can use '偏旁' in my answer.",
+        "zh": "我可以在答案里用“偏旁”。"
+      },
+      {
+        "en": "'偏旁' is important in this lesson.",
+        "zh": "“偏旁”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_117",
     "lemma": "部首",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 部首.",
+    "examples": [
+      {
+        "en": "I can use '部首' in my answer.",
+        "zh": "我可以在答案里用“部首”。"
+      },
+      {
+        "en": "'部首' is important in this lesson.",
+        "zh": "“部首”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_118",
     "lemma": "词性",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词性.",
+    "examples": [
+      {
+        "en": "I can use '词性' in my answer.",
+        "zh": "我可以在答案里用“词性”。"
+      },
+      {
+        "en": "'词性' is important in this lesson.",
+        "zh": "“词性”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_119",
     "lemma": "名词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 名词.",
+    "examples": [
+      {
+        "en": "I can use '名词' in my answer.",
+        "zh": "我可以在答案里用“名词”。"
+      },
+      {
+        "en": "'名词' is important in this lesson.",
+        "zh": "“名词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_120",
     "lemma": "动词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 动词.",
+    "examples": [
+      {
+        "en": "I can use '动词' in my answer.",
+        "zh": "我可以在答案里用“动词”。"
+      },
+      {
+        "en": "'动词' is important in this lesson.",
+        "zh": "“动词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_121",
     "lemma": "形容词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 形容词.",
+    "examples": [
+      {
+        "en": "I can use '形容词' in my answer.",
+        "zh": "我可以在答案里用“形容词”。"
+      },
+      {
+        "en": "'形容词' is important in this lesson.",
+        "zh": "“形容词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_122",
     "lemma": "量词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 量词.",
+    "examples": [
+      {
+        "en": "I can use '量词' in my answer.",
+        "zh": "我可以在答案里用“量词”。"
+      },
+      {
+        "en": "'量词' is important in this lesson.",
+        "zh": "“量词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_123",
     "lemma": "顺序",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 顺序.",
+    "examples": [
+      {
+        "en": "I can use '顺序' in my answer.",
+        "zh": "我可以在答案里用“顺序”。"
+      },
+      {
+        "en": "'顺序' is important in this lesson.",
+        "zh": "“顺序”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_124",
     "lemma": "连词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 连词.",
+    "examples": [
+      {
+        "en": "I can use '连词' in my answer.",
+        "zh": "我可以在答案里用“连词”。"
+      },
+      {
+        "en": "'连词' is important in this lesson.",
+        "zh": "“连词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_125",
     "lemma": "因为",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 因为.",
+    "examples": [
+      {
+        "en": "I can use '因为' in my answer.",
+        "zh": "我可以在答案里用“因为”。"
+      },
+      {
+        "en": "'因为' is important in this lesson.",
+        "zh": "“因为”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_126",
     "lemma": "所以",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 所以.",
+    "examples": [
+      {
+        "en": "I can use '所以' in my answer.",
+        "zh": "我可以在答案里用“所以”。"
+      },
+      {
+        "en": "'所以' is important in this lesson.",
+        "zh": "“所以”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_127",
     "lemma": "但是",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 但是.",
+    "examples": [
+      {
+        "en": "I can use '但是' in my answer.",
+        "zh": "我可以在答案里用“但是”。"
+      },
+      {
+        "en": "'但是' is important in this lesson.",
+        "zh": "“但是”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_128",
     "lemma": "如果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 如果.",
+    "examples": [
+      {
+        "en": "I can use '如果' in my answer.",
+        "zh": "我可以在答案里用“如果”。"
+      },
+      {
+        "en": "'如果' is important in this lesson.",
+        "zh": "“如果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_129",
     "lemma": "然后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 然后.",
+    "examples": [
+      {
+        "en": "I can use '然后' in my answer.",
+        "zh": "我可以在答案里用“然后”。"
+      },
+      {
+        "en": "'然后' is important in this lesson.",
+        "zh": "“然后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_130",
     "lemma": "最后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 最后.",
+    "examples": [
+      {
+        "en": "I can use '最后' in my answer.",
+        "zh": "我可以在答案里用“最后”。"
+      },
+      {
+        "en": "'最后' is important in this lesson.",
+        "zh": "“最后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_131",
     "lemma": "说明",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明.",
+    "examples": [
+      {
+        "en": "I can use '说明' in my answer.",
+        "zh": "我可以在答案里用“说明”。"
+      },
+      {
+        "en": "'说明' is important in this lesson.",
+        "zh": "“说明”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_132",
     "lemma": "描写",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 描写.",
+    "examples": [
+      {
+        "en": "I can use '描写' in my answer.",
+        "zh": "我可以在答案里用“描写”。"
+      },
+      {
+        "en": "'描写' is important in this lesson.",
+        "zh": "“描写”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_133",
     "lemma": "记叙",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙.",
+    "examples": [
+      {
+        "en": "I can use '记叙' in my answer.",
+        "zh": "我可以在答案里用“记叙”。"
+      },
+      {
+        "en": "'记叙' is important in this lesson.",
+        "zh": "“记叙”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_134",
     "lemma": "议论",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 议论.",
+    "examples": [
+      {
+        "en": "I can use '议论' in my answer.",
+        "zh": "我可以在答案里用“议论”。"
+      },
+      {
+        "en": "'议论' is important in this lesson.",
+        "zh": "“议论”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_135",
     "lemma": "说明文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明文.",
+    "examples": [
+      {
+        "en": "I can use '说明文' in my answer.",
+        "zh": "我可以在答案里用“说明文”。"
+      },
+      {
+        "en": "'说明文' is important in this lesson.",
+        "zh": "“说明文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_136",
     "lemma": "记叙文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙文.",
+    "examples": [
+      {
+        "en": "I can use '记叙文' in my answer.",
+        "zh": "我可以在答案里用“记叙文”。"
+      },
+      {
+        "en": "'记叙文' is important in this lesson.",
+        "zh": "“记叙文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_137",
     "lemma": "日记",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 日记.",
+    "examples": [
+      {
+        "en": "I can use '日记' in my answer.",
+        "zh": "我可以在答案里用“日记”。"
+      },
+      {
+        "en": "'日记' is important in this lesson.",
+        "zh": "“日记”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_138",
     "lemma": "通知",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 通知.",
+    "examples": [
+      {
+        "en": "I can use '通知' in my answer.",
+        "zh": "我可以在答案里用“通知”。"
+      },
+      {
+        "en": "'通知' is important in this lesson.",
+        "zh": "“通知”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_139",
     "lemma": "作文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 作文.",
+    "examples": [
+      {
+        "en": "I can use '作文' in my answer.",
+        "zh": "我可以在答案里用“作文”。"
+      },
+      {
+        "en": "'作文' is important in this lesson.",
+        "zh": "“作文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_140",
     "lemma": "标题",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标题.",
+    "examples": [
+      {
+        "en": "I can use '标题' in my answer.",
+        "zh": "我可以在答案里用“标题”。"
+      },
+      {
+        "en": "'标题' is important in this lesson.",
+        "zh": "“标题”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_141",
     "lemma": "段意",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段意.",
+    "examples": [
+      {
+        "en": "I can use '段意' in my answer.",
+        "zh": "我可以在答案里用“段意”。"
+      },
+      {
+        "en": "'段意' is important in this lesson.",
+        "zh": "“段意”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_142",
     "lemma": "阅读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 阅读.",
+    "examples": [
+      {
+        "en": "I can use '阅读' in my answer.",
+        "zh": "我可以在答案里用“阅读”。"
+      },
+      {
+        "en": "'阅读' is important in this lesson.",
+        "zh": "“阅读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_143",
     "lemma": "理解",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 理解.",
+    "examples": [
+      {
+        "en": "I can use '理解' in my answer.",
+        "zh": "我可以在答案里用“理解”。"
+      },
+      {
+        "en": "'理解' is important in this lesson.",
+        "zh": "“理解”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_144",
     "lemma": "段落",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段落.",
+    "examples": [
+      {
+        "en": "I can use '段落' in my answer.",
+        "zh": "我可以在答案里用“段落”。"
+      },
+      {
+        "en": "'段落' is important in this lesson.",
+        "zh": "“段落”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_145",
     "lemma": "主旨",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 主旨.",
+    "examples": [
+      {
+        "en": "I can use '主旨' in my answer.",
+        "zh": "我可以在答案里用“主旨”。"
+      },
+      {
+        "en": "'主旨' is important in this lesson.",
+        "zh": "“主旨”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_146",
     "lemma": "细节",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 细节.",
+    "examples": [
+      {
+        "en": "I can use '细节' in my answer.",
+        "zh": "我可以在答案里用“细节”。"
+      },
+      {
+        "en": "'细节' is important in this lesson.",
+        "zh": "“细节”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_147",
     "lemma": "人物",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 人物.",
+    "examples": [
+      {
+        "en": "I can use '人物' in my answer.",
+        "zh": "我可以在答案里用“人物”。"
+      },
+      {
+        "en": "'人物' is important in this lesson.",
+        "zh": "“人物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_148",
     "lemma": "时间",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 时间.",
+    "examples": [
+      {
+        "en": "I can use '时间' in my answer.",
+        "zh": "我可以在答案里用“时间”。"
+      },
+      {
+        "en": "'时间' is important in this lesson.",
+        "zh": "“时间”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_149",
     "lemma": "地点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 地点.",
+    "examples": [
+      {
+        "en": "I can use '地点' in my answer.",
+        "zh": "我可以在答案里用“地点”。"
+      },
+      {
+        "en": "'地点' is important in this lesson.",
+        "zh": "“地点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_150",
     "lemma": "原因",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 原因.",
+    "examples": [
+      {
+        "en": "I can use '原因' in my answer.",
+        "zh": "我可以在答案里用“原因”。"
+      },
+      {
+        "en": "'原因' is important in this lesson.",
+        "zh": "“原因”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_151",
     "lemma": "结果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 结果.",
+    "examples": [
+      {
+        "en": "I can use '结果' in my answer.",
+        "zh": "我可以在答案里用“结果”。"
+      },
+      {
+        "en": "'结果' is important in this lesson.",
+        "zh": "“结果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_152",
     "lemma": "比较",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 比较.",
+    "examples": [
+      {
+        "en": "I can use '比较' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'比较' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_153",
     "lemma": "推断",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 推断.",
+    "examples": [
+      {
+        "en": "I can use '推断' in my answer.",
+        "zh": "我可以在答案里用“推断”。"
+      },
+      {
+        "en": "'推断' is important in this lesson.",
+        "zh": "“推断”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_154",
     "lemma": "总结",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 总结.",
+    "examples": [
+      {
+        "en": "I can use '总结' in my answer.",
+        "zh": "我可以在答案里用“总结”。"
+      },
+      {
+        "en": "'总结' is important in this lesson.",
+        "zh": "“总结”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_155",
     "lemma": "词语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词语.",
+    "examples": [
+      {
+        "en": "I can use '词语' in my answer.",
+        "zh": "我可以在答案里用“词语”。"
+      },
+      {
+        "en": "'词语' is important in this lesson.",
+        "zh": "“词语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_156",
     "lemma": "近义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 近义词.",
+    "examples": [
+      {
+        "en": "I can use '近义词' in my answer.",
+        "zh": "我可以在答案里用“近义词”。"
+      },
+      {
+        "en": "'近义词' is important in this lesson.",
+        "zh": "“近义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_157",
     "lemma": "反义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 反义词.",
+    "examples": [
+      {
+        "en": "I can use '反义词' in my answer.",
+        "zh": "我可以在答案里用“反义词”。"
+      },
+      {
+        "en": "'反义词' is important in this lesson.",
+        "zh": "“反义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_158",
     "lemma": "成语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 成语.",
+    "examples": [
+      {
+        "en": "I can use '成语' in my answer.",
+        "zh": "我可以在答案里用“成语”。"
+      },
+      {
+        "en": "'成语' is important in this lesson.",
+        "zh": "“成语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_159",
     "lemma": "句子",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 句子.",
+    "examples": [
+      {
+        "en": "I can use '句子' in my answer.",
+        "zh": "我可以在答案里用“句子”。"
+      },
+      {
+        "en": "'句子' is important in this lesson.",
+        "zh": "“句子”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_160",
     "lemma": "标点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标点.",
+    "examples": [
+      {
+        "en": "I can use '标点' in my answer.",
+        "zh": "我可以在答案里用“标点”。"
+      },
+      {
+        "en": "'标点' is important in this lesson.",
+        "zh": "“标点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_161",
     "lemma": "朗读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 朗读.",
+    "examples": [
+      {
+        "en": "I can use '朗读' in my answer.",
+        "zh": "我可以在答案里用“朗读”。"
+      },
+      {
+        "en": "'朗读' is important in this lesson.",
+        "zh": "“朗读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_162",
     "lemma": "拼音",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 拼音.",
+    "examples": [
+      {
+        "en": "I can use '拼音' in my answer.",
+        "zh": "我可以在答案里用“拼音”。"
+      },
+      {
+        "en": "'拼音' is important in this lesson.",
+        "zh": "“拼音”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_163",
     "lemma": "偏旁",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 偏旁.",
+    "examples": [
+      {
+        "en": "I can use '偏旁' in my answer.",
+        "zh": "我可以在答案里用“偏旁”。"
+      },
+      {
+        "en": "'偏旁' is important in this lesson.",
+        "zh": "“偏旁”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_164",
     "lemma": "部首",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 部首.",
+    "examples": [
+      {
+        "en": "I can use '部首' in my answer.",
+        "zh": "我可以在答案里用“部首”。"
+      },
+      {
+        "en": "'部首' is important in this lesson.",
+        "zh": "“部首”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_165",
     "lemma": "词性",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词性.",
+    "examples": [
+      {
+        "en": "I can use '词性' in my answer.",
+        "zh": "我可以在答案里用“词性”。"
+      },
+      {
+        "en": "'词性' is important in this lesson.",
+        "zh": "“词性”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_166",
     "lemma": "名词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 名词.",
+    "examples": [
+      {
+        "en": "I can use '名词' in my answer.",
+        "zh": "我可以在答案里用“名词”。"
+      },
+      {
+        "en": "'名词' is important in this lesson.",
+        "zh": "“名词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_167",
     "lemma": "动词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 动词.",
+    "examples": [
+      {
+        "en": "I can use '动词' in my answer.",
+        "zh": "我可以在答案里用“动词”。"
+      },
+      {
+        "en": "'动词' is important in this lesson.",
+        "zh": "“动词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_168",
     "lemma": "形容词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 形容词.",
+    "examples": [
+      {
+        "en": "I can use '形容词' in my answer.",
+        "zh": "我可以在答案里用“形容词”。"
+      },
+      {
+        "en": "'形容词' is important in this lesson.",
+        "zh": "“形容词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_169",
     "lemma": "量词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 量词.",
+    "examples": [
+      {
+        "en": "I can use '量词' in my answer.",
+        "zh": "我可以在答案里用“量词”。"
+      },
+      {
+        "en": "'量词' is important in this lesson.",
+        "zh": "“量词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_170",
     "lemma": "顺序",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 顺序.",
+    "examples": [
+      {
+        "en": "I can use '顺序' in my answer.",
+        "zh": "我可以在答案里用“顺序”。"
+      },
+      {
+        "en": "'顺序' is important in this lesson.",
+        "zh": "“顺序”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_171",
     "lemma": "连词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 连词.",
+    "examples": [
+      {
+        "en": "I can use '连词' in my answer.",
+        "zh": "我可以在答案里用“连词”。"
+      },
+      {
+        "en": "'连词' is important in this lesson.",
+        "zh": "“连词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_172",
     "lemma": "因为",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 因为.",
+    "examples": [
+      {
+        "en": "I can use '因为' in my answer.",
+        "zh": "我可以在答案里用“因为”。"
+      },
+      {
+        "en": "'因为' is important in this lesson.",
+        "zh": "“因为”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_173",
     "lemma": "所以",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 所以.",
+    "examples": [
+      {
+        "en": "I can use '所以' in my answer.",
+        "zh": "我可以在答案里用“所以”。"
+      },
+      {
+        "en": "'所以' is important in this lesson.",
+        "zh": "“所以”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_174",
     "lemma": "但是",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 但是.",
+    "examples": [
+      {
+        "en": "I can use '但是' in my answer.",
+        "zh": "我可以在答案里用“但是”。"
+      },
+      {
+        "en": "'但是' is important in this lesson.",
+        "zh": "“但是”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_175",
     "lemma": "如果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 如果.",
+    "examples": [
+      {
+        "en": "I can use '如果' in my answer.",
+        "zh": "我可以在答案里用“如果”。"
+      },
+      {
+        "en": "'如果' is important in this lesson.",
+        "zh": "“如果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_176",
     "lemma": "然后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 然后.",
+    "examples": [
+      {
+        "en": "I can use '然后' in my answer.",
+        "zh": "我可以在答案里用“然后”。"
+      },
+      {
+        "en": "'然后' is important in this lesson.",
+        "zh": "“然后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_177",
     "lemma": "最后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 最后.",
+    "examples": [
+      {
+        "en": "I can use '最后' in my answer.",
+        "zh": "我可以在答案里用“最后”。"
+      },
+      {
+        "en": "'最后' is important in this lesson.",
+        "zh": "“最后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_178",
     "lemma": "说明",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明.",
+    "examples": [
+      {
+        "en": "I can use '说明' in my answer.",
+        "zh": "我可以在答案里用“说明”。"
+      },
+      {
+        "en": "'说明' is important in this lesson.",
+        "zh": "“说明”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_179",
     "lemma": "描写",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 描写.",
+    "examples": [
+      {
+        "en": "I can use '描写' in my answer.",
+        "zh": "我可以在答案里用“描写”。"
+      },
+      {
+        "en": "'描写' is important in this lesson.",
+        "zh": "“描写”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_180",
     "lemma": "记叙",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙.",
+    "examples": [
+      {
+        "en": "I can use '记叙' in my answer.",
+        "zh": "我可以在答案里用“记叙”。"
+      },
+      {
+        "en": "'记叙' is important in this lesson.",
+        "zh": "“记叙”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_181",
     "lemma": "议论",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 议论.",
+    "examples": [
+      {
+        "en": "I can use '议论' in my answer.",
+        "zh": "我可以在答案里用“议论”。"
+      },
+      {
+        "en": "'议论' is important in this lesson.",
+        "zh": "“议论”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_182",
     "lemma": "说明文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明文.",
+    "examples": [
+      {
+        "en": "I can use '说明文' in my answer.",
+        "zh": "我可以在答案里用“说明文”。"
+      },
+      {
+        "en": "'说明文' is important in this lesson.",
+        "zh": "“说明文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_183",
     "lemma": "记叙文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙文.",
+    "examples": [
+      {
+        "en": "I can use '记叙文' in my answer.",
+        "zh": "我可以在答案里用“记叙文”。"
+      },
+      {
+        "en": "'记叙文' is important in this lesson.",
+        "zh": "“记叙文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_184",
     "lemma": "日记",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 日记.",
+    "examples": [
+      {
+        "en": "I can use '日记' in my answer.",
+        "zh": "我可以在答案里用“日记”。"
+      },
+      {
+        "en": "'日记' is important in this lesson.",
+        "zh": "“日记”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_185",
     "lemma": "通知",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 通知.",
+    "examples": [
+      {
+        "en": "I can use '通知' in my answer.",
+        "zh": "我可以在答案里用“通知”。"
+      },
+      {
+        "en": "'通知' is important in this lesson.",
+        "zh": "“通知”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_186",
     "lemma": "作文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 作文.",
+    "examples": [
+      {
+        "en": "I can use '作文' in my answer.",
+        "zh": "我可以在答案里用“作文”。"
+      },
+      {
+        "en": "'作文' is important in this lesson.",
+        "zh": "“作文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_187",
     "lemma": "标题",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标题.",
+    "examples": [
+      {
+        "en": "I can use '标题' in my answer.",
+        "zh": "我可以在答案里用“标题”。"
+      },
+      {
+        "en": "'标题' is important in this lesson.",
+        "zh": "“标题”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_188",
     "lemma": "段意",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段意.",
+    "examples": [
+      {
+        "en": "I can use '段意' in my answer.",
+        "zh": "我可以在答案里用“段意”。"
+      },
+      {
+        "en": "'段意' is important in this lesson.",
+        "zh": "“段意”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_189",
     "lemma": "阅读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 阅读.",
+    "examples": [
+      {
+        "en": "I can use '阅读' in my answer.",
+        "zh": "我可以在答案里用“阅读”。"
+      },
+      {
+        "en": "'阅读' is important in this lesson.",
+        "zh": "“阅读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_190",
     "lemma": "理解",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 理解.",
+    "examples": [
+      {
+        "en": "I can use '理解' in my answer.",
+        "zh": "我可以在答案里用“理解”。"
+      },
+      {
+        "en": "'理解' is important in this lesson.",
+        "zh": "“理解”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_191",
     "lemma": "段落",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段落.",
+    "examples": [
+      {
+        "en": "I can use '段落' in my answer.",
+        "zh": "我可以在答案里用“段落”。"
+      },
+      {
+        "en": "'段落' is important in this lesson.",
+        "zh": "“段落”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_192",
     "lemma": "主旨",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 主旨.",
+    "examples": [
+      {
+        "en": "I can use '主旨' in my answer.",
+        "zh": "我可以在答案里用“主旨”。"
+      },
+      {
+        "en": "'主旨' is important in this lesson.",
+        "zh": "“主旨”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_193",
     "lemma": "细节",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 细节.",
+    "examples": [
+      {
+        "en": "I can use '细节' in my answer.",
+        "zh": "我可以在答案里用“细节”。"
+      },
+      {
+        "en": "'细节' is important in this lesson.",
+        "zh": "“细节”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_194",
     "lemma": "人物",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 人物.",
+    "examples": [
+      {
+        "en": "I can use '人物' in my answer.",
+        "zh": "我可以在答案里用“人物”。"
+      },
+      {
+        "en": "'人物' is important in this lesson.",
+        "zh": "“人物”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_195",
     "lemma": "时间",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 时间.",
+    "examples": [
+      {
+        "en": "I can use '时间' in my answer.",
+        "zh": "我可以在答案里用“时间”。"
+      },
+      {
+        "en": "'时间' is important in this lesson.",
+        "zh": "“时间”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_196",
     "lemma": "地点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 地点.",
+    "examples": [
+      {
+        "en": "I can use '地点' in my answer.",
+        "zh": "我可以在答案里用“地点”。"
+      },
+      {
+        "en": "'地点' is important in this lesson.",
+        "zh": "“地点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_197",
     "lemma": "原因",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 原因.",
+    "examples": [
+      {
+        "en": "I can use '原因' in my answer.",
+        "zh": "我可以在答案里用“原因”。"
+      },
+      {
+        "en": "'原因' is important in this lesson.",
+        "zh": "“原因”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_198",
     "lemma": "结果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 结果.",
+    "examples": [
+      {
+        "en": "I can use '结果' in my answer.",
+        "zh": "我可以在答案里用“结果”。"
+      },
+      {
+        "en": "'结果' is important in this lesson.",
+        "zh": "“结果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_199",
     "lemma": "比较",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 比较.",
+    "examples": [
+      {
+        "en": "I can use '比较' in my answer.",
+        "zh": "我可以在答案里用“比较”。"
+      },
+      {
+        "en": "'比较' is important in this lesson.",
+        "zh": "“比较”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_200",
     "lemma": "推断",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 推断.",
+    "examples": [
+      {
+        "en": "I can use '推断' in my answer.",
+        "zh": "我可以在答案里用“推断”。"
+      },
+      {
+        "en": "'推断' is important in this lesson.",
+        "zh": "“推断”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_201",
     "lemma": "总结",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 总结.",
+    "examples": [
+      {
+        "en": "I can use '总结' in my answer.",
+        "zh": "我可以在答案里用“总结”。"
+      },
+      {
+        "en": "'总结' is important in this lesson.",
+        "zh": "“总结”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_202",
     "lemma": "词语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词语.",
+    "examples": [
+      {
+        "en": "I can use '词语' in my answer.",
+        "zh": "我可以在答案里用“词语”。"
+      },
+      {
+        "en": "'词语' is important in this lesson.",
+        "zh": "“词语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_203",
     "lemma": "近义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 近义词.",
+    "examples": [
+      {
+        "en": "I can use '近义词' in my answer.",
+        "zh": "我可以在答案里用“近义词”。"
+      },
+      {
+        "en": "'近义词' is important in this lesson.",
+        "zh": "“近义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_204",
     "lemma": "反义词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 反义词.",
+    "examples": [
+      {
+        "en": "I can use '反义词' in my answer.",
+        "zh": "我可以在答案里用“反义词”。"
+      },
+      {
+        "en": "'反义词' is important in this lesson.",
+        "zh": "“反义词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_205",
     "lemma": "成语",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 成语.",
+    "examples": [
+      {
+        "en": "I can use '成语' in my answer.",
+        "zh": "我可以在答案里用“成语”。"
+      },
+      {
+        "en": "'成语' is important in this lesson.",
+        "zh": "“成语”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_206",
     "lemma": "句子",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 句子.",
+    "examples": [
+      {
+        "en": "I can use '句子' in my answer.",
+        "zh": "我可以在答案里用“句子”。"
+      },
+      {
+        "en": "'句子' is important in this lesson.",
+        "zh": "“句子”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_207",
     "lemma": "标点",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标点.",
+    "examples": [
+      {
+        "en": "I can use '标点' in my answer.",
+        "zh": "我可以在答案里用“标点”。"
+      },
+      {
+        "en": "'标点' is important in this lesson.",
+        "zh": "“标点”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_208",
     "lemma": "朗读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 朗读.",
+    "examples": [
+      {
+        "en": "I can use '朗读' in my answer.",
+        "zh": "我可以在答案里用“朗读”。"
+      },
+      {
+        "en": "'朗读' is important in this lesson.",
+        "zh": "“朗读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_209",
     "lemma": "拼音",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 拼音.",
+    "examples": [
+      {
+        "en": "I can use '拼音' in my answer.",
+        "zh": "我可以在答案里用“拼音”。"
+      },
+      {
+        "en": "'拼音' is important in this lesson.",
+        "zh": "“拼音”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_210",
     "lemma": "偏旁",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 偏旁.",
+    "examples": [
+      {
+        "en": "I can use '偏旁' in my answer.",
+        "zh": "我可以在答案里用“偏旁”。"
+      },
+      {
+        "en": "'偏旁' is important in this lesson.",
+        "zh": "“偏旁”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_211",
     "lemma": "部首",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 部首.",
+    "examples": [
+      {
+        "en": "I can use '部首' in my answer.",
+        "zh": "我可以在答案里用“部首”。"
+      },
+      {
+        "en": "'部首' is important in this lesson.",
+        "zh": "“部首”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_212",
     "lemma": "词性",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 词性.",
+    "examples": [
+      {
+        "en": "I can use '词性' in my answer.",
+        "zh": "我可以在答案里用“词性”。"
+      },
+      {
+        "en": "'词性' is important in this lesson.",
+        "zh": "“词性”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_213",
     "lemma": "名词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 名词.",
+    "examples": [
+      {
+        "en": "I can use '名词' in my answer.",
+        "zh": "我可以在答案里用“名词”。"
+      },
+      {
+        "en": "'名词' is important in this lesson.",
+        "zh": "“名词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_214",
     "lemma": "动词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 动词.",
+    "examples": [
+      {
+        "en": "I can use '动词' in my answer.",
+        "zh": "我可以在答案里用“动词”。"
+      },
+      {
+        "en": "'动词' is important in this lesson.",
+        "zh": "“动词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_215",
     "lemma": "形容词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 形容词.",
+    "examples": [
+      {
+        "en": "I can use '形容词' in my answer.",
+        "zh": "我可以在答案里用“形容词”。"
+      },
+      {
+        "en": "'形容词' is important in this lesson.",
+        "zh": "“形容词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_216",
     "lemma": "量词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 量词.",
+    "examples": [
+      {
+        "en": "I can use '量词' in my answer.",
+        "zh": "我可以在答案里用“量词”。"
+      },
+      {
+        "en": "'量词' is important in this lesson.",
+        "zh": "“量词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_217",
     "lemma": "顺序",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 顺序.",
+    "examples": [
+      {
+        "en": "I can use '顺序' in my answer.",
+        "zh": "我可以在答案里用“顺序”。"
+      },
+      {
+        "en": "'顺序' is important in this lesson.",
+        "zh": "“顺序”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_218",
     "lemma": "连词",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 连词.",
+    "examples": [
+      {
+        "en": "I can use '连词' in my answer.",
+        "zh": "我可以在答案里用“连词”。"
+      },
+      {
+        "en": "'连词' is important in this lesson.",
+        "zh": "“连词”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_219",
     "lemma": "因为",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 因为.",
+    "examples": [
+      {
+        "en": "I can use '因为' in my answer.",
+        "zh": "我可以在答案里用“因为”。"
+      },
+      {
+        "en": "'因为' is important in this lesson.",
+        "zh": "“因为”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_220",
     "lemma": "所以",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 所以.",
+    "examples": [
+      {
+        "en": "I can use '所以' in my answer.",
+        "zh": "我可以在答案里用“所以”。"
+      },
+      {
+        "en": "'所以' is important in this lesson.",
+        "zh": "“所以”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_221",
     "lemma": "但是",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 但是.",
+    "examples": [
+      {
+        "en": "I can use '但是' in my answer.",
+        "zh": "我可以在答案里用“但是”。"
+      },
+      {
+        "en": "'但是' is important in this lesson.",
+        "zh": "“但是”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_222",
     "lemma": "如果",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 如果.",
+    "examples": [
+      {
+        "en": "I can use '如果' in my answer.",
+        "zh": "我可以在答案里用“如果”。"
+      },
+      {
+        "en": "'如果' is important in this lesson.",
+        "zh": "“如果”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_223",
     "lemma": "然后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 然后.",
+    "examples": [
+      {
+        "en": "I can use '然后' in my answer.",
+        "zh": "我可以在答案里用“然后”。"
+      },
+      {
+        "en": "'然后' is important in this lesson.",
+        "zh": "“然后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_224",
     "lemma": "最后",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 最后.",
+    "examples": [
+      {
+        "en": "I can use '最后' in my answer.",
+        "zh": "我可以在答案里用“最后”。"
+      },
+      {
+        "en": "'最后' is important in this lesson.",
+        "zh": "“最后”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_225",
     "lemma": "说明",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明.",
+    "examples": [
+      {
+        "en": "I can use '说明' in my answer.",
+        "zh": "我可以在答案里用“说明”。"
+      },
+      {
+        "en": "'说明' is important in this lesson.",
+        "zh": "“说明”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_226",
     "lemma": "描写",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 描写.",
+    "examples": [
+      {
+        "en": "I can use '描写' in my answer.",
+        "zh": "我可以在答案里用“描写”。"
+      },
+      {
+        "en": "'描写' is important in this lesson.",
+        "zh": "“描写”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_227",
     "lemma": "记叙",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙.",
+    "examples": [
+      {
+        "en": "I can use '记叙' in my answer.",
+        "zh": "我可以在答案里用“记叙”。"
+      },
+      {
+        "en": "'记叙' is important in this lesson.",
+        "zh": "“记叙”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_228",
     "lemma": "议论",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 议论.",
+    "examples": [
+      {
+        "en": "I can use '议论' in my answer.",
+        "zh": "我可以在答案里用“议论”。"
+      },
+      {
+        "en": "'议论' is important in this lesson.",
+        "zh": "“议论”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_229",
     "lemma": "说明文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 说明文.",
+    "examples": [
+      {
+        "en": "I can use '说明文' in my answer.",
+        "zh": "我可以在答案里用“说明文”。"
+      },
+      {
+        "en": "'说明文' is important in this lesson.",
+        "zh": "“说明文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_230",
     "lemma": "记叙文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 记叙文.",
+    "examples": [
+      {
+        "en": "I can use '记叙文' in my answer.",
+        "zh": "我可以在答案里用“记叙文”。"
+      },
+      {
+        "en": "'记叙文' is important in this lesson.",
+        "zh": "“记叙文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_231",
     "lemma": "日记",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 日记.",
+    "examples": [
+      {
+        "en": "I can use '日记' in my answer.",
+        "zh": "我可以在答案里用“日记”。"
+      },
+      {
+        "en": "'日记' is important in this lesson.",
+        "zh": "“日记”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_232",
     "lemma": "通知",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 通知.",
+    "examples": [
+      {
+        "en": "I can use '通知' in my answer.",
+        "zh": "我可以在答案里用“通知”。"
+      },
+      {
+        "en": "'通知' is important in this lesson.",
+        "zh": "“通知”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_233",
     "lemma": "作文",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 作文.",
+    "examples": [
+      {
+        "en": "I can use '作文' in my answer.",
+        "zh": "我可以在答案里用“作文”。"
+      },
+      {
+        "en": "'作文' is important in this lesson.",
+        "zh": "“作文”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_234",
     "lemma": "标题",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 标题.",
+    "examples": [
+      {
+        "en": "I can use '标题' in my answer.",
+        "zh": "我可以在答案里用“标题”。"
+      },
+      {
+        "en": "'标题' is important in this lesson.",
+        "zh": "“标题”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_235",
     "lemma": "段意",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段意.",
+    "examples": [
+      {
+        "en": "I can use '段意' in my answer.",
+        "zh": "我可以在答案里用“段意”。"
+      },
+      {
+        "en": "'段意' is important in this lesson.",
+        "zh": "“段意”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_236",
     "lemma": "阅读",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 阅读.",
+    "examples": [
+      {
+        "en": "I can use '阅读' in my answer.",
+        "zh": "我可以在答案里用“阅读”。"
+      },
+      {
+        "en": "'阅读' is important in this lesson.",
+        "zh": "“阅读”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_237",
     "lemma": "理解",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 理解.",
+    "examples": [
+      {
+        "en": "I can use '理解' in my answer.",
+        "zh": "我可以在答案里用“理解”。"
+      },
+      {
+        "en": "'理解' is important in this lesson.",
+        "zh": "“理解”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_238",
     "lemma": "段落",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 段落.",
+    "examples": [
+      {
+        "en": "I can use '段落' in my answer.",
+        "zh": "我可以在答案里用“段落”。"
+      },
+      {
+        "en": "'段落' is important in this lesson.",
+        "zh": "“段落”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_239",
     "lemma": "主旨",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 主旨.",
+    "examples": [
+      {
+        "en": "I can use '主旨' in my answer.",
+        "zh": "我可以在答案里用“主旨”。"
+      },
+      {
+        "en": "'主旨' is important in this lesson.",
+        "zh": "“主旨”在这课很重要。"
+      }
+    ]
   },
   {
     "id": "p3_c_240",
     "lemma": "细节",
     "zh": "",
-    "pos": ""
+    "pos": "",
+    "def": "Meaning of 细节.",
+    "examples": [
+      {
+        "en": "I can use '细节' in my answer.",
+        "zh": "我可以在答案里用“细节”。"
+      },
+      {
+        "en": "'细节' is important in this lesson.",
+        "zh": "“细节”在这课很重要。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_认真阅读",
+    "lemma": "认真阅读",
+    "zh": "read carefully",
+    "pos": "phr",
+    "def": "A useful phrase: 认真阅读.",
+    "examples": [
+      {
+        "en": "Question: 认真阅读?",
+        "zh": "问题：read carefully？"
+      },
+      {
+        "en": "We often say '认真阅读' in class.",
+        "zh": "课堂上经常说“read carefully”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_圈出关键词",
+    "lemma": "圈出关键词",
+    "zh": "circle key words",
+    "pos": "phr",
+    "def": "A useful phrase: 圈出关键词.",
+    "examples": [
+      {
+        "en": "Question: 圈出关键词?",
+        "zh": "问题：circle key words？"
+      },
+      {
+        "en": "We often say '圈出关键词' in class.",
+        "zh": "课堂上经常说“circle key words”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_写出答案",
+    "lemma": "写出答案",
+    "zh": "write the answer",
+    "pos": "phr",
+    "def": "A useful phrase: 写出答案.",
+    "examples": [
+      {
+        "en": "Question: 写出答案?",
+        "zh": "问题：write the answer？"
+      },
+      {
+        "en": "We often say '写出答案' in class.",
+        "zh": "课堂上经常说“write the answer”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_检查一遍",
+    "lemma": "检查一遍",
+    "zh": "check once",
+    "pos": "phr",
+    "def": "A useful phrase: 检查一遍.",
+    "examples": [
+      {
+        "en": "Question: 检查一遍?",
+        "zh": "问题：check once？"
+      },
+      {
+        "en": "We often say '检查一遍' in class.",
+        "zh": "课堂上经常说“check once”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_按顺序",
+    "lemma": "按顺序",
+    "zh": "in order",
+    "pos": "phr",
+    "def": "A useful phrase: 按顺序.",
+    "examples": [
+      {
+        "en": "Question: 按顺序?",
+        "zh": "问题：in order？"
+      },
+      {
+        "en": "We often say '按顺序' in class.",
+        "zh": "课堂上经常说“in order”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_把句子补充完整",
+    "lemma": "把句子补充完整",
+    "zh": "complete the sentence",
+    "pos": "phr",
+    "def": "A useful phrase: 把句子补充完整.",
+    "examples": [
+      {
+        "en": "Question: 把句子补充完整?",
+        "zh": "问题：complete the sentence？"
+      },
+      {
+        "en": "We often say '把句子补充完整' in class.",
+        "zh": "课堂上经常说“complete the sentence”。"
+      }
+    ]
+  },
+  {
+    "id": "phrase_把词语连成句子",
+    "lemma": "把词语连成句子",
+    "zh": "make a sentence",
+    "pos": "phr",
+    "def": "A useful phrase: 把词语连成句子.",
+    "examples": [
+      {
+        "en": "Question: 把词语连成句子?",
+        "zh": "问题：make a sentence？"
+      },
+      {
+        "en": "We often say '把词语连成句子' in class.",
+        "zh": "课堂上经常说“make a sentence”。"
+      }
+    ]
+  },
+  {
+    "lemma": "认真读题",
+    "zh": "认真读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 认真读题",
+    "examples": [
+      {
+        "en": "Use the phrase '认真读题' in a sentence.",
+        "zh": "在句子里用“认真读题”。"
+      }
+    ]
+  },
+  {
+    "lemma": "写出步骤",
+    "zh": "写出步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 写出步骤",
+    "examples": [
+      {
+        "en": "Use the phrase '写出步骤' in a sentence.",
+        "zh": "在句子里用“写出步骤”。"
+      }
+    ]
+  },
+  {
+    "lemma": "检查答案",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 检查答案",
+    "examples": [
+      {
+        "en": "Use the phrase '检查答案' in a sentence.",
+        "zh": "在句子里用“检查答案”。"
+      }
+    ]
+  },
+  {
+    "lemma": "用自己的话说",
+    "zh": "用自己的话说",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 用自己的话说",
+    "examples": [
+      {
+        "en": "Use the phrase '用自己的话说' in a sentence.",
+        "zh": "在句子里用“用自己的话说”。"
+      }
+    ]
+  },
+  {
+    "lemma": "把句子读一遍",
+    "zh": "把句子读一遍",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 把句子读一遍",
+    "examples": [
+      {
+        "en": "Use the phrase '把句子读一遍' in a sentence.",
+        "zh": "在句子里用“把句子读一遍”。"
+      }
+    ]
+  },
+  {
+    "lemma": "给出理由",
+    "zh": "给出理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 给出理由",
+    "examples": [
+      {
+        "en": "Use the phrase '给出理由' in a sentence.",
+        "zh": "在句子里用“给出理由”。"
+      }
+    ]
+  },
+  {
+    "lemma": "举一个例子",
+    "zh": "举一个例子",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 举一个例子",
+    "examples": [
+      {
+        "en": "Use the phrase '举一个例子' in a sentence.",
+        "zh": "在句子里用“举一个例子”。"
+      }
+    ]
+  },
+  {
+    "lemma": "把意思说清楚",
+    "zh": "把意思说清楚",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 把意思说清楚",
+    "examples": [
+      {
+        "en": "Use the phrase '把意思说清楚' in a sentence.",
+        "zh": "在句子里用“把意思说清楚”。"
+      }
+    ]
+  },
+  {
+    "lemma": "先…再…",
+    "zh": "先…再…",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 先…再…",
+    "examples": [
+      {
+        "en": "Use the phrase '先…再…' in a sentence.",
+        "zh": "在句子里用“先…再…”。"
+      }
+    ]
+  },
+  {
+    "lemma": "因为…所以…",
+    "zh": "因为…所以…",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 因为…所以…",
+    "examples": [
+      {
+        "en": "Use the phrase '因为…所以…' in a sentence.",
+        "zh": "在句子里用“因为…所以…”。"
+      }
+    ]
+  },
+  {
+    "lemma": "不仅…而且…",
+    "zh": "不仅…而且…",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: 不仅…而且…",
+    "examples": [
+      {
+        "en": "Use the phrase '不仅…而且…' in a sentence.",
+        "zh": "在句子里用“不仅…而且…”。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -37",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -37",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -32",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -32",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -31",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -31",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -30",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -30",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -28",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -28",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -27",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -27",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -26",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -26",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -25",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -25",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps -24",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps -24",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -23",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -23",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -22",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -22",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -21",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -21",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -20",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -20",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -19",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -19",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -18",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -18",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -17",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -17",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -16",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -16",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -15",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -15",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -14",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -14",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -13",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -13",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning -12",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning -12",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -11",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -11",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -10",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -10",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -9",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -9",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -8",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -8",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -7",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -7",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -6",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -6",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer -5",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer -5",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -4",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -4",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question -3",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question -3",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords -2",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords -2",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "work it out -1",
+    "zh": "算一算",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: work it out -1",
+    "examples": [
+      {
+        "en": "Remember to work it out.",
+        "zh": "记得算一算。"
+      }
+    ]
+  },
+  {
+    "lemma": "circle the keywords 0",
+    "zh": "圈关键词",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: circle the keywords 0",
+    "examples": [
+      {
+        "en": "Remember to circle the keywords.",
+        "zh": "记得圈关键词。"
+      }
+    ]
+  },
+  {
+    "lemma": "read the question 1",
+    "zh": "读题",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: read the question 1",
+    "examples": [
+      {
+        "en": "Remember to read the question.",
+        "zh": "记得读题。"
+      }
+    ]
+  },
+  {
+    "lemma": "explain your reasoning 2",
+    "zh": "解释理由",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: explain your reasoning 2",
+    "examples": [
+      {
+        "en": "Remember to explain your reasoning.",
+        "zh": "记得解释理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "show your steps 3",
+    "zh": "写步骤",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: show your steps 3",
+    "examples": [
+      {
+        "en": "Remember to show your steps.",
+        "zh": "记得写步骤。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer 4",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer 4",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "check your answer 5",
+    "zh": "检查答案",
+    "pos": "phrase",
+    "tag": "PHRASE",
+    "def": "Phrase: check your answer 5",
+    "examples": [
+      {
+        "en": "Remember to check your answer.",
+        "zh": "记得检查答案。"
+      }
+    ]
   }
 ]
