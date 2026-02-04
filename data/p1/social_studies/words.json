@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "p1_ss_001",
+    "lemma": "community",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_002",
+    "lemma": "rule",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_003",
+    "lemma": "responsibility",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_004",
+    "lemma": "respect",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_005",
+    "lemma": "fair",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_006",
+    "lemma": "vote",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_007",
+    "lemma": "leader",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_008",
+    "lemma": "map",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_009",
+    "lemma": "direction",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_010",
+    "lemma": "north",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_011",
+    "lemma": "south",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_012",
+    "lemma": "east",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_013",
+    "lemma": "west",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_014",
+    "lemma": "location",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_015",
+    "lemma": "country",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_016",
+    "lemma": "city",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_017",
+    "lemma": "island",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_018",
+    "lemma": "river",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_019",
+    "lemma": "mountain",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_020",
+    "lemma": "weather",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_021",
+    "lemma": "culture",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_022",
+    "lemma": "festival",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_023",
+    "lemma": "history",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_024",
+    "lemma": "timeline",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_025",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_026",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_027",
+    "lemma": "change",
+    "zh": "找零",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_028",
+    "lemma": "economy",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_029",
+    "lemma": "trade",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_030",
+    "lemma": "job",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_031",
+    "lemma": "market",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_032",
+    "lemma": "transport",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_033",
+    "lemma": "school",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_034",
+    "lemma": "government",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_035",
+    "lemma": "citizen",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_036",
+    "lemma": "law",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_037",
+    "lemma": "safety",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_038",
+    "lemma": "resource",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_039",
+    "lemma": "environment",
+    "zh": "环境",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_040",
+    "lemma": "recycle",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_041",
+    "lemma": "community",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_042",
+    "lemma": "rule",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_043",
+    "lemma": "responsibility",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_044",
+    "lemma": "respect",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_045",
+    "lemma": "fair",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_046",
+    "lemma": "vote",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_047",
+    "lemma": "leader",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_048",
+    "lemma": "map",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_049",
+    "lemma": "direction",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_050",
+    "lemma": "north",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_051",
+    "lemma": "south",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_052",
+    "lemma": "east",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_053",
+    "lemma": "west",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_054",
+    "lemma": "location",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_055",
+    "lemma": "country",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_056",
+    "lemma": "city",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_057",
+    "lemma": "island",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_058",
+    "lemma": "river",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_059",
+    "lemma": "mountain",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_060",
+    "lemma": "weather",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_061",
+    "lemma": "culture",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_062",
+    "lemma": "festival",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_063",
+    "lemma": "history",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_064",
+    "lemma": "timeline",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_065",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_066",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_067",
+    "lemma": "change",
+    "zh": "找零",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_068",
+    "lemma": "economy",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_069",
+    "lemma": "trade",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_070",
+    "lemma": "job",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_071",
+    "lemma": "market",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_072",
+    "lemma": "transport",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_073",
+    "lemma": "school",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_074",
+    "lemma": "government",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_075",
+    "lemma": "citizen",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_076",
+    "lemma": "law",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_077",
+    "lemma": "safety",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_078",
+    "lemma": "resource",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_079",
+    "lemma": "environment",
+    "zh": "环境",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_080",
+    "lemma": "recycle",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_081",
+    "lemma": "community",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_082",
+    "lemma": "rule",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_083",
+    "lemma": "responsibility",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_084",
+    "lemma": "respect",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_085",
+    "lemma": "fair",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_086",
+    "lemma": "vote",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_087",
+    "lemma": "leader",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_088",
+    "lemma": "map",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_089",
+    "lemma": "direction",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_090",
+    "lemma": "north",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_091",
+    "lemma": "south",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_092",
+    "lemma": "east",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_093",
+    "lemma": "west",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_094",
+    "lemma": "location",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_095",
+    "lemma": "country",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_096",
+    "lemma": "city",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_097",
+    "lemma": "island",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_098",
+    "lemma": "river",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_099",
+    "lemma": "mountain",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_100",
+    "lemma": "weather",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_101",
+    "lemma": "culture",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_102",
+    "lemma": "festival",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_103",
+    "lemma": "history",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_104",
+    "lemma": "timeline",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_105",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_106",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_107",
+    "lemma": "change",
+    "zh": "找零",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_108",
+    "lemma": "economy",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_109",
+    "lemma": "trade",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_110",
+    "lemma": "job",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_111",
+    "lemma": "market",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_112",
+    "lemma": "transport",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_113",
+    "lemma": "school",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_114",
+    "lemma": "government",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_115",
+    "lemma": "citizen",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_116",
+    "lemma": "law",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_117",
+    "lemma": "safety",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_118",
+    "lemma": "resource",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_119",
+    "lemma": "environment",
+    "zh": "环境",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_120",
+    "lemma": "recycle",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_121",
+    "lemma": "community",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_122",
+    "lemma": "rule",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_123",
+    "lemma": "responsibility",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_124",
+    "lemma": "respect",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_125",
+    "lemma": "fair",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_126",
+    "lemma": "vote",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_127",
+    "lemma": "leader",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_128",
+    "lemma": "map",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_129",
+    "lemma": "direction",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_130",
+    "lemma": "north",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_131",
+    "lemma": "south",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_132",
+    "lemma": "east",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_133",
+    "lemma": "west",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_134",
+    "lemma": "location",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_135",
+    "lemma": "country",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_136",
+    "lemma": "city",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_137",
+    "lemma": "island",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_138",
+    "lemma": "river",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_139",
+    "lemma": "mountain",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_140",
+    "lemma": "weather",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_141",
+    "lemma": "culture",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_142",
+    "lemma": "festival",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_143",
+    "lemma": "history",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_144",
+    "lemma": "timeline",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_145",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_146",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_147",
+    "lemma": "change",
+    "zh": "找零",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_148",
+    "lemma": "economy",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_149",
+    "lemma": "trade",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_150",
+    "lemma": "job",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_151",
+    "lemma": "market",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_152",
+    "lemma": "transport",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_153",
+    "lemma": "school",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_154",
+    "lemma": "government",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_155",
+    "lemma": "citizen",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_156",
+    "lemma": "law",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_157",
+    "lemma": "safety",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_158",
+    "lemma": "resource",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_159",
+    "lemma": "environment",
+    "zh": "环境",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_160",
+    "lemma": "recycle",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_161",
+    "lemma": "community",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_162",
+    "lemma": "rule",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_163",
+    "lemma": "responsibility",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_164",
+    "lemma": "respect",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_165",
+    "lemma": "fair",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_166",
+    "lemma": "vote",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_167",
+    "lemma": "leader",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_168",
+    "lemma": "map",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_169",
+    "lemma": "direction",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_170",
+    "lemma": "north",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_171",
+    "lemma": "south",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_172",
+    "lemma": "east",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_173",
+    "lemma": "west",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_174",
+    "lemma": "location",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_175",
+    "lemma": "country",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_176",
+    "lemma": "city",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_177",
+    "lemma": "island",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_178",
+    "lemma": "river",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_179",
+    "lemma": "mountain",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_180",
+    "lemma": "weather",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_181",
+    "lemma": "culture",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_182",
+    "lemma": "festival",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_183",
+    "lemma": "history",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_184",
+    "lemma": "timeline",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_185",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_186",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_187",
+    "lemma": "change",
+    "zh": "找零",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_188",
+    "lemma": "economy",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_189",
+    "lemma": "trade",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_190",
+    "lemma": "job",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_191",
+    "lemma": "market",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_192",
+    "lemma": "transport",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_193",
+    "lemma": "school",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_194",
+    "lemma": "government",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_195",
+    "lemma": "citizen",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_196",
+    "lemma": "law",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_197",
+    "lemma": "safety",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_198",
+    "lemma": "resource",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_199",
+    "lemma": "environment",
+    "zh": "环境",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_200",
+    "lemma": "recycle",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_201",
+    "lemma": "community",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_202",
+    "lemma": "rule",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_203",
+    "lemma": "responsibility",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_204",
+    "lemma": "respect",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_205",
+    "lemma": "fair",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_206",
+    "lemma": "vote",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_207",
+    "lemma": "leader",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_208",
+    "lemma": "map",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_209",
+    "lemma": "direction",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_210",
+    "lemma": "north",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_211",
+    "lemma": "south",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_212",
+    "lemma": "east",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_213",
+    "lemma": "west",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_214",
+    "lemma": "location",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_215",
+    "lemma": "country",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_216",
+    "lemma": "city",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_217",
+    "lemma": "island",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_218",
+    "lemma": "river",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_219",
+    "lemma": "mountain",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_220",
+    "lemma": "weather",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_221",
+    "lemma": "culture",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_222",
+    "lemma": "festival",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_223",
+    "lemma": "history",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_224",
+    "lemma": "timeline",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_225",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_226",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_227",
+    "lemma": "change",
+    "zh": "找零",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_228",
+    "lemma": "economy",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_229",
+    "lemma": "trade",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_230",
+    "lemma": "job",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_231",
+    "lemma": "market",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_232",
+    "lemma": "transport",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_233",
+    "lemma": "school",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_234",
+    "lemma": "government",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_235",
+    "lemma": "citizen",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_236",
+    "lemma": "law",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_237",
+    "lemma": "safety",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_238",
+    "lemma": "resource",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_239",
+    "lemma": "environment",
+    "zh": "环境",
+    "pos": ""
+  },
+  {
+    "id": "p1_ss_240",
+    "lemma": "recycle",
+    "zh": "（可查词典）",
+    "pos": ""
+  }
+]

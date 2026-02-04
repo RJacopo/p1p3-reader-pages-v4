@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "p3_m_001",
+    "lemma": "add",
+    "zh": "相加",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_002",
+    "lemma": "subtract",
+    "zh": "相减",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_003",
+    "lemma": "multiply",
+    "zh": "相乘",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_004",
+    "lemma": "divide",
+    "zh": "相除",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_005",
+    "lemma": "equal",
+    "zh": "相等",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_006",
+    "lemma": "compare",
+    "zh": "比较",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_007",
+    "lemma": "difference",
+    "zh": "差",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_008",
+    "lemma": "total",
+    "zh": "总数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_009",
+    "lemma": "sum",
+    "zh": "总和",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_010",
+    "lemma": "product",
+    "zh": "乘积",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_011",
+    "lemma": "quotient",
+    "zh": "商",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_012",
+    "lemma": "remainder",
+    "zh": "余数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_013",
+    "lemma": "estimate",
+    "zh": "估算",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_014",
+    "lemma": "round",
+    "zh": "四舍五入",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_015",
+    "lemma": "nearest",
+    "zh": "最接近的",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_016",
+    "lemma": "place value",
+    "zh": "数位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_017",
+    "lemma": "digit",
+    "zh": "数字",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_018",
+    "lemma": "hundreds",
+    "zh": "百位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_019",
+    "lemma": "thousands",
+    "zh": "千位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_020",
+    "lemma": "tens",
+    "zh": "十位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_021",
+    "lemma": "ones",
+    "zh": "个位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_022",
+    "lemma": "fraction",
+    "zh": "分数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_023",
+    "lemma": "numerator",
+    "zh": "分子",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_024",
+    "lemma": "denominator",
+    "zh": "分母",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_025",
+    "lemma": "decimal",
+    "zh": "小数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_026",
+    "lemma": "tenths",
+    "zh": "十分位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_027",
+    "lemma": "hundredths",
+    "zh": "百分位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_028",
+    "lemma": "unit",
+    "zh": "单位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_029",
+    "lemma": "metre",
+    "zh": "米",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_030",
+    "lemma": "centimetre",
+    "zh": "厘米",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_031",
+    "lemma": "kilometre",
+    "zh": "公里",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_032",
+    "lemma": "millimetre",
+    "zh": "毫米",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_033",
+    "lemma": "gram",
+    "zh": "克",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_034",
+    "lemma": "kilogram",
+    "zh": "千克",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_035",
+    "lemma": "litre",
+    "zh": "升",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_036",
+    "lemma": "millilitre",
+    "zh": "毫升",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_037",
+    "lemma": "perimeter",
+    "zh": "周长",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_038",
+    "lemma": "area",
+    "zh": "面积",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_039",
+    "lemma": "rectangle",
+    "zh": "长方形",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_040",
+    "lemma": "square",
+    "zh": "正方形",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_041",
+    "lemma": "triangle",
+    "zh": "三角形",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_042",
+    "lemma": "circle",
+    "zh": "圆",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_043",
+    "lemma": "radius",
+    "zh": "半径",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_044",
+    "lemma": "diameter",
+    "zh": "直径",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_045",
+    "lemma": "length",
+    "zh": "长度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_046",
+    "lemma": "width",
+    "zh": "宽度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_047",
+    "lemma": "height",
+    "zh": "高度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_048",
+    "lemma": "volume",
+    "zh": "体积",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_049",
+    "lemma": "mass",
+    "zh": "质量",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_050",
+    "lemma": "time",
+    "zh": "时间",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_051",
+    "lemma": "minute",
+    "zh": "分钟",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_052",
+    "lemma": "hour",
+    "zh": "小时",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_053",
+    "lemma": "day",
+    "zh": "天",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_054",
+    "lemma": "week",
+    "zh": "周",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_055",
+    "lemma": "month",
+    "zh": "月",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_056",
+    "lemma": "year",
+    "zh": "年",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_057",
+    "lemma": "calendar",
+    "zh": "日历",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_058",
+    "lemma": "temperature",
+    "zh": "温度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_059",
+    "lemma": "data",
+    "zh": "数据",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_060",
+    "lemma": "table",
+    "zh": "表格",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_061",
+    "lemma": "chart",
+    "zh": "图表",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_062",
+    "lemma": "bar graph",
+    "zh": "柱状图",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_063",
+    "lemma": "pictograph",
+    "zh": "象形图",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_064",
+    "lemma": "pattern",
+    "zh": "规律",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_065",
+    "lemma": "odd",
+    "zh": "奇数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_066",
+    "lemma": "even",
+    "zh": "偶数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_067",
+    "lemma": "multiple",
+    "zh": "倍数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_068",
+    "lemma": "factor",
+    "zh": "因数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_069",
+    "lemma": "prime",
+    "zh": "质数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_070",
+    "lemma": "composite",
+    "zh": "合数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_071",
+    "lemma": "money",
+    "zh": "钱",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_072",
+    "lemma": "coin",
+    "zh": "硬币",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_073",
+    "lemma": "note",
+    "zh": "纸币",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_074",
+    "lemma": "change",
+    "zh": "找零",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_075",
+    "lemma": "price",
+    "zh": "价格",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_076",
+    "lemma": "cost",
+    "zh": "花费",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_077",
+    "lemma": "sell",
+    "zh": "卖",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_078",
+    "lemma": "buy",
+    "zh": "买",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_079",
+    "lemma": "word problem",
+    "zh": "应用题",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_080",
+    "lemma": "model",
+    "zh": "模型图",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_081",
+    "lemma": "draw",
+    "zh": "画图",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_082",
+    "lemma": "strategy",
+    "zh": "策略",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_083",
+    "lemma": "check",
+    "zh": "检查",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_084",
+    "lemma": "answer",
+    "zh": "答案",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_085",
+    "lemma": "working",
+    "zh": "过程",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_086",
+    "lemma": "step",
+    "zh": "步骤",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_087",
+    "lemma": "reason",
+    "zh": "理由",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_088",
+    "lemma": "add",
+    "zh": "相加",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_089",
+    "lemma": "subtract",
+    "zh": "相减",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_090",
+    "lemma": "multiply",
+    "zh": "相乘",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_091",
+    "lemma": "divide",
+    "zh": "相除",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_092",
+    "lemma": "equal",
+    "zh": "相等",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_093",
+    "lemma": "compare",
+    "zh": "比较",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_094",
+    "lemma": "difference",
+    "zh": "差",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_095",
+    "lemma": "total",
+    "zh": "总数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_096",
+    "lemma": "sum",
+    "zh": "总和",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_097",
+    "lemma": "product",
+    "zh": "乘积",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_098",
+    "lemma": "quotient",
+    "zh": "商",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_099",
+    "lemma": "remainder",
+    "zh": "余数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_100",
+    "lemma": "estimate",
+    "zh": "估算",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_101",
+    "lemma": "round",
+    "zh": "四舍五入",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_102",
+    "lemma": "nearest",
+    "zh": "最接近的",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_103",
+    "lemma": "place-value",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_104",
+    "lemma": "digit",
+    "zh": "数字",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_105",
+    "lemma": "hundreds",
+    "zh": "百位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_106",
+    "lemma": "thousands",
+    "zh": "千位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_107",
+    "lemma": "tens",
+    "zh": "十位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_108",
+    "lemma": "ones",
+    "zh": "个位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_109",
+    "lemma": "fraction",
+    "zh": "分数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_110",
+    "lemma": "numerator",
+    "zh": "分子",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_111",
+    "lemma": "denominator",
+    "zh": "分母",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_112",
+    "lemma": "decimal",
+    "zh": "小数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_113",
+    "lemma": "tenths",
+    "zh": "十分位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_114",
+    "lemma": "hundredths",
+    "zh": "百分位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_115",
+    "lemma": "unit",
+    "zh": "单位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_116",
+    "lemma": "metre",
+    "zh": "米",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_117",
+    "lemma": "centimetre",
+    "zh": "厘米",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_118",
+    "lemma": "kilometre",
+    "zh": "公里",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_119",
+    "lemma": "millimetre",
+    "zh": "毫米",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_120",
+    "lemma": "gram",
+    "zh": "克",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_121",
+    "lemma": "kilogram",
+    "zh": "千克",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_122",
+    "lemma": "litre",
+    "zh": "升",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_123",
+    "lemma": "millilitre",
+    "zh": "毫升",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_124",
+    "lemma": "perimeter",
+    "zh": "周长",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_125",
+    "lemma": "area",
+    "zh": "面积",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_126",
+    "lemma": "rectangle",
+    "zh": "长方形",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_127",
+    "lemma": "square",
+    "zh": "正方形",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_128",
+    "lemma": "triangle",
+    "zh": "三角形",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_129",
+    "lemma": "circle",
+    "zh": "圆",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_130",
+    "lemma": "radius",
+    "zh": "半径",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_131",
+    "lemma": "diameter",
+    "zh": "直径",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_132",
+    "lemma": "length",
+    "zh": "长度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_133",
+    "lemma": "width",
+    "zh": "宽度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_134",
+    "lemma": "height",
+    "zh": "高度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_135",
+    "lemma": "volume",
+    "zh": "体积",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_136",
+    "lemma": "mass",
+    "zh": "质量",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_137",
+    "lemma": "time",
+    "zh": "时间",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_138",
+    "lemma": "minute",
+    "zh": "分钟",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_139",
+    "lemma": "hour",
+    "zh": "小时",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_140",
+    "lemma": "day",
+    "zh": "天",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_141",
+    "lemma": "week",
+    "zh": "周",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_142",
+    "lemma": "month",
+    "zh": "月",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_143",
+    "lemma": "year",
+    "zh": "年",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_144",
+    "lemma": "calendar",
+    "zh": "日历",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_145",
+    "lemma": "temperature",
+    "zh": "温度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_146",
+    "lemma": "data",
+    "zh": "数据",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_147",
+    "lemma": "table",
+    "zh": "表格",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_148",
+    "lemma": "chart",
+    "zh": "图表",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_149",
+    "lemma": "bar-graph",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_150",
+    "lemma": "pictograph",
+    "zh": "象形图",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_151",
+    "lemma": "pattern",
+    "zh": "规律",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_152",
+    "lemma": "odd",
+    "zh": "奇数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_153",
+    "lemma": "even",
+    "zh": "偶数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_154",
+    "lemma": "multiple",
+    "zh": "倍数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_155",
+    "lemma": "factor",
+    "zh": "因数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_156",
+    "lemma": "prime",
+    "zh": "质数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_157",
+    "lemma": "composite",
+    "zh": "合数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_158",
+    "lemma": "money",
+    "zh": "钱",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_159",
+    "lemma": "coin",
+    "zh": "硬币",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_160",
+    "lemma": "note",
+    "zh": "纸币",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_161",
+    "lemma": "change",
+    "zh": "找零",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_162",
+    "lemma": "price",
+    "zh": "价格",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_163",
+    "lemma": "cost",
+    "zh": "花费",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_164",
+    "lemma": "sell",
+    "zh": "卖",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_165",
+    "lemma": "buy",
+    "zh": "买",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_166",
+    "lemma": "word-problem",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_167",
+    "lemma": "model",
+    "zh": "模型图",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_168",
+    "lemma": "draw",
+    "zh": "画图",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_169",
+    "lemma": "strategy",
+    "zh": "策略",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_170",
+    "lemma": "check",
+    "zh": "检查",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_171",
+    "lemma": "answer",
+    "zh": "答案",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_172",
+    "lemma": "working",
+    "zh": "过程",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_173",
+    "lemma": "step",
+    "zh": "步骤",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_174",
+    "lemma": "reason",
+    "zh": "理由",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_175",
+    "lemma": "add",
+    "zh": "相加",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_176",
+    "lemma": "subtract",
+    "zh": "相减",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_177",
+    "lemma": "multiply",
+    "zh": "相乘",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_178",
+    "lemma": "divide",
+    "zh": "相除",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_179",
+    "lemma": "equal",
+    "zh": "相等",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_180",
+    "lemma": "compare",
+    "zh": "比较",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_181",
+    "lemma": "difference",
+    "zh": "差",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_182",
+    "lemma": "total",
+    "zh": "总数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_183",
+    "lemma": "sum",
+    "zh": "总和",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_184",
+    "lemma": "product",
+    "zh": "乘积",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_185",
+    "lemma": "quotient",
+    "zh": "商",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_186",
+    "lemma": "remainder",
+    "zh": "余数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_187",
+    "lemma": "estimate",
+    "zh": "估算",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_188",
+    "lemma": "round",
+    "zh": "四舍五入",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_189",
+    "lemma": "nearest",
+    "zh": "最接近的",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_190",
+    "lemma": "place-value",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_191",
+    "lemma": "digit",
+    "zh": "数字",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_192",
+    "lemma": "hundreds",
+    "zh": "百位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_193",
+    "lemma": "thousands",
+    "zh": "千位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_194",
+    "lemma": "tens",
+    "zh": "十位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_195",
+    "lemma": "ones",
+    "zh": "个位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_196",
+    "lemma": "fraction",
+    "zh": "分数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_197",
+    "lemma": "numerator",
+    "zh": "分子",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_198",
+    "lemma": "denominator",
+    "zh": "分母",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_199",
+    "lemma": "decimal",
+    "zh": "小数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_200",
+    "lemma": "tenths",
+    "zh": "十分位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_201",
+    "lemma": "hundredths",
+    "zh": "百分位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_202",
+    "lemma": "unit",
+    "zh": "单位",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_203",
+    "lemma": "metre",
+    "zh": "米",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_204",
+    "lemma": "centimetre",
+    "zh": "厘米",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_205",
+    "lemma": "kilometre",
+    "zh": "公里",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_206",
+    "lemma": "millimetre",
+    "zh": "毫米",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_207",
+    "lemma": "gram",
+    "zh": "克",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_208",
+    "lemma": "kilogram",
+    "zh": "千克",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_209",
+    "lemma": "litre",
+    "zh": "升",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_210",
+    "lemma": "millilitre",
+    "zh": "毫升",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_211",
+    "lemma": "perimeter",
+    "zh": "周长",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_212",
+    "lemma": "area",
+    "zh": "面积",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_213",
+    "lemma": "rectangle",
+    "zh": "长方形",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_214",
+    "lemma": "square",
+    "zh": "正方形",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_215",
+    "lemma": "triangle",
+    "zh": "三角形",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_216",
+    "lemma": "circle",
+    "zh": "圆",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_217",
+    "lemma": "radius",
+    "zh": "半径",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_218",
+    "lemma": "diameter",
+    "zh": "直径",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_219",
+    "lemma": "length",
+    "zh": "长度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_220",
+    "lemma": "width",
+    "zh": "宽度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_221",
+    "lemma": "height",
+    "zh": "高度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_222",
+    "lemma": "volume",
+    "zh": "体积",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_223",
+    "lemma": "mass",
+    "zh": "质量",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_224",
+    "lemma": "time",
+    "zh": "时间",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_225",
+    "lemma": "minute",
+    "zh": "分钟",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_226",
+    "lemma": "hour",
+    "zh": "小时",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_227",
+    "lemma": "day",
+    "zh": "天",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_228",
+    "lemma": "week",
+    "zh": "周",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_229",
+    "lemma": "month",
+    "zh": "月",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_230",
+    "lemma": "year",
+    "zh": "年",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_231",
+    "lemma": "calendar",
+    "zh": "日历",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_232",
+    "lemma": "temperature",
+    "zh": "温度",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_233",
+    "lemma": "data",
+    "zh": "数据",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_234",
+    "lemma": "table",
+    "zh": "表格",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_235",
+    "lemma": "chart",
+    "zh": "图表",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_236",
+    "lemma": "bar-graph",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_237",
+    "lemma": "pictograph",
+    "zh": "象形图",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_238",
+    "lemma": "pattern",
+    "zh": "规律",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_239",
+    "lemma": "odd",
+    "zh": "奇数",
+    "pos": ""
+  },
+  {
+    "id": "p3_m_240",
+    "lemma": "even",
+    "zh": "偶数",
+    "pos": ""
+  }
+]

@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "p1_sci_0001",
+    "topic": "materials",
+    "en": "Give one everyday object made of fabric and describe one property it has.",
+    "zh": "举一个由 fabric 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0002",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0003",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0004",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a butterfly in order.",
+    "zh": "按顺序写出 butterfly 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0005",
+    "topic": "classification",
+    "en": "Classify: butterfly, mushroom, frog, cat into groups (animal/plant/fungus).",
+    "zh": "把 butterfly, mushroom, frog, cat 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0006",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0007",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0008",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a butterfly in order.",
+    "zh": "按顺序写出 butterfly 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0009",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0010",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0011",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0012",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a frog in order.",
+    "zh": "按顺序写出 frog 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0013",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a chicken in order.",
+    "zh": "按顺序写出 chicken 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0014",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0015",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0016",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0017",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a chicken in order.",
+    "zh": "按顺序写出 chicken 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0018",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0019",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0020",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0021",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0022",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0023",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0024",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a frog in order.",
+    "zh": "按顺序写出 frog 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0025",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0026",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0027",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0028",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0029",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0030",
+    "topic": "classification",
+    "en": "Classify: butterfly, ant, cat, frog into groups (animal/plant/fungus).",
+    "zh": "把 butterfly, ant, cat, frog 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0031",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0032",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0033",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0034",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0035",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0036",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0037",
+    "topic": "materials",
+    "en": "Give one everyday object made of rubber and describe one property it has.",
+    "zh": "举一个由 rubber 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0038",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0039",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0040",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0041",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0042",
+    "topic": "materials",
+    "en": "Give one everyday object made of fabric and describe one property it has.",
+    "zh": "举一个由 fabric 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0043",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0044",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0045",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0046",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0047",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a butterfly in order.",
+    "zh": "按顺序写出 butterfly 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0048",
+    "topic": "classification",
+    "en": "Classify: butterfly, frog, cat, oak tree into groups (animal/plant/fungus).",
+    "zh": "把 butterfly, frog, cat, oak tree 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0049",
+    "topic": "materials",
+    "en": "Give one everyday object made of glass and describe one property it has.",
+    "zh": "举一个由 glass 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0050",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0051",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0052",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0053",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0054",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0055",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0056",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a mosquito in order.",
+    "zh": "按顺序写出 mosquito 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0057",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0058",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0059",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0060",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0061",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0062",
+    "topic": "classification",
+    "en": "Classify: oak tree, eagle, frog, ant into groups (animal/plant/fungus).",
+    "zh": "把 oak tree, eagle, frog, ant 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0063",
+    "topic": "materials",
+    "en": "Give one everyday object made of plastic and describe one property it has.",
+    "zh": "举一个由 plastic 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0064",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0065",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0066",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0067",
+    "topic": "classification",
+    "en": "Classify: mushroom, salmon, eagle, cat into groups (animal/plant/fungus).",
+    "zh": "把 mushroom, salmon, eagle, cat 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0068",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0069",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0070",
+    "topic": "materials",
+    "en": "Give one everyday object made of fabric and describe one property it has.",
+    "zh": "举一个由 fabric 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0071",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0072",
+    "topic": "classification",
+    "en": "Classify: cat, mushroom, salmon, eagle into groups (animal/plant/fungus).",
+    "zh": "把 cat, mushroom, salmon, eagle 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0073",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a frog in order.",
+    "zh": "按顺序写出 frog 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0074",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0075",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0076",
+    "topic": "materials",
+    "en": "Give one everyday object made of glass and describe one property it has.",
+    "zh": "举一个由 glass 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0077",
+    "topic": "materials",
+    "en": "Give one everyday object made of plastic and describe one property it has.",
+    "zh": "举一个由 plastic 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0078",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0079",
+    "topic": "classification",
+    "en": "Classify: butterfly, mushroom, eagle, oak tree into groups (animal/plant/fungus).",
+    "zh": "把 butterfly, mushroom, eagle, oak tree 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0080",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0081",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0082",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a butterfly in order.",
+    "zh": "按顺序写出 butterfly 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0083",
+    "topic": "classification",
+    "en": "Classify: salmon, cat, ant, eagle into groups (animal/plant/fungus).",
+    "zh": "把 salmon, cat, ant, eagle 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0084",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0085",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0086",
+    "topic": "classification",
+    "en": "Classify: salmon, ant, cat, eagle into groups (animal/plant/fungus).",
+    "zh": "把 salmon, ant, cat, eagle 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0087",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0088",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0089",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0090",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0091",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0092",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0093",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0094",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0095",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0096",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0097",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0098",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0099",
+    "topic": "materials",
+    "en": "Give one everyday object made of glass and describe one property it has.",
+    "zh": "举一个由 glass 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0100",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0101",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0102",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0103",
+    "topic": "classification",
+    "en": "Classify: cat, frog, mushroom, oak tree into groups (animal/plant/fungus).",
+    "zh": "把 cat, frog, mushroom, oak tree 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0104",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0105",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0106",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0107",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0108",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0109",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0110",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0111",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a butterfly in order.",
+    "zh": "按顺序写出 butterfly 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0112",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a chicken in order.",
+    "zh": "按顺序写出 chicken 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0113",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0114",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0115",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0116",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0117",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0118",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0119",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0120",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0121",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0122",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0123",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0124",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0125",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0126",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0127",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0128",
+    "topic": "materials",
+    "en": "Give one everyday object made of rubber and describe one property it has.",
+    "zh": "举一个由 rubber 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0129",
+    "topic": "materials",
+    "en": "Give one everyday object made of rubber and describe one property it has.",
+    "zh": "举一个由 rubber 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0130",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0131",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0132",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0133",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0134",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0135",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0136",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0137",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0138",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0139",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a mosquito in order.",
+    "zh": "按顺序写出 mosquito 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0140",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0141",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0142",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0143",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0144",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0145",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0146",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0147",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a butterfly in order.",
+    "zh": "按顺序写出 butterfly 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0148",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0149",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0150",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0151",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0152",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0153",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0154",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0155",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0156",
+    "topic": "classification",
+    "en": "Classify: butterfly, ant, salmon, oak tree into groups (animal/plant/fungus).",
+    "zh": "把 butterfly, ant, salmon, oak tree 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0157",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0158",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0159",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0160",
+    "topic": "materials",
+    "en": "Give one everyday object made of metal and describe one property it has.",
+    "zh": "举一个由 metal 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0161",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0162",
+    "topic": "materials",
+    "en": "Give one everyday object made of wood and describe one property it has.",
+    "zh": "举一个由 wood 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0163",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0164",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0165",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0166",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0167",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0168",
+    "topic": "materials",
+    "en": "Give one everyday object made of rubber and describe one property it has.",
+    "zh": "举一个由 rubber 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0169",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0170",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0171",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0172",
+    "topic": "classification",
+    "en": "Classify: butterfly, cat, eagle, salmon into groups (animal/plant/fungus).",
+    "zh": "把 butterfly, cat, eagle, salmon 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0173",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0174",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0175",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0176",
+    "topic": "classification",
+    "en": "Classify: salmon, mushroom, eagle, butterfly into groups (animal/plant/fungus).",
+    "zh": "把 salmon, mushroom, eagle, butterfly 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0177",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0178",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0179",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a butterfly in order.",
+    "zh": "按顺序写出 butterfly 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0180",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0181",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0182",
+    "topic": "materials",
+    "en": "Give one everyday object made of rubber and describe one property it has.",
+    "zh": "举一个由 rubber 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0183",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0184",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0185",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a chicken in order.",
+    "zh": "按顺序写出 chicken 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0186",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0187",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0188",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0189",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0190",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0191",
+    "topic": "classification",
+    "en": "Classify: salmon, eagle, butterfly, cat into groups (animal/plant/fungus).",
+    "zh": "把 salmon, eagle, butterfly, cat 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0192",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0193",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0194",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0195",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0196",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0197",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0198",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0199",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0200",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0201",
+    "topic": "materials",
+    "en": "Give one everyday object made of glass and describe one property it has.",
+    "zh": "举一个由 glass 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0202",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0203",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0204",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0205",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0206",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0207",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0208",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0209",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0210",
+    "topic": "classification",
+    "en": "Classify: frog, ant, butterfly, cat into groups (animal/plant/fungus).",
+    "zh": "把 frog, ant, butterfly, cat 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0211",
+    "topic": "classification",
+    "en": "Classify: frog, salmon, eagle, oak tree into groups (animal/plant/fungus).",
+    "zh": "把 frog, salmon, eagle, oak tree 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0212",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0213",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0214",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0215",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0216",
+    "topic": "classification",
+    "en": "Classify: ant, oak tree, frog, eagle into groups (animal/plant/fungus).",
+    "zh": "把 ant, oak tree, frog, eagle 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0217",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a mosquito in order.",
+    "zh": "按顺序写出 mosquito 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0218",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0219",
+    "topic": "materials",
+    "en": "Give one everyday object made of glass and describe one property it has.",
+    "zh": "举一个由 glass 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0220",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0221",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0222",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0223",
+    "topic": "classification",
+    "en": "Classify: mushroom, cat, frog, ant into groups (animal/plant/fungus).",
+    "zh": "把 mushroom, cat, frog, ant 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0224",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0225",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0226",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0227",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0228",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0229",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0230",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0231",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0232",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0233",
+    "topic": "classification",
+    "en": "Classify: oak tree, eagle, butterfly, frog into groups (animal/plant/fungus).",
+    "zh": "把 oak tree, eagle, butterfly, frog 分类（动物/植物/真菌）。",
+    "tags": [
+      "science",
+      "classification"
+    ],
+    "hints": [
+      "Look at how each one gets food and grows.",
+      "Some are animals, some are plants, some are fungi."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0234",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0235",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0236",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0237",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0238",
+    "topic": "materials",
+    "en": "Give one everyday object made of rubber and describe one property it has.",
+    "zh": "举一个由 rubber 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0239",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0240",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0241",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0242",
+    "topic": "light",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "light"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0243",
+    "topic": "forces",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "forces"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0244",
+    "topic": "energy",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "energy"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0245",
+    "topic": "materials",
+    "en": "Give one everyday object made of plastic and describe one property it has.",
+    "zh": "举一个由 plastic 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0246",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0247",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0248",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0249",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0250",
+    "topic": "water",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "water"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0251",
+    "topic": "materials",
+    "en": "Give one everyday object made of plastic and describe one property it has.",
+    "zh": "举一个由 plastic 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0252",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a frog in order.",
+    "zh": "按顺序写出 frog 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0253",
+    "topic": "living vs non-living",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "living vs non-living"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0254",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a chicken in order.",
+    "zh": "按顺序写出 chicken 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0255",
+    "topic": "materials",
+    "en": "Give one everyday object made of metal and describe one property it has.",
+    "zh": "举一个由 metal 做成的物品，并写出它的一个性质。",
+    "tags": [
+      "science",
+      "materials"
+    ],
+    "hints": [
+      "Think of school or home objects.",
+      "Use property words like strong/flexible/transparent."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0256",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a butterfly in order.",
+    "zh": "按顺序写出 butterfly 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0257",
+    "topic": "life cycles",
+    "en": "Write the life cycle stages of a mosquito in order.",
+    "zh": "按顺序写出 mosquito 的生命周期阶段。",
+    "tags": [
+      "science",
+      "life cycles"
+    ],
+    "hints": [
+      "Start from egg if it hatches from eggs.",
+      "Use arrows to show order."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0258",
+    "topic": "sound",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "sound"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0259",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  },
+  {
+    "id": "p1_sci_0260",
+    "topic": "environment",
+    "en": "Explain why living things need water, air and food.",
+    "zh": "解释为什么有生命的东西需要水、空气和食物。",
+    "tags": [
+      "science",
+      "environment"
+    ],
+    "hints": [
+      "Water helps transport and grow.",
+      "Air provides gases needed for life."
+    ],
+    "answer": "Answers may vary"
+  }
+]

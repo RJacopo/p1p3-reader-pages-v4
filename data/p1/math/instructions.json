@@ -1,0 +1,3902 @@
+[
+  {
+    "id": "p1_math_0001",
+    "topic": "number",
+    "en": "Multiply 3 × 2.",
+    "zh": "计算 3 × 2。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "3 groups of 2.",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0002",
+    "topic": "number",
+    "en": "Calculate 54 + 45.",
+    "zh": "计算 54 + 45。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 99."
+    ],
+    "answer": "99"
+  },
+  {
+    "id": "p1_math_0003",
+    "topic": "number",
+    "en": "Calculate 38 + 83.",
+    "zh": "计算 38 + 83。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 121."
+    ],
+    "answer": "121"
+  },
+  {
+    "id": "p1_math_0004",
+    "topic": "number",
+    "en": "Find 350 − 53.",
+    "zh": "计算 350 − 53。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 297."
+    ],
+    "answer": "297"
+  },
+  {
+    "id": "p1_math_0005",
+    "topic": "time",
+    "en": "The time is 10:05. What time will it be after 25 minutes?",
+    "zh": "现在是 10:05，再过 25 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 5+25=30.",
+      "Carry hours if needed → 10:30."
+    ],
+    "answer": "10:30"
+  },
+  {
+    "id": "p1_math_0006",
+    "topic": "number",
+    "en": "Divide 40 ÷ 8.",
+    "zh": "计算 40 ÷ 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 8s in 40?",
+      "Result = 5."
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "p1_math_0007",
+    "topic": "number",
+    "en": "Find 620 − 26.",
+    "zh": "计算 620 − 26。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 594."
+    ],
+    "answer": "594"
+  },
+  {
+    "id": "p1_math_0008",
+    "topic": "number",
+    "en": "Multiply 8 × 7.",
+    "zh": "计算 8 × 7。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "8 groups of 7.",
+      "Result = 56."
+    ],
+    "answer": "56"
+  },
+  {
+    "id": "p1_math_0009",
+    "topic": "number",
+    "en": "Calculate 57 + 75.",
+    "zh": "计算 57 + 75。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 132."
+    ],
+    "answer": "132"
+  },
+  {
+    "id": "p1_math_0010",
+    "topic": "number",
+    "en": "Multiply 8 × 3.",
+    "zh": "计算 8 × 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "8 groups of 3.",
+      "Result = 24."
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "p1_math_0011",
+    "topic": "number",
+    "en": "Divide 12 ÷ 6.",
+    "zh": "计算 12 ÷ 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 6s in 12?",
+      "Result = 2."
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "p1_math_0012",
+    "topic": "time",
+    "en": "The time is 2:35. What time will it be after 15 minutes?",
+    "zh": "现在是 2:35，再过 15 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 35+15=50.",
+      "Carry hours if needed → 2:50."
+    ],
+    "answer": "2:50"
+  },
+  {
+    "id": "p1_math_0013",
+    "topic": "time",
+    "en": "The time is 5:55. What time will it be after 40 minutes?",
+    "zh": "现在是 5:55，再过 40 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 55+40=95.",
+      "Carry hours if needed → 6:35."
+    ],
+    "answer": "6:35"
+  },
+  {
+    "id": "p1_math_0014",
+    "topic": "number",
+    "en": "Calculate 53 + 35.",
+    "zh": "计算 53 + 35。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 88."
+    ],
+    "answer": "88"
+  },
+  {
+    "id": "p1_math_0015",
+    "topic": "number",
+    "en": "Calculate 56 + 65.",
+    "zh": "计算 56 + 65。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 121."
+    ],
+    "answer": "121"
+  },
+  {
+    "id": "p1_math_0016",
+    "topic": "number",
+    "en": "Multiply 3 × 8.",
+    "zh": "计算 3 × 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "3 groups of 8.",
+      "Result = 24."
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "p1_math_0017",
+    "topic": "measurement",
+    "en": "Convert 6 m 30 cm into centimetres.",
+    "zh": "把 6 米 30 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 6 m = 600 cm.",
+      "Add 30 cm: 600+30=630 cm."
+    ],
+    "answer": "630 cm"
+  },
+  {
+    "id": "p1_math_0018",
+    "topic": "number",
+    "en": "Calculate 56 + 65.",
+    "zh": "计算 56 + 65。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 121."
+    ],
+    "answer": "121"
+  },
+  {
+    "id": "p1_math_0019",
+    "topic": "number",
+    "en": "Find 450 − 54.",
+    "zh": "计算 450 − 54。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 396."
+    ],
+    "answer": "396"
+  },
+  {
+    "id": "p1_math_0020",
+    "topic": "measurement",
+    "en": "Convert 7 m 75 cm into centimetres.",
+    "zh": "把 7 米 75 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 7 m = 700 cm.",
+      "Add 75 cm: 700+75=775 cm."
+    ],
+    "answer": "775 cm"
+  },
+  {
+    "id": "p1_math_0021",
+    "topic": "number",
+    "en": "Calculate 57 + 75.",
+    "zh": "计算 57 + 75。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 132."
+    ],
+    "answer": "132"
+  },
+  {
+    "id": "p1_math_0022",
+    "topic": "number",
+    "en": "Divide 14 ÷ 2.",
+    "zh": "计算 14 ÷ 2。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 2s in 14?",
+      "Result = 7."
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "p1_math_0023",
+    "topic": "number",
+    "en": "Multiply 3 × 5.",
+    "zh": "计算 3 × 5。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "3 groups of 5.",
+      "Result = 15."
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "p1_math_0024",
+    "topic": "number",
+    "en": "Divide 72 ÷ 9.",
+    "zh": "计算 72 ÷ 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 9s in 72?",
+      "Result = 8."
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "p1_math_0025",
+    "topic": "number",
+    "en": "Find 640 − 46.",
+    "zh": "计算 640 − 46。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 594."
+    ],
+    "answer": "594"
+  },
+  {
+    "id": "p1_math_0026",
+    "topic": "number",
+    "en": "Divide 48 ÷ 6.",
+    "zh": "计算 48 ÷ 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 6s in 48?",
+      "Result = 8."
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "p1_math_0027",
+    "topic": "number",
+    "en": "Divide 20 ÷ 5.",
+    "zh": "计算 20 ÷ 5。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 5s in 20?",
+      "Result = 4."
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "p1_math_0028",
+    "topic": "number",
+    "en": "Find 230 − 32.",
+    "zh": "计算 230 − 32。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0029",
+    "topic": "number",
+    "en": "Calculate 48 + 84.",
+    "zh": "计算 48 + 84。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 132."
+    ],
+    "answer": "132"
+  },
+  {
+    "id": "p1_math_0030",
+    "topic": "number",
+    "en": "Multiply 8 × 9.",
+    "zh": "计算 8 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "8 groups of 9.",
+      "Result = 72."
+    ],
+    "answer": "72"
+  },
+  {
+    "id": "p1_math_0031",
+    "topic": "time",
+    "en": "The time is 1:55. What time will it be after 15 minutes?",
+    "zh": "现在是 1:55，再过 15 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 55+15=70.",
+      "Carry hours if needed → 2:10."
+    ],
+    "answer": "2:10"
+  },
+  {
+    "id": "p1_math_0032",
+    "topic": "number",
+    "en": "Calculate 67 + 76.",
+    "zh": "计算 67 + 76。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 143."
+    ],
+    "answer": "143"
+  },
+  {
+    "id": "p1_math_0033",
+    "topic": "number",
+    "en": "Divide 32 ÷ 8.",
+    "zh": "计算 32 ÷ 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 8s in 32?",
+      "Result = 4."
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "p1_math_0034",
+    "topic": "number",
+    "en": "Calculate 64 + 46.",
+    "zh": "计算 64 + 46。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 110."
+    ],
+    "answer": "110"
+  },
+  {
+    "id": "p1_math_0035",
+    "topic": "number",
+    "en": "Find 650 − 56.",
+    "zh": "计算 650 − 56。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 594."
+    ],
+    "answer": "594"
+  },
+  {
+    "id": "p1_math_0036",
+    "topic": "number",
+    "en": "Multiply 4 × 2.",
+    "zh": "计算 4 × 2。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "4 groups of 2.",
+      "Result = 8."
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "p1_math_0037",
+    "topic": "measurement",
+    "en": "Convert 1 m 30 cm into centimetres.",
+    "zh": "把 1 米 30 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 1 m = 100 cm.",
+      "Add 30 cm: 100+30=130 cm."
+    ],
+    "answer": "130 cm"
+  },
+  {
+    "id": "p1_math_0038",
+    "topic": "word problems",
+    "en": "A shop had 514 items. After selling 172, 3 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 514 件物品，卖出 172 件后，剩下的由 3 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 514-172=342.",
+      "Divide: 342 ÷ 3 = 114 remainder 0."
+    ],
+    "answer": "114"
+  },
+  {
+    "id": "p1_math_0039",
+    "topic": "number",
+    "en": "Divide 9 ÷ 3.",
+    "zh": "计算 9 ÷ 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 3s in 9?",
+      "Result = 3."
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "p1_math_0040",
+    "topic": "number",
+    "en": "Divide 16 ÷ 4.",
+    "zh": "计算 16 ÷ 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 4s in 16?",
+      "Result = 4."
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "p1_math_0041",
+    "topic": "time",
+    "en": "The time is 3:25. What time will it be after 45 minutes?",
+    "zh": "现在是 3:25，再过 45 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 25+45=70.",
+      "Carry hours if needed → 4:10."
+    ],
+    "answer": "4:10"
+  },
+  {
+    "id": "p1_math_0042",
+    "topic": "number",
+    "en": "Divide 30 ÷ 5.",
+    "zh": "计算 30 ÷ 5。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 5s in 30?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0043",
+    "topic": "number",
+    "en": "Divide 63 ÷ 7.",
+    "zh": "计算 63 ÷ 7。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 7s in 63?",
+      "Result = 9."
+    ],
+    "answer": "9"
+  },
+  {
+    "id": "p1_math_0044",
+    "topic": "number",
+    "en": "Calculate 55 + 55.",
+    "zh": "计算 55 + 55。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 110."
+    ],
+    "answer": "110"
+  },
+  {
+    "id": "p1_math_0045",
+    "topic": "number",
+    "en": "Find 250 − 52.",
+    "zh": "计算 250 − 52。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0046",
+    "topic": "number",
+    "en": "Find 320 − 23.",
+    "zh": "计算 320 − 23。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 297."
+    ],
+    "answer": "297"
+  },
+  {
+    "id": "p1_math_0047",
+    "topic": "number",
+    "en": "Calculate 27 + 72.",
+    "zh": "计算 27 + 72。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 99."
+    ],
+    "answer": "99"
+  },
+  {
+    "id": "p1_math_0048",
+    "topic": "time",
+    "en": "The time is 4:25. What time will it be after 50 minutes?",
+    "zh": "现在是 4:25，再过 50 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 25+50=75.",
+      "Carry hours if needed → 5:15."
+    ],
+    "answer": "5:15"
+  },
+  {
+    "id": "p1_math_0049",
+    "topic": "number",
+    "en": "Find 490 − 94.",
+    "zh": "计算 490 − 94。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 396."
+    ],
+    "answer": "396"
+  },
+  {
+    "id": "p1_math_0050",
+    "topic": "word problems",
+    "en": "A shop had 684 items. After selling 466, 4 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 684 件物品，卖出 466 件后，剩下的由 4 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 684-466=218.",
+      "Divide: 218 ÷ 4 = 54 remainder 2."
+    ],
+    "answer": "54 (remainder 2)"
+  },
+  {
+    "id": "p1_math_0051",
+    "topic": "number",
+    "en": "Multiply 3 × 8.",
+    "zh": "计算 3 × 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "3 groups of 8.",
+      "Result = 24."
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "p1_math_0052",
+    "topic": "number",
+    "en": "Calculate 89 + 98.",
+    "zh": "计算 89 + 98。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 187."
+    ],
+    "answer": "187"
+  },
+  {
+    "id": "p1_math_0053",
+    "topic": "number",
+    "en": "Divide 6 ÷ 3.",
+    "zh": "计算 6 ÷ 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 3s in 6?",
+      "Result = 2."
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "p1_math_0054",
+    "topic": "number",
+    "en": "Find 730 − 37.",
+    "zh": "计算 730 − 37。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 693."
+    ],
+    "answer": "693"
+  },
+  {
+    "id": "p1_math_0055",
+    "topic": "number",
+    "en": "Find 590 − 95.",
+    "zh": "计算 590 − 95。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 495."
+    ],
+    "answer": "495"
+  },
+  {
+    "id": "p1_math_0056",
+    "topic": "number",
+    "en": "Divide 24 ÷ 4.",
+    "zh": "计算 24 ÷ 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 4s in 24?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0057",
+    "topic": "number",
+    "en": "Calculate 39 + 93.",
+    "zh": "计算 39 + 93。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 132."
+    ],
+    "answer": "132"
+  },
+  {
+    "id": "p1_math_0058",
+    "topic": "number",
+    "en": "Find 230 − 32.",
+    "zh": "计算 230 − 32。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0059",
+    "topic": "number",
+    "en": "Divide 72 ÷ 8.",
+    "zh": "计算 72 ÷ 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 8s in 72?",
+      "Result = 9."
+    ],
+    "answer": "9"
+  },
+  {
+    "id": "p1_math_0060",
+    "topic": "number",
+    "en": "Find 820 − 28.",
+    "zh": "计算 820 − 28。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0061",
+    "topic": "number",
+    "en": "Multiply 2 × 8.",
+    "zh": "计算 2 × 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "2 groups of 8.",
+      "Result = 16."
+    ],
+    "answer": "16"
+  },
+  {
+    "id": "p1_math_0062",
+    "topic": "word problems",
+    "en": "A shop had 665 items. After selling 342, 6 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 665 件物品，卖出 342 件后，剩下的由 6 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 665-342=323.",
+      "Divide: 323 ÷ 6 = 53 remainder 5."
+    ],
+    "answer": "53 (remainder 5)"
+  },
+  {
+    "id": "p1_math_0063",
+    "topic": "number",
+    "en": "Find 940 − 49.",
+    "zh": "计算 940 − 49。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 891."
+    ],
+    "answer": "891"
+  },
+  {
+    "id": "p1_math_0064",
+    "topic": "number",
+    "en": "Calculate 52 + 25.",
+    "zh": "计算 52 + 25。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 77."
+    ],
+    "answer": "77"
+  },
+  {
+    "id": "p1_math_0065",
+    "topic": "number",
+    "en": "Calculate 72 + 27.",
+    "zh": "计算 72 + 27。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 99."
+    ],
+    "answer": "99"
+  },
+  {
+    "id": "p1_math_0066",
+    "topic": "number",
+    "en": "Calculate 94 + 49.",
+    "zh": "计算 94 + 49。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 143."
+    ],
+    "answer": "143"
+  },
+  {
+    "id": "p1_math_0067",
+    "topic": "time",
+    "en": "The time is 2:15. What time will it be after 15 minutes?",
+    "zh": "现在是 2:15，再过 15 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 15+15=30.",
+      "Carry hours if needed → 2:30."
+    ],
+    "answer": "2:30"
+  },
+  {
+    "id": "p1_math_0068",
+    "topic": "number",
+    "en": "Divide 15 ÷ 3.",
+    "zh": "计算 15 ÷ 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 3s in 15?",
+      "Result = 5."
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "p1_math_0069",
+    "topic": "number",
+    "en": "Calculate 52 + 25.",
+    "zh": "计算 52 + 25。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 77."
+    ],
+    "answer": "77"
+  },
+  {
+    "id": "p1_math_0070",
+    "topic": "number",
+    "en": "Find 760 − 67.",
+    "zh": "计算 760 − 67。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 693."
+    ],
+    "answer": "693"
+  },
+  {
+    "id": "p1_math_0071",
+    "topic": "number",
+    "en": "Multiply 7 × 5.",
+    "zh": "计算 7 × 5。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "7 groups of 5.",
+      "Result = 35."
+    ],
+    "answer": "35"
+  },
+  {
+    "id": "p1_math_0072",
+    "topic": "number",
+    "en": "Divide 24 ÷ 4.",
+    "zh": "计算 24 ÷ 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 4s in 24?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0073",
+    "topic": "number",
+    "en": "Divide 6 ÷ 3.",
+    "zh": "计算 6 ÷ 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 3s in 6?",
+      "Result = 2."
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "p1_math_0074",
+    "topic": "number",
+    "en": "Find 330 − 33.",
+    "zh": "计算 330 − 33。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 297."
+    ],
+    "answer": "297"
+  },
+  {
+    "id": "p1_math_0075",
+    "topic": "time",
+    "en": "The time is 5:15. What time will it be after 40 minutes?",
+    "zh": "现在是 5:15，再过 40 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 15+40=55.",
+      "Carry hours if needed → 5:55."
+    ],
+    "answer": "5:55"
+  },
+  {
+    "id": "p1_math_0076",
+    "topic": "number",
+    "en": "Multiply 5 × 7.",
+    "zh": "计算 5 × 7。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "5 groups of 7.",
+      "Result = 35."
+    ],
+    "answer": "35"
+  },
+  {
+    "id": "p1_math_0077",
+    "topic": "number",
+    "en": "Calculate 96 + 69.",
+    "zh": "计算 96 + 69。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 165."
+    ],
+    "answer": "165"
+  },
+  {
+    "id": "p1_math_0078",
+    "topic": "number",
+    "en": "Find 630 − 36.",
+    "zh": "计算 630 − 36。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 594."
+    ],
+    "answer": "594"
+  },
+  {
+    "id": "p1_math_0079",
+    "topic": "number",
+    "en": "Find 330 − 33.",
+    "zh": "计算 330 − 33。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 297."
+    ],
+    "answer": "297"
+  },
+  {
+    "id": "p1_math_0080",
+    "topic": "number",
+    "en": "Multiply 6 × 5.",
+    "zh": "计算 6 × 5。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "6 groups of 5.",
+      "Result = 30."
+    ],
+    "answer": "30"
+  },
+  {
+    "id": "p1_math_0081",
+    "topic": "number",
+    "en": "Multiply 6 × 9.",
+    "zh": "计算 6 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "6 groups of 9.",
+      "Result = 54."
+    ],
+    "answer": "54"
+  },
+  {
+    "id": "p1_math_0082",
+    "topic": "number",
+    "en": "Multiply 3 × 8.",
+    "zh": "计算 3 × 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "3 groups of 8.",
+      "Result = 24."
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "p1_math_0083",
+    "topic": "number",
+    "en": "Find 270 − 72.",
+    "zh": "计算 270 − 72。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0084",
+    "topic": "number",
+    "en": "Divide 24 ÷ 6.",
+    "zh": "计算 24 ÷ 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 6s in 24?",
+      "Result = 4."
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "p1_math_0085",
+    "topic": "time",
+    "en": "The time is 7:45. What time will it be after 10 minutes?",
+    "zh": "现在是 7:45，再过 10 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 45+10=55.",
+      "Carry hours if needed → 7:55."
+    ],
+    "answer": "7:55"
+  },
+  {
+    "id": "p1_math_0086",
+    "topic": "number",
+    "en": "Calculate 34 + 43.",
+    "zh": "计算 34 + 43。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 77."
+    ],
+    "answer": "77"
+  },
+  {
+    "id": "p1_math_0087",
+    "topic": "number",
+    "en": "Find 480 − 84.",
+    "zh": "计算 480 − 84。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 396."
+    ],
+    "answer": "396"
+  },
+  {
+    "id": "p1_math_0088",
+    "topic": "number",
+    "en": "Calculate 67 + 76.",
+    "zh": "计算 67 + 76。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 143."
+    ],
+    "answer": "143"
+  },
+  {
+    "id": "p1_math_0089",
+    "topic": "number",
+    "en": "Calculate 55 + 55.",
+    "zh": "计算 55 + 55。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 110."
+    ],
+    "answer": "110"
+  },
+  {
+    "id": "p1_math_0090",
+    "topic": "number",
+    "en": "Find 840 − 48.",
+    "zh": "计算 840 − 48。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0091",
+    "topic": "number",
+    "en": "Calculate 48 + 84.",
+    "zh": "计算 48 + 84。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 132."
+    ],
+    "answer": "132"
+  },
+  {
+    "id": "p1_math_0092",
+    "topic": "number",
+    "en": "Find 780 − 87.",
+    "zh": "计算 780 − 87。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 693."
+    ],
+    "answer": "693"
+  },
+  {
+    "id": "p1_math_0093",
+    "topic": "number",
+    "en": "Divide 12 ÷ 4.",
+    "zh": "计算 12 ÷ 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 4s in 12?",
+      "Result = 3."
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "p1_math_0094",
+    "topic": "number",
+    "en": "Find 950 − 59.",
+    "zh": "计算 950 − 59。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 891."
+    ],
+    "answer": "891"
+  },
+  {
+    "id": "p1_math_0095",
+    "topic": "measurement",
+    "en": "Convert 6 m 25 cm into centimetres.",
+    "zh": "把 6 米 25 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 6 m = 600 cm.",
+      "Add 25 cm: 600+25=625 cm."
+    ],
+    "answer": "625 cm"
+  },
+  {
+    "id": "p1_math_0096",
+    "topic": "number",
+    "en": "Divide 10 ÷ 2.",
+    "zh": "计算 10 ÷ 2。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 2s in 10?",
+      "Result = 5."
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "p1_math_0097",
+    "topic": "number",
+    "en": "Multiply 6 × 3.",
+    "zh": "计算 6 × 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "6 groups of 3.",
+      "Result = 18."
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "p1_math_0098",
+    "topic": "number",
+    "en": "Calculate 87 + 78.",
+    "zh": "计算 87 + 78。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 165."
+    ],
+    "answer": "165"
+  },
+  {
+    "id": "p1_math_0099",
+    "topic": "number",
+    "en": "Multiply 6 × 4.",
+    "zh": "计算 6 × 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "6 groups of 4.",
+      "Result = 24."
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "p1_math_0100",
+    "topic": "number",
+    "en": "Multiply 3 × 8.",
+    "zh": "计算 3 × 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "3 groups of 8.",
+      "Result = 24."
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "p1_math_0101",
+    "topic": "number",
+    "en": "Calculate 78 + 87.",
+    "zh": "计算 78 + 87。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 165."
+    ],
+    "answer": "165"
+  },
+  {
+    "id": "p1_math_0102",
+    "topic": "number",
+    "en": "Calculate 56 + 65.",
+    "zh": "计算 56 + 65。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 121."
+    ],
+    "answer": "121"
+  },
+  {
+    "id": "p1_math_0103",
+    "topic": "number",
+    "en": "Find 820 − 28.",
+    "zh": "计算 820 − 28。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0104",
+    "topic": "number",
+    "en": "Multiply 8 × 3.",
+    "zh": "计算 8 × 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "8 groups of 3.",
+      "Result = 24."
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "p1_math_0105",
+    "topic": "number",
+    "en": "Multiply 7 × 3.",
+    "zh": "计算 7 × 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "7 groups of 3.",
+      "Result = 21."
+    ],
+    "answer": "21"
+  },
+  {
+    "id": "p1_math_0106",
+    "topic": "time",
+    "en": "The time is 5:55. What time will it be after 45 minutes?",
+    "zh": "现在是 5:55，再过 45 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 55+45=100.",
+      "Carry hours if needed → 6:40."
+    ],
+    "answer": "6:40"
+  },
+  {
+    "id": "p1_math_0107",
+    "topic": "number",
+    "en": "Find 860 − 68.",
+    "zh": "计算 860 − 68。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0108",
+    "topic": "number",
+    "en": "Find 880 − 88.",
+    "zh": "计算 880 − 88。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0109",
+    "topic": "number",
+    "en": "Calculate 68 + 86.",
+    "zh": "计算 68 + 86。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 154."
+    ],
+    "answer": "154"
+  },
+  {
+    "id": "p1_math_0110",
+    "topic": "number",
+    "en": "Divide 30 ÷ 6.",
+    "zh": "计算 30 ÷ 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 6s in 30?",
+      "Result = 5."
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "p1_math_0111",
+    "topic": "word problems",
+    "en": "A shop had 793 items. After selling 671, 5 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 793 件物品，卖出 671 件后，剩下的由 5 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 793-671=122.",
+      "Divide: 122 ÷ 5 = 24 remainder 2."
+    ],
+    "answer": "24 (remainder 2)"
+  },
+  {
+    "id": "p1_math_0112",
+    "topic": "measurement",
+    "en": "Convert 8 m 75 cm into centimetres.",
+    "zh": "把 8 米 75 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 8 m = 800 cm.",
+      "Add 75 cm: 800+75=875 cm."
+    ],
+    "answer": "875 cm"
+  },
+  {
+    "id": "p1_math_0113",
+    "topic": "number",
+    "en": "Calculate 94 + 49.",
+    "zh": "计算 94 + 49。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 143."
+    ],
+    "answer": "143"
+  },
+  {
+    "id": "p1_math_0114",
+    "topic": "number",
+    "en": "Find 730 − 37.",
+    "zh": "计算 730 − 37。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 693."
+    ],
+    "answer": "693"
+  },
+  {
+    "id": "p1_math_0115",
+    "topic": "number",
+    "en": "Find 650 − 56.",
+    "zh": "计算 650 − 56。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 594."
+    ],
+    "answer": "594"
+  },
+  {
+    "id": "p1_math_0116",
+    "topic": "number",
+    "en": "Find 220 − 22.",
+    "zh": "计算 220 − 22。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0117",
+    "topic": "measurement",
+    "en": "Convert 2 m 40 cm into centimetres.",
+    "zh": "把 2 米 40 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 2 m = 200 cm.",
+      "Add 40 cm: 200+40=240 cm."
+    ],
+    "answer": "240 cm"
+  },
+  {
+    "id": "p1_math_0118",
+    "topic": "number",
+    "en": "Divide 40 ÷ 5.",
+    "zh": "计算 40 ÷ 5。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 5s in 40?",
+      "Result = 8."
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "p1_math_0119",
+    "topic": "number",
+    "en": "Calculate 54 + 45.",
+    "zh": "计算 54 + 45。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 99."
+    ],
+    "answer": "99"
+  },
+  {
+    "id": "p1_math_0120",
+    "topic": "word problems",
+    "en": "A shop had 309 items. After selling 249, 6 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 309 件物品，卖出 249 件后，剩下的由 6 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 309-249=60.",
+      "Divide: 60 ÷ 6 = 10 remainder 0."
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "p1_math_0121",
+    "topic": "number",
+    "en": "Calculate 49 + 94.",
+    "zh": "计算 49 + 94。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 143."
+    ],
+    "answer": "143"
+  },
+  {
+    "id": "p1_math_0122",
+    "topic": "time",
+    "en": "The time is 4:10. What time will it be after 50 minutes?",
+    "zh": "现在是 4:10，再过 50 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 10+50=60.",
+      "Carry hours if needed → 5:00."
+    ],
+    "answer": "5:00"
+  },
+  {
+    "id": "p1_math_0123",
+    "topic": "number",
+    "en": "Divide 63 ÷ 9.",
+    "zh": "计算 63 ÷ 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 9s in 63?",
+      "Result = 7."
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "p1_math_0124",
+    "topic": "number",
+    "en": "Find 890 − 98.",
+    "zh": "计算 890 − 98。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0125",
+    "topic": "number",
+    "en": "Multiply 9 × 9.",
+    "zh": "计算 9 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "9 groups of 9.",
+      "Result = 81."
+    ],
+    "answer": "81"
+  },
+  {
+    "id": "p1_math_0126",
+    "topic": "word problems",
+    "en": "A shop had 453 items. After selling 376, 5 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 453 件物品，卖出 376 件后，剩下的由 5 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 453-376=77.",
+      "Divide: 77 ÷ 5 = 15 remainder 2."
+    ],
+    "answer": "15 (remainder 2)"
+  },
+  {
+    "id": "p1_math_0127",
+    "topic": "word problems",
+    "en": "A shop had 733 items. After selling 546, 4 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 733 件物品，卖出 546 件后，剩下的由 4 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 733-546=187.",
+      "Divide: 187 ÷ 4 = 46 remainder 3."
+    ],
+    "answer": "46 (remainder 3)"
+  },
+  {
+    "id": "p1_math_0128",
+    "topic": "number",
+    "en": "Multiply 9 × 3.",
+    "zh": "计算 9 × 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "9 groups of 3.",
+      "Result = 27."
+    ],
+    "answer": "27"
+  },
+  {
+    "id": "p1_math_0129",
+    "topic": "number",
+    "en": "Multiply 6 × 7.",
+    "zh": "计算 6 × 7。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "6 groups of 7.",
+      "Result = 42."
+    ],
+    "answer": "42"
+  },
+  {
+    "id": "p1_math_0130",
+    "topic": "time",
+    "en": "The time is 2:15. What time will it be after 20 minutes?",
+    "zh": "现在是 2:15，再过 20 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 15+20=35.",
+      "Carry hours if needed → 2:35."
+    ],
+    "answer": "2:35"
+  },
+  {
+    "id": "p1_math_0131",
+    "topic": "number",
+    "en": "Find 840 − 48.",
+    "zh": "计算 840 − 48。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0132",
+    "topic": "number",
+    "en": "Multiply 8 × 8.",
+    "zh": "计算 8 × 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "8 groups of 8.",
+      "Result = 64."
+    ],
+    "answer": "64"
+  },
+  {
+    "id": "p1_math_0133",
+    "topic": "time",
+    "en": "The time is 8:35. What time will it be after 10 minutes?",
+    "zh": "现在是 8:35，再过 10 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 35+10=45.",
+      "Carry hours if needed → 8:45."
+    ],
+    "answer": "8:45"
+  },
+  {
+    "id": "p1_math_0134",
+    "topic": "number",
+    "en": "Calculate 88 + 88.",
+    "zh": "计算 88 + 88。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 176."
+    ],
+    "answer": "176"
+  },
+  {
+    "id": "p1_math_0135",
+    "topic": "word problems",
+    "en": "A shop had 789 items. After selling 439, 6 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 789 件物品，卖出 439 件后，剩下的由 6 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 789-439=350.",
+      "Divide: 350 ÷ 6 = 58 remainder 2."
+    ],
+    "answer": "58 (remainder 2)"
+  },
+  {
+    "id": "p1_math_0136",
+    "topic": "number",
+    "en": "Divide 42 ÷ 7.",
+    "zh": "计算 42 ÷ 7。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 7s in 42?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0137",
+    "topic": "number",
+    "en": "Find 590 − 95.",
+    "zh": "计算 590 − 95。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 495."
+    ],
+    "answer": "495"
+  },
+  {
+    "id": "p1_math_0138",
+    "topic": "number",
+    "en": "Calculate 89 + 98.",
+    "zh": "计算 89 + 98。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 187."
+    ],
+    "answer": "187"
+  },
+  {
+    "id": "p1_math_0139",
+    "topic": "number",
+    "en": "Find 780 − 87.",
+    "zh": "计算 780 − 87。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 693."
+    ],
+    "answer": "693"
+  },
+  {
+    "id": "p1_math_0140",
+    "topic": "measurement",
+    "en": "Convert 3 m 60 cm into centimetres.",
+    "zh": "把 3 米 60 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 3 m = 300 cm.",
+      "Add 60 cm: 300+60=360 cm."
+    ],
+    "answer": "360 cm"
+  },
+  {
+    "id": "p1_math_0141",
+    "topic": "number",
+    "en": "Calculate 82 + 28.",
+    "zh": "计算 82 + 28。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 110."
+    ],
+    "answer": "110"
+  },
+  {
+    "id": "p1_math_0142",
+    "topic": "number",
+    "en": "Divide 32 ÷ 8.",
+    "zh": "计算 32 ÷ 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 8s in 32?",
+      "Result = 4."
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "p1_math_0143",
+    "topic": "number",
+    "en": "Divide 12 ÷ 2.",
+    "zh": "计算 12 ÷ 2。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 2s in 12?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0144",
+    "topic": "number",
+    "en": "Multiply 5 × 9.",
+    "zh": "计算 5 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "5 groups of 9.",
+      "Result = 45."
+    ],
+    "answer": "45"
+  },
+  {
+    "id": "p1_math_0145",
+    "topic": "number",
+    "en": "Divide 48 ÷ 8.",
+    "zh": "计算 48 ÷ 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 8s in 48?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0146",
+    "topic": "number",
+    "en": "Calculate 39 + 93.",
+    "zh": "计算 39 + 93。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 132."
+    ],
+    "answer": "132"
+  },
+  {
+    "id": "p1_math_0147",
+    "topic": "number",
+    "en": "Find 270 − 72.",
+    "zh": "计算 270 − 72。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0148",
+    "topic": "number",
+    "en": "Calculate 32 + 23.",
+    "zh": "计算 32 + 23。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 55."
+    ],
+    "answer": "55"
+  },
+  {
+    "id": "p1_math_0149",
+    "topic": "number",
+    "en": "Find 520 − 25.",
+    "zh": "计算 520 − 25。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 495."
+    ],
+    "answer": "495"
+  },
+  {
+    "id": "p1_math_0150",
+    "topic": "number",
+    "en": "Calculate 49 + 94.",
+    "zh": "计算 49 + 94。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 143."
+    ],
+    "answer": "143"
+  },
+  {
+    "id": "p1_math_0151",
+    "topic": "number",
+    "en": "Multiply 5 × 9.",
+    "zh": "计算 5 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "5 groups of 9.",
+      "Result = 45."
+    ],
+    "answer": "45"
+  },
+  {
+    "id": "p1_math_0152",
+    "topic": "word problems",
+    "en": "A shop had 577 items. After selling 135, 8 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 577 件物品，卖出 135 件后，剩下的由 8 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 577-135=442.",
+      "Divide: 442 ÷ 8 = 55 remainder 2."
+    ],
+    "answer": "55 (remainder 2)"
+  },
+  {
+    "id": "p1_math_0153",
+    "topic": "number",
+    "en": "Multiply 3 × 4.",
+    "zh": "计算 3 × 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "3 groups of 4.",
+      "Result = 12."
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "p1_math_0154",
+    "topic": "number",
+    "en": "Divide 12 ÷ 2.",
+    "zh": "计算 12 ÷ 2。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 2s in 12?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0155",
+    "topic": "number",
+    "en": "Find 530 − 35.",
+    "zh": "计算 530 − 35。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 495."
+    ],
+    "answer": "495"
+  },
+  {
+    "id": "p1_math_0156",
+    "topic": "number",
+    "en": "Calculate 63 + 36.",
+    "zh": "计算 63 + 36。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 99."
+    ],
+    "answer": "99"
+  },
+  {
+    "id": "p1_math_0157",
+    "topic": "number",
+    "en": "Calculate 87 + 78.",
+    "zh": "计算 87 + 78。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 165."
+    ],
+    "answer": "165"
+  },
+  {
+    "id": "p1_math_0158",
+    "topic": "time",
+    "en": "The time is 11:30. What time will it be after 10 minutes?",
+    "zh": "现在是 11:30，再过 10 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 30+10=40.",
+      "Carry hours if needed → 11:40."
+    ],
+    "answer": "11:40"
+  },
+  {
+    "id": "p1_math_0159",
+    "topic": "number",
+    "en": "Divide 27 ÷ 9.",
+    "zh": "计算 27 ÷ 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 9s in 27?",
+      "Result = 3."
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "p1_math_0160",
+    "topic": "number",
+    "en": "Divide 36 ÷ 9.",
+    "zh": "计算 36 ÷ 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 9s in 36?",
+      "Result = 4."
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "p1_math_0161",
+    "topic": "number",
+    "en": "Divide 54 ÷ 6.",
+    "zh": "计算 54 ÷ 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 6s in 54?",
+      "Result = 9."
+    ],
+    "answer": "9"
+  },
+  {
+    "id": "p1_math_0162",
+    "topic": "number",
+    "en": "Find 670 − 76.",
+    "zh": "计算 670 − 76。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 594."
+    ],
+    "answer": "594"
+  },
+  {
+    "id": "p1_math_0163",
+    "topic": "number",
+    "en": "Find 690 − 96.",
+    "zh": "计算 690 − 96。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 594."
+    ],
+    "answer": "594"
+  },
+  {
+    "id": "p1_math_0164",
+    "topic": "word problems",
+    "en": "A shop had 675 items. After selling 438, 5 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 675 件物品，卖出 438 件后，剩下的由 5 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 675-438=237.",
+      "Divide: 237 ÷ 5 = 47 remainder 2."
+    ],
+    "answer": "47 (remainder 2)"
+  },
+  {
+    "id": "p1_math_0165",
+    "topic": "number",
+    "en": "Find 970 − 79.",
+    "zh": "计算 970 − 79。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 891."
+    ],
+    "answer": "891"
+  },
+  {
+    "id": "p1_math_0166",
+    "topic": "measurement",
+    "en": "Convert 4 m 30 cm into centimetres.",
+    "zh": "把 4 米 30 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 4 m = 400 cm.",
+      "Add 30 cm: 400+30=430 cm."
+    ],
+    "answer": "430 cm"
+  },
+  {
+    "id": "p1_math_0167",
+    "topic": "number",
+    "en": "Calculate 66 + 66.",
+    "zh": "计算 66 + 66。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 132."
+    ],
+    "answer": "132"
+  },
+  {
+    "id": "p1_math_0168",
+    "topic": "time",
+    "en": "The time is 4:10. What time will it be after 25 minutes?",
+    "zh": "现在是 4:10，再过 25 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 10+25=35.",
+      "Carry hours if needed → 4:35."
+    ],
+    "answer": "4:35"
+  },
+  {
+    "id": "p1_math_0169",
+    "topic": "number",
+    "en": "Find 890 − 98.",
+    "zh": "计算 890 − 98。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0170",
+    "topic": "number",
+    "en": "Divide 81 ÷ 9.",
+    "zh": "计算 81 ÷ 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 9s in 81?",
+      "Result = 9."
+    ],
+    "answer": "9"
+  },
+  {
+    "id": "p1_math_0171",
+    "topic": "word problems",
+    "en": "A shop had 217 items. After selling 61, 5 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 217 件物品，卖出 61 件后，剩下的由 5 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 217-61=156.",
+      "Divide: 156 ÷ 5 = 31 remainder 1."
+    ],
+    "answer": "31 (remainder 1)"
+  },
+  {
+    "id": "p1_math_0172",
+    "topic": "number",
+    "en": "Multiply 8 × 5.",
+    "zh": "计算 8 × 5。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "8 groups of 5.",
+      "Result = 40."
+    ],
+    "answer": "40"
+  },
+  {
+    "id": "p1_math_0173",
+    "topic": "number",
+    "en": "Multiply 7 × 9.",
+    "zh": "计算 7 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "7 groups of 9.",
+      "Result = 63."
+    ],
+    "answer": "63"
+  },
+  {
+    "id": "p1_math_0174",
+    "topic": "number",
+    "en": "Divide 49 ÷ 7.",
+    "zh": "计算 49 ÷ 7。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 7s in 49?",
+      "Result = 7."
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "p1_math_0175",
+    "topic": "number",
+    "en": "Find 660 − 66.",
+    "zh": "计算 660 − 66。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 594."
+    ],
+    "answer": "594"
+  },
+  {
+    "id": "p1_math_0176",
+    "topic": "number",
+    "en": "Calculate 57 + 75.",
+    "zh": "计算 57 + 75。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 132."
+    ],
+    "answer": "132"
+  },
+  {
+    "id": "p1_math_0177",
+    "topic": "number",
+    "en": "Find 450 − 54.",
+    "zh": "计算 450 − 54。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 396."
+    ],
+    "answer": "396"
+  },
+  {
+    "id": "p1_math_0178",
+    "topic": "number",
+    "en": "Multiply 9 × 6.",
+    "zh": "计算 9 × 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "9 groups of 6.",
+      "Result = 54."
+    ],
+    "answer": "54"
+  },
+  {
+    "id": "p1_math_0179",
+    "topic": "number",
+    "en": "Find 560 − 65.",
+    "zh": "计算 560 − 65。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 495."
+    ],
+    "answer": "495"
+  },
+  {
+    "id": "p1_math_0180",
+    "topic": "number",
+    "en": "Calculate 46 + 64.",
+    "zh": "计算 46 + 64。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 110."
+    ],
+    "answer": "110"
+  },
+  {
+    "id": "p1_math_0181",
+    "topic": "number",
+    "en": "Calculate 46 + 64.",
+    "zh": "计算 46 + 64。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 110."
+    ],
+    "answer": "110"
+  },
+  {
+    "id": "p1_math_0182",
+    "topic": "number",
+    "en": "Divide 24 ÷ 6.",
+    "zh": "计算 24 ÷ 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 6s in 24?",
+      "Result = 4."
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "p1_math_0183",
+    "topic": "number",
+    "en": "Divide 12 ÷ 2.",
+    "zh": "计算 12 ÷ 2。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 2s in 12?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0184",
+    "topic": "measurement",
+    "en": "Convert 8 m 25 cm into centimetres.",
+    "zh": "把 8 米 25 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 8 m = 800 cm.",
+      "Add 25 cm: 800+25=825 cm."
+    ],
+    "answer": "825 cm"
+  },
+  {
+    "id": "p1_math_0185",
+    "topic": "number",
+    "en": "Calculate 69 + 96.",
+    "zh": "计算 69 + 96。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 165."
+    ],
+    "answer": "165"
+  },
+  {
+    "id": "p1_math_0186",
+    "topic": "number",
+    "en": "Calculate 89 + 98.",
+    "zh": "计算 89 + 98。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 187."
+    ],
+    "answer": "187"
+  },
+  {
+    "id": "p1_math_0187",
+    "topic": "number",
+    "en": "Find 240 − 42.",
+    "zh": "计算 240 − 42。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0188",
+    "topic": "word problems",
+    "en": "A shop had 776 items. After selling 361, 3 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 776 件物品，卖出 361 件后，剩下的由 3 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 776-361=415.",
+      "Divide: 415 ÷ 3 = 138 remainder 1."
+    ],
+    "answer": "138 (remainder 1)"
+  },
+  {
+    "id": "p1_math_0189",
+    "topic": "number",
+    "en": "Find 380 − 83.",
+    "zh": "计算 380 − 83。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 297."
+    ],
+    "answer": "297"
+  },
+  {
+    "id": "p1_math_0190",
+    "topic": "word problems",
+    "en": "A shop had 735 items. After selling 439, 6 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 735 件物品，卖出 439 件后，剩下的由 6 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 735-439=296.",
+      "Divide: 296 ÷ 6 = 49 remainder 2."
+    ],
+    "answer": "49 (remainder 2)"
+  },
+  {
+    "id": "p1_math_0191",
+    "topic": "measurement",
+    "en": "Convert 5 m 40 cm into centimetres.",
+    "zh": "把 5 米 40 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 5 m = 500 cm.",
+      "Add 40 cm: 500+40=540 cm."
+    ],
+    "answer": "540 cm"
+  },
+  {
+    "id": "p1_math_0192",
+    "topic": "number",
+    "en": "Find 230 − 32.",
+    "zh": "计算 230 − 32。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0193",
+    "topic": "number",
+    "en": "Calculate 56 + 65.",
+    "zh": "计算 56 + 65。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 121."
+    ],
+    "answer": "121"
+  },
+  {
+    "id": "p1_math_0194",
+    "topic": "number",
+    "en": "Calculate 54 + 45.",
+    "zh": "计算 54 + 45。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 99."
+    ],
+    "answer": "99"
+  },
+  {
+    "id": "p1_math_0195",
+    "topic": "number",
+    "en": "Divide 16 ÷ 2.",
+    "zh": "计算 16 ÷ 2。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 2s in 16?",
+      "Result = 8."
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "p1_math_0196",
+    "topic": "number",
+    "en": "Calculate 96 + 69.",
+    "zh": "计算 96 + 69。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 165."
+    ],
+    "answer": "165"
+  },
+  {
+    "id": "p1_math_0197",
+    "topic": "number",
+    "en": "Divide 36 ÷ 6.",
+    "zh": "计算 36 ÷ 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 6s in 36?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0198",
+    "topic": "number",
+    "en": "Find 560 − 65.",
+    "zh": "计算 560 − 65。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 495."
+    ],
+    "answer": "495"
+  },
+  {
+    "id": "p1_math_0199",
+    "topic": "number",
+    "en": "Find 350 − 53.",
+    "zh": "计算 350 − 53。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 297."
+    ],
+    "answer": "297"
+  },
+  {
+    "id": "p1_math_0200",
+    "topic": "number",
+    "en": "Calculate 43 + 34.",
+    "zh": "计算 43 + 34。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 77."
+    ],
+    "answer": "77"
+  },
+  {
+    "id": "p1_math_0201",
+    "topic": "number",
+    "en": "Divide 36 ÷ 6.",
+    "zh": "计算 36 ÷ 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 6s in 36?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0202",
+    "topic": "number",
+    "en": "Divide 54 ÷ 9.",
+    "zh": "计算 54 ÷ 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 9s in 54?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0203",
+    "topic": "number",
+    "en": "Calculate 99 + 99.",
+    "zh": "计算 99 + 99。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0204",
+    "topic": "number",
+    "en": "Multiply 2 × 8.",
+    "zh": "计算 2 × 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "2 groups of 8.",
+      "Result = 16."
+    ],
+    "answer": "16"
+  },
+  {
+    "id": "p1_math_0205",
+    "topic": "number",
+    "en": "Calculate 62 + 26.",
+    "zh": "计算 62 + 26。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 88."
+    ],
+    "answer": "88"
+  },
+  {
+    "id": "p1_math_0206",
+    "topic": "number",
+    "en": "Calculate 26 + 62.",
+    "zh": "计算 26 + 62。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 88."
+    ],
+    "answer": "88"
+  },
+  {
+    "id": "p1_math_0207",
+    "topic": "word problems",
+    "en": "A shop had 379 items. After selling 290, 8 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 379 件物品，卖出 290 件后，剩下的由 8 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 379-290=89.",
+      "Divide: 89 ÷ 8 = 11 remainder 1."
+    ],
+    "answer": "11 (remainder 1)"
+  },
+  {
+    "id": "p1_math_0208",
+    "topic": "number",
+    "en": "Find 960 − 69.",
+    "zh": "计算 960 − 69。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 891."
+    ],
+    "answer": "891"
+  },
+  {
+    "id": "p1_math_0209",
+    "topic": "number",
+    "en": "Calculate 89 + 98.",
+    "zh": "计算 89 + 98。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 187."
+    ],
+    "answer": "187"
+  },
+  {
+    "id": "p1_math_0210",
+    "topic": "measurement",
+    "en": "Convert 6 m 30 cm into centimetres.",
+    "zh": "把 6 米 30 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 6 m = 600 cm.",
+      "Add 30 cm: 600+30=630 cm."
+    ],
+    "answer": "630 cm"
+  },
+  {
+    "id": "p1_math_0211",
+    "topic": "number",
+    "en": "Multiply 3 × 4.",
+    "zh": "计算 3 × 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "3 groups of 4.",
+      "Result = 12."
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "p1_math_0212",
+    "topic": "number",
+    "en": "Divide 54 ÷ 9.",
+    "zh": "计算 54 ÷ 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 9s in 54?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0213",
+    "topic": "word problems",
+    "en": "A shop had 763 items. After selling 87, 6 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 763 件物品，卖出 87 件后，剩下的由 6 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 763-87=676.",
+      "Divide: 676 ÷ 6 = 112 remainder 4."
+    ],
+    "answer": "112 (remainder 4)"
+  },
+  {
+    "id": "p1_math_0214",
+    "topic": "number",
+    "en": "Multiply 7 × 6.",
+    "zh": "计算 7 × 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "7 groups of 6.",
+      "Result = 42."
+    ],
+    "answer": "42"
+  },
+  {
+    "id": "p1_math_0215",
+    "topic": "number",
+    "en": "Divide 16 ÷ 8.",
+    "zh": "计算 16 ÷ 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 8s in 16?",
+      "Result = 2."
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "p1_math_0216",
+    "topic": "number",
+    "en": "Multiply 2 × 5.",
+    "zh": "计算 2 × 5。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "2 groups of 5.",
+      "Result = 10."
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "p1_math_0217",
+    "topic": "number",
+    "en": "Calculate 99 + 99.",
+    "zh": "计算 99 + 99。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 198."
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "p1_math_0218",
+    "topic": "number",
+    "en": "Multiply 6 × 4.",
+    "zh": "计算 6 × 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "6 groups of 4.",
+      "Result = 24."
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "p1_math_0219",
+    "topic": "measurement",
+    "en": "Convert 8 m 15 cm into centimetres.",
+    "zh": "把 8 米 15 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 8 m = 800 cm.",
+      "Add 15 cm: 800+15=815 cm."
+    ],
+    "answer": "815 cm"
+  },
+  {
+    "id": "p1_math_0220",
+    "topic": "number",
+    "en": "Multiply 5 × 4.",
+    "zh": "计算 5 × 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "5 groups of 4.",
+      "Result = 20."
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "p1_math_0221",
+    "topic": "time",
+    "en": "The time is 1:45. What time will it be after 45 minutes?",
+    "zh": "现在是 1:45，再过 45 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 45+45=90.",
+      "Carry hours if needed → 2:30."
+    ],
+    "answer": "2:30"
+  },
+  {
+    "id": "p1_math_0222",
+    "topic": "number",
+    "en": "Divide 15 ÷ 5.",
+    "zh": "计算 15 ÷ 5。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 5s in 15?",
+      "Result = 3."
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "p1_math_0223",
+    "topic": "number",
+    "en": "Multiply 4 × 9.",
+    "zh": "计算 4 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "4 groups of 9.",
+      "Result = 36."
+    ],
+    "answer": "36"
+  },
+  {
+    "id": "p1_math_0224",
+    "topic": "time",
+    "en": "The time is 5:35. What time will it be after 50 minutes?",
+    "zh": "现在是 5:35，再过 50 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 35+50=85.",
+      "Carry hours if needed → 6:25."
+    ],
+    "answer": "6:25"
+  },
+  {
+    "id": "p1_math_0225",
+    "topic": "measurement",
+    "en": "Convert 4 m 60 cm into centimetres.",
+    "zh": "把 4 米 60 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 4 m = 400 cm.",
+      "Add 60 cm: 400+60=460 cm."
+    ],
+    "answer": "460 cm"
+  },
+  {
+    "id": "p1_math_0226",
+    "topic": "number",
+    "en": "Find 850 − 58.",
+    "zh": "计算 850 − 58。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0227",
+    "topic": "number",
+    "en": "Multiply 6 × 8.",
+    "zh": "计算 6 × 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "6 groups of 8.",
+      "Result = 48."
+    ],
+    "answer": "48"
+  },
+  {
+    "id": "p1_math_0228",
+    "topic": "word problems",
+    "en": "A shop had 719 items. After selling 323, 3 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 719 件物品，卖出 323 件后，剩下的由 3 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 719-323=396.",
+      "Divide: 396 ÷ 3 = 132 remainder 0."
+    ],
+    "answer": "132"
+  },
+  {
+    "id": "p1_math_0229",
+    "topic": "number",
+    "en": "Find 690 − 96.",
+    "zh": "计算 690 − 96。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 594."
+    ],
+    "answer": "594"
+  },
+  {
+    "id": "p1_math_0230",
+    "topic": "measurement",
+    "en": "Convert 9 m 30 cm into centimetres.",
+    "zh": "把 9 米 30 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 9 m = 900 cm.",
+      "Add 30 cm: 900+30=930 cm."
+    ],
+    "answer": "930 cm"
+  },
+  {
+    "id": "p1_math_0231",
+    "topic": "number",
+    "en": "Multiply 8 × 9.",
+    "zh": "计算 8 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "8 groups of 9.",
+      "Result = 72."
+    ],
+    "answer": "72"
+  },
+  {
+    "id": "p1_math_0232",
+    "topic": "number",
+    "en": "Find 580 − 85.",
+    "zh": "计算 580 − 85。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 495."
+    ],
+    "answer": "495"
+  },
+  {
+    "id": "p1_math_0233",
+    "topic": "word problems",
+    "en": "A shop had 620 items. After selling 94, 5 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 620 件物品，卖出 94 件后，剩下的由 5 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 620-94=526.",
+      "Divide: 526 ÷ 5 = 105 remainder 1."
+    ],
+    "answer": "105 (remainder 1)"
+  },
+  {
+    "id": "p1_math_0234",
+    "topic": "number",
+    "en": "Divide 72 ÷ 9.",
+    "zh": "计算 72 ÷ 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 9s in 72?",
+      "Result = 8."
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "p1_math_0235",
+    "topic": "number",
+    "en": "Calculate 49 + 94.",
+    "zh": "计算 49 + 94。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 143."
+    ],
+    "answer": "143"
+  },
+  {
+    "id": "p1_math_0236",
+    "topic": "number",
+    "en": "Divide 21 ÷ 7.",
+    "zh": "计算 21 ÷ 7。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 7s in 21?",
+      "Result = 3."
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "p1_math_0237",
+    "topic": "number",
+    "en": "Find 920 − 29.",
+    "zh": "计算 920 − 29。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 891."
+    ],
+    "answer": "891"
+  },
+  {
+    "id": "p1_math_0238",
+    "topic": "number",
+    "en": "Divide 12 ÷ 4.",
+    "zh": "计算 12 ÷ 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 4s in 12?",
+      "Result = 3."
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "p1_math_0239",
+    "topic": "word problems",
+    "en": "A shop had 471 items. After selling 223, 8 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 471 件物品，卖出 223 件后，剩下的由 8 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 471-223=248.",
+      "Divide: 248 ÷ 8 = 31 remainder 0."
+    ],
+    "answer": "31"
+  },
+  {
+    "id": "p1_math_0240",
+    "topic": "number",
+    "en": "Multiply 8 × 3.",
+    "zh": "计算 8 × 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "8 groups of 3.",
+      "Result = 24."
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "p1_math_0241",
+    "topic": "number",
+    "en": "Divide 56 ÷ 8.",
+    "zh": "计算 56 ÷ 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 8s in 56?",
+      "Result = 7."
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "p1_math_0242",
+    "topic": "time",
+    "en": "The time is 1:50. What time will it be after 15 minutes?",
+    "zh": "现在是 1:50，再过 15 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 50+15=65.",
+      "Carry hours if needed → 2:05."
+    ],
+    "answer": "2:05"
+  },
+  {
+    "id": "p1_math_0243",
+    "topic": "number",
+    "en": "Calculate 65 + 56.",
+    "zh": "计算 65 + 56。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 121."
+    ],
+    "answer": "121"
+  },
+  {
+    "id": "p1_math_0244",
+    "topic": "number",
+    "en": "Divide 9 ÷ 3.",
+    "zh": "计算 9 ÷ 3。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 3s in 9?",
+      "Result = 3."
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "p1_math_0245",
+    "topic": "number",
+    "en": "Calculate 62 + 26.",
+    "zh": "计算 62 + 26。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 88."
+    ],
+    "answer": "88"
+  },
+  {
+    "id": "p1_math_0246",
+    "topic": "number",
+    "en": "Multiply 2 × 6.",
+    "zh": "计算 2 × 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "2 groups of 6.",
+      "Result = 12."
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "p1_math_0247",
+    "topic": "number",
+    "en": "Find 840 − 48.",
+    "zh": "计算 840 − 48。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 792."
+    ],
+    "answer": "792"
+  },
+  {
+    "id": "p1_math_0248",
+    "topic": "time",
+    "en": "The time is 7:50. What time will it be after 20 minutes?",
+    "zh": "现在是 7:50，再过 20 分钟是几点？",
+    "tags": [
+      "math",
+      "time"
+    ],
+    "hints": [
+      "Add minutes: 50+20=70.",
+      "Carry hours if needed → 8:10."
+    ],
+    "answer": "8:10"
+  },
+  {
+    "id": "p1_math_0249",
+    "topic": "number",
+    "en": "Divide 12 ÷ 4.",
+    "zh": "计算 12 ÷ 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 4s in 12?",
+      "Result = 3."
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "p1_math_0250",
+    "topic": "number",
+    "en": "Find 590 − 95.",
+    "zh": "计算 590 − 95。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Subtract step by step.",
+      "Result = 495."
+    ],
+    "answer": "495"
+  },
+  {
+    "id": "p1_math_0251",
+    "topic": "number",
+    "en": "Divide 54 ÷ 9.",
+    "zh": "计算 54 ÷ 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 9s in 54?",
+      "Result = 6."
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "p1_math_0252",
+    "topic": "number",
+    "en": "Multiply 2 × 9.",
+    "zh": "计算 2 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "2 groups of 9.",
+      "Result = 18."
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "p1_math_0253",
+    "topic": "number",
+    "en": "Divide 12 ÷ 4.",
+    "zh": "计算 12 ÷ 4。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "How many 4s in 12?",
+      "Result = 3."
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "p1_math_0254",
+    "topic": "number",
+    "en": "Multiply 6 × 8.",
+    "zh": "计算 6 × 8。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "6 groups of 8.",
+      "Result = 48."
+    ],
+    "answer": "48"
+  },
+  {
+    "id": "p1_math_0255",
+    "topic": "measurement",
+    "en": "Convert 5 m 40 cm into centimetres.",
+    "zh": "把 5 米 40 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 5 m = 500 cm.",
+      "Add 40 cm: 500+40=540 cm."
+    ],
+    "answer": "540 cm"
+  },
+  {
+    "id": "p1_math_0256",
+    "topic": "measurement",
+    "en": "Convert 2 m 40 cm into centimetres.",
+    "zh": "把 2 米 40 厘米换算成厘米。",
+    "tags": [
+      "math",
+      "measurement"
+    ],
+    "hints": [
+      "1 m = 100 cm, so 2 m = 200 cm.",
+      "Add 40 cm: 200+40=240 cm."
+    ],
+    "answer": "240 cm"
+  },
+  {
+    "id": "p1_math_0257",
+    "topic": "number",
+    "en": "Multiply 7 × 6.",
+    "zh": "计算 7 × 6。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "7 groups of 6.",
+      "Result = 42."
+    ],
+    "answer": "42"
+  },
+  {
+    "id": "p1_math_0258",
+    "topic": "number",
+    "en": "Calculate 86 + 68.",
+    "zh": "计算 86 + 68。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "Add tens and ones.",
+      "Result = 154."
+    ],
+    "answer": "154"
+  },
+  {
+    "id": "p1_math_0259",
+    "topic": "number",
+    "en": "Multiply 2 × 9.",
+    "zh": "计算 2 × 9。",
+    "tags": [
+      "math",
+      "number"
+    ],
+    "hints": [
+      "2 groups of 9.",
+      "Result = 18."
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "p1_math_0260",
+    "topic": "word problems",
+    "en": "A shop had 435 items. After selling 360, 5 helpers shared the rest equally. How many items did each helper get?",
+    "zh": "商店有 435 件物品，卖出 360 件后，剩下的由 5 个人平均分。每人分到多少件？",
+    "tags": [
+      "math",
+      "word problems"
+    ],
+    "hints": [
+      "Find remaining: 435-360=75.",
+      "Divide: 75 ÷ 5 = 15 remainder 0."
+    ],
+    "answer": "15"
+  }
+]

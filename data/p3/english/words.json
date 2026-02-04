@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "p3_e_001",
+    "lemma": "understand",
+    "zh": "理解",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_002",
+    "lemma": "plan",
+    "zh": "计划",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_003",
+    "lemma": "carry out",
+    "zh": "执行",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_004",
+    "lemma": "look back",
+    "zh": "回顾",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_005",
+    "lemma": "explain",
+    "zh": "解释",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_006",
+    "lemma": "describe",
+    "zh": "描述",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_007",
+    "lemma": "predict",
+    "zh": "预测",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_008",
+    "lemma": "infer",
+    "zh": "推断",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_009",
+    "lemma": "summarize",
+    "zh": "总结",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_010",
+    "lemma": "compare",
+    "zh": "比较",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_011",
+    "lemma": "contrast",
+    "zh": "对比",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_012",
+    "lemma": "detail",
+    "zh": "细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_013",
+    "lemma": "main idea",
+    "zh": "主旨",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_014",
+    "lemma": "supporting",
+    "zh": "支持细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_015",
+    "lemma": "question",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_016",
+    "lemma": "answer",
+    "zh": "答案",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_017",
+    "lemma": "because",
+    "zh": "因为",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_018",
+    "lemma": "therefore",
+    "zh": "因此",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_019",
+    "lemma": "however",
+    "zh": "但是",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_020",
+    "lemma": "first",
+    "zh": "首先",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_021",
+    "lemma": "next",
+    "zh": "接着",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_022",
+    "lemma": "finally",
+    "zh": "最后",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_023",
+    "lemma": "story",
+    "zh": "故事",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_024",
+    "lemma": "character",
+    "zh": "人物",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_025",
+    "lemma": "setting",
+    "zh": "背景",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_026",
+    "lemma": "problem",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_027",
+    "lemma": "solution",
+    "zh": "解决方法",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_028",
+    "lemma": "fact",
+    "zh": "事实",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_029",
+    "lemma": "opinion",
+    "zh": "观点",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_030",
+    "lemma": "synonym",
+    "zh": "近义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_031",
+    "lemma": "antonym",
+    "zh": "反义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_032",
+    "lemma": "sentence",
+    "zh": "句子",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_033",
+    "lemma": "noun",
+    "zh": "名词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_034",
+    "lemma": "verb",
+    "zh": "动词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_035",
+    "lemma": "adjective",
+    "zh": "形容词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_036",
+    "lemma": "adverb",
+    "zh": "副词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_037",
+    "lemma": "preposition",
+    "zh": "介词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_038",
+    "lemma": "plural",
+    "zh": "复数",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_039",
+    "lemma": "tense",
+    "zh": "时态",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_040",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_041",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_042",
+    "lemma": "future",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_043",
+    "lemma": "paragraph",
+    "zh": "段落",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_044",
+    "lemma": "title",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_045",
+    "lemma": "topic",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_046",
+    "lemma": "meaning",
+    "zh": "意思",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_047",
+    "lemma": "pronunciation",
+    "zh": "发音",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_048",
+    "lemma": "syllable",
+    "zh": "音节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_049",
+    "lemma": "stress",
+    "zh": "重音",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_050",
+    "lemma": "British",
+    "zh": "英式",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_051",
+    "lemma": "American",
+    "zh": "美式",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_052",
+    "lemma": "understand",
+    "zh": "理解",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_053",
+    "lemma": "plan",
+    "zh": "计划",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_054",
+    "lemma": "carry-out",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_055",
+    "lemma": "look-back",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_056",
+    "lemma": "explain",
+    "zh": "解释",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_057",
+    "lemma": "describe",
+    "zh": "描述",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_058",
+    "lemma": "predict",
+    "zh": "预测",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_059",
+    "lemma": "infer",
+    "zh": "推断",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_060",
+    "lemma": "summarize",
+    "zh": "总结",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_061",
+    "lemma": "compare",
+    "zh": "比较",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_062",
+    "lemma": "contrast",
+    "zh": "对比",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_063",
+    "lemma": "detail",
+    "zh": "细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_064",
+    "lemma": "main-idea",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_065",
+    "lemma": "supporting",
+    "zh": "支持细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_066",
+    "lemma": "question",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_067",
+    "lemma": "answer",
+    "zh": "答案",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_068",
+    "lemma": "because",
+    "zh": "因为",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_069",
+    "lemma": "therefore",
+    "zh": "因此",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_070",
+    "lemma": "however",
+    "zh": "但是",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_071",
+    "lemma": "first",
+    "zh": "首先",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_072",
+    "lemma": "next",
+    "zh": "接着",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_073",
+    "lemma": "finally",
+    "zh": "最后",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_074",
+    "lemma": "story",
+    "zh": "故事",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_075",
+    "lemma": "character",
+    "zh": "人物",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_076",
+    "lemma": "setting",
+    "zh": "背景",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_077",
+    "lemma": "problem",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_078",
+    "lemma": "solution",
+    "zh": "解决方法",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_079",
+    "lemma": "fact",
+    "zh": "事实",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_080",
+    "lemma": "opinion",
+    "zh": "观点",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_081",
+    "lemma": "synonym",
+    "zh": "近义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_082",
+    "lemma": "antonym",
+    "zh": "反义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_083",
+    "lemma": "sentence",
+    "zh": "句子",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_084",
+    "lemma": "noun",
+    "zh": "名词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_085",
+    "lemma": "verb",
+    "zh": "动词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_086",
+    "lemma": "adjective",
+    "zh": "形容词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_087",
+    "lemma": "adverb",
+    "zh": "副词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_088",
+    "lemma": "preposition",
+    "zh": "介词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_089",
+    "lemma": "plural",
+    "zh": "复数",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_090",
+    "lemma": "tense",
+    "zh": "时态",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_091",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_092",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_093",
+    "lemma": "future",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_094",
+    "lemma": "paragraph",
+    "zh": "段落",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_095",
+    "lemma": "title",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_096",
+    "lemma": "topic",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_097",
+    "lemma": "meaning",
+    "zh": "意思",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_098",
+    "lemma": "pronunciation",
+    "zh": "发音",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_099",
+    "lemma": "syllable",
+    "zh": "音节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_100",
+    "lemma": "stress",
+    "zh": "重音",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_101",
+    "lemma": "British",
+    "zh": "英式",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_102",
+    "lemma": "American",
+    "zh": "美式",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_103",
+    "lemma": "understand",
+    "zh": "理解",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_104",
+    "lemma": "plan",
+    "zh": "计划",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_105",
+    "lemma": "carry-out",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_106",
+    "lemma": "look-back",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_107",
+    "lemma": "explain",
+    "zh": "解释",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_108",
+    "lemma": "describe",
+    "zh": "描述",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_109",
+    "lemma": "predict",
+    "zh": "预测",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_110",
+    "lemma": "infer",
+    "zh": "推断",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_111",
+    "lemma": "summarize",
+    "zh": "总结",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_112",
+    "lemma": "compare",
+    "zh": "比较",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_113",
+    "lemma": "contrast",
+    "zh": "对比",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_114",
+    "lemma": "detail",
+    "zh": "细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_115",
+    "lemma": "main-idea",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_116",
+    "lemma": "supporting",
+    "zh": "支持细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_117",
+    "lemma": "question",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_118",
+    "lemma": "answer",
+    "zh": "答案",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_119",
+    "lemma": "because",
+    "zh": "因为",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_120",
+    "lemma": "therefore",
+    "zh": "因此",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_121",
+    "lemma": "however",
+    "zh": "但是",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_122",
+    "lemma": "first",
+    "zh": "首先",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_123",
+    "lemma": "next",
+    "zh": "接着",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_124",
+    "lemma": "finally",
+    "zh": "最后",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_125",
+    "lemma": "story",
+    "zh": "故事",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_126",
+    "lemma": "character",
+    "zh": "人物",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_127",
+    "lemma": "setting",
+    "zh": "背景",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_128",
+    "lemma": "problem",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_129",
+    "lemma": "solution",
+    "zh": "解决方法",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_130",
+    "lemma": "fact",
+    "zh": "事实",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_131",
+    "lemma": "opinion",
+    "zh": "观点",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_132",
+    "lemma": "synonym",
+    "zh": "近义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_133",
+    "lemma": "antonym",
+    "zh": "反义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_134",
+    "lemma": "sentence",
+    "zh": "句子",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_135",
+    "lemma": "noun",
+    "zh": "名词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_136",
+    "lemma": "verb",
+    "zh": "动词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_137",
+    "lemma": "adjective",
+    "zh": "形容词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_138",
+    "lemma": "adverb",
+    "zh": "副词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_139",
+    "lemma": "preposition",
+    "zh": "介词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_140",
+    "lemma": "plural",
+    "zh": "复数",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_141",
+    "lemma": "tense",
+    "zh": "时态",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_142",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_143",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_144",
+    "lemma": "future",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_145",
+    "lemma": "paragraph",
+    "zh": "段落",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_146",
+    "lemma": "title",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_147",
+    "lemma": "topic",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_148",
+    "lemma": "meaning",
+    "zh": "意思",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_149",
+    "lemma": "pronunciation",
+    "zh": "发音",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_150",
+    "lemma": "syllable",
+    "zh": "音节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_151",
+    "lemma": "stress",
+    "zh": "重音",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_152",
+    "lemma": "British",
+    "zh": "英式",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_153",
+    "lemma": "American",
+    "zh": "美式",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_154",
+    "lemma": "understand",
+    "zh": "理解",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_155",
+    "lemma": "plan",
+    "zh": "计划",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_156",
+    "lemma": "carry-out",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_157",
+    "lemma": "look-back",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_158",
+    "lemma": "explain",
+    "zh": "解释",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_159",
+    "lemma": "describe",
+    "zh": "描述",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_160",
+    "lemma": "predict",
+    "zh": "预测",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_161",
+    "lemma": "infer",
+    "zh": "推断",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_162",
+    "lemma": "summarize",
+    "zh": "总结",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_163",
+    "lemma": "compare",
+    "zh": "比较",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_164",
+    "lemma": "contrast",
+    "zh": "对比",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_165",
+    "lemma": "detail",
+    "zh": "细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_166",
+    "lemma": "main-idea",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_167",
+    "lemma": "supporting",
+    "zh": "支持细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_168",
+    "lemma": "question",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_169",
+    "lemma": "answer",
+    "zh": "答案",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_170",
+    "lemma": "because",
+    "zh": "因为",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_171",
+    "lemma": "therefore",
+    "zh": "因此",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_172",
+    "lemma": "however",
+    "zh": "但是",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_173",
+    "lemma": "first",
+    "zh": "首先",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_174",
+    "lemma": "next",
+    "zh": "接着",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_175",
+    "lemma": "finally",
+    "zh": "最后",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_176",
+    "lemma": "story",
+    "zh": "故事",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_177",
+    "lemma": "character",
+    "zh": "人物",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_178",
+    "lemma": "setting",
+    "zh": "背景",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_179",
+    "lemma": "problem",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_180",
+    "lemma": "solution",
+    "zh": "解决方法",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_181",
+    "lemma": "fact",
+    "zh": "事实",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_182",
+    "lemma": "opinion",
+    "zh": "观点",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_183",
+    "lemma": "synonym",
+    "zh": "近义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_184",
+    "lemma": "antonym",
+    "zh": "反义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_185",
+    "lemma": "sentence",
+    "zh": "句子",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_186",
+    "lemma": "noun",
+    "zh": "名词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_187",
+    "lemma": "verb",
+    "zh": "动词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_188",
+    "lemma": "adjective",
+    "zh": "形容词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_189",
+    "lemma": "adverb",
+    "zh": "副词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_190",
+    "lemma": "preposition",
+    "zh": "介词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_191",
+    "lemma": "plural",
+    "zh": "复数",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_192",
+    "lemma": "tense",
+    "zh": "时态",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_193",
+    "lemma": "past",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_194",
+    "lemma": "present",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_195",
+    "lemma": "future",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_196",
+    "lemma": "paragraph",
+    "zh": "段落",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_197",
+    "lemma": "title",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_198",
+    "lemma": "topic",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_199",
+    "lemma": "meaning",
+    "zh": "意思",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_200",
+    "lemma": "pronunciation",
+    "zh": "发音",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_201",
+    "lemma": "syllable",
+    "zh": "音节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_202",
+    "lemma": "stress",
+    "zh": "重音",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_203",
+    "lemma": "British",
+    "zh": "英式",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_204",
+    "lemma": "American",
+    "zh": "美式",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_205",
+    "lemma": "understand",
+    "zh": "理解",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_206",
+    "lemma": "plan",
+    "zh": "计划",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_207",
+    "lemma": "carry-out",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_208",
+    "lemma": "look-back",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_209",
+    "lemma": "explain",
+    "zh": "解释",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_210",
+    "lemma": "describe",
+    "zh": "描述",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_211",
+    "lemma": "predict",
+    "zh": "预测",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_212",
+    "lemma": "infer",
+    "zh": "推断",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_213",
+    "lemma": "summarize",
+    "zh": "总结",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_214",
+    "lemma": "compare",
+    "zh": "比较",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_215",
+    "lemma": "contrast",
+    "zh": "对比",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_216",
+    "lemma": "detail",
+    "zh": "细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_217",
+    "lemma": "main-idea",
+    "zh": "（可查词典）",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_218",
+    "lemma": "supporting",
+    "zh": "支持细节",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_219",
+    "lemma": "question",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_220",
+    "lemma": "answer",
+    "zh": "答案",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_221",
+    "lemma": "because",
+    "zh": "因为",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_222",
+    "lemma": "therefore",
+    "zh": "因此",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_223",
+    "lemma": "however",
+    "zh": "但是",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_224",
+    "lemma": "first",
+    "zh": "首先",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_225",
+    "lemma": "next",
+    "zh": "接着",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_226",
+    "lemma": "finally",
+    "zh": "最后",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_227",
+    "lemma": "story",
+    "zh": "故事",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_228",
+    "lemma": "character",
+    "zh": "人物",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_229",
+    "lemma": "setting",
+    "zh": "背景",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_230",
+    "lemma": "problem",
+    "zh": "问题",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_231",
+    "lemma": "solution",
+    "zh": "解决方法",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_232",
+    "lemma": "fact",
+    "zh": "事实",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_233",
+    "lemma": "opinion",
+    "zh": "观点",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_234",
+    "lemma": "synonym",
+    "zh": "近义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_235",
+    "lemma": "antonym",
+    "zh": "反义词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_236",
+    "lemma": "sentence",
+    "zh": "句子",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_237",
+    "lemma": "noun",
+    "zh": "名词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_238",
+    "lemma": "verb",
+    "zh": "动词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_239",
+    "lemma": "adjective",
+    "zh": "形容词",
+    "pos": ""
+  },
+  {
+    "id": "p3_e_240",
+    "lemma": "adverb",
+    "zh": "副词",
+    "pos": ""
+  }
+]

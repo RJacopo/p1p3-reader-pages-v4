@@ -1,0 +1,52 @@
+[
+  {
+    "key": "math",
+    "en": "Math",
+    "zh": "数学",
+    "levels": [
+      "p1",
+      "p2",
+      "p3"
+    ]
+  },
+  {
+    "key": "science",
+    "en": "Science",
+    "zh": "科学",
+    "levels": [
+      "p1",
+      "p2",
+      "p3"
+    ]
+  },
+  {
+    "key": "english",
+    "en": "English",
+    "zh": "英语",
+    "levels": [
+      "p1",
+      "p2",
+      "p3"
+    ]
+  },
+  {
+    "key": "chinese",
+    "en": "Chinese",
+    "zh": "华文",
+    "levels": [
+      "p1",
+      "p2",
+      "p3"
+    ]
+  },
+  {
+    "key": "social_studies",
+    "en": "Social Studies",
+    "zh": "社会研究",
+    "levels": [
+      "p1",
+      "p2",
+      "p3"
+    ]
+  }
+]

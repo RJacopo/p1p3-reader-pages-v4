@@ -1,0 +1,36 @@
+
+:root{
+  --sidebar-w: 280px;
+  --bg: #f6f8ff;
+  --card: #ffffff;
+  --muted: #6b7280;
+  --brand: #2563eb;
+}
+html,body,.app-root{height:100%;}
+body{background: var(--bg);}
+.sidebar{width: var(--sidebar-w); background:#fff; display:flex; flex-direction:column;}
+.brand .avatar{width:34px;height:34px;display:grid;place-items:center;border-radius:10px;background:#eef2ff;}
+.main{min-width:0;}
+.topbar{background: rgba(255,255,255,.8); backdrop-filter: blur(8px);}
+.search{position:relative; width: 320px; max-width: 45vw;}
+.search i{position:absolute;left:12px;top:50%;transform:translateY(-50%); color:#9ca3af;}
+.search input{padding-left:36px;}
+.nav-subject .nav-link{display:flex;align-items:center;gap:.6rem;border-radius:12px;padding:.65rem .9rem;color:#111827;}
+.nav-subject .nav-link.active{background:#eef2ff;color:#1d4ed8;}
+.badge-mini{font-size:.7rem;color:var(--muted);}
+.pill{display:inline-block;padding:.15rem .5rem;border-radius:999px;background:#f3f4f6;color:#374151;font-size:.8rem;}
+.sentence{font-size:1.25rem; line-height:1.6;}
+.sentence .tok{cursor:pointer;border-bottom:1px dashed #c7d2fe;}
+.sentence .tok:hover{background:#eef2ff;}
+.card-mini{border-radius:16px;}
+.card-mini .icon{width:44px;height:44px;border-radius:14px;display:grid;place-items:center;background:#eef2ff;color:#1d4ed8;font-size:1.2rem;}
+.mode-actions{display:flex; gap:.5rem; flex-wrap:wrap;}
+.kbd{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;background:#f3f4f6;border:1px solid #e5e7eb;border-bottom-width:2px;padding:.1rem .35rem;border-radius:.4rem;font-size:.8rem;}
+.dark body, body.dark{background:#0b1220;color:#e5e7eb;}
+body.dark .sidebar, body.dark .card, body.dark .modal-content, body.dark .topbar{background:#0f172a;color:#e5e7eb;}
+body.dark .nav-subject .nav-link{color:#e5e7eb;}
+body.dark .nav-subject .nav-link.active{background:#1f2a44;color:#93c5fd;}
+body.dark .pill, body.dark .kbd{background:#111827;color:#e5e7eb;border-color:#1f2937;}
+body.dark .form-control, body.dark .form-select{background:#0b1220;color:#e5e7eb;border-color:#1f2937;}
+body.dark .text-muted{color:#94a3b8 !important;}
+.lookup-body pre{white-space:pre-wrap;}
