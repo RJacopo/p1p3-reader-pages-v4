@@ -1,0 +1,924 @@
+- add | 相加
+  A word used in math problems: add.
+  e.g. I can use 'add' in my answer.
+  例: 我可以在答案里用“相加”。
+
+- altogether | 一共
+  A useful phrase: altogether.
+  e.g. Question: altogether?
+  例: 问题：一共？
+
+- answer | 答案
+  A word used in math problems: answer.
+  e.g. I can use 'answer' in my answer.
+  例: 我可以在答案里用“答案”。
+
+- area | 面积
+  A word used in math problems: area.
+  e.g. I can use 'area' in my answer.
+  例: 我可以在答案里用“面积”。
+
+- at least | 至少
+  A useful phrase: at least.
+  e.g. Question: at least?
+  例: 问题：至少？
+
+- at most | 最多
+  A useful phrase: at most.
+  e.g. Question: at most?
+  例: 问题：最多？
+
+- bar graph | 柱状图
+  A word used in math problems: bar graph.
+  e.g. We use the phrase 'bar graph' in a question.
+  例: 我们在问题里会用到短语“柱状图”。
+
+- bar-graph | （可查词典）
+  A word used in math problems: bar-graph.
+  e.g. I can use 'bar-graph' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- buy | 买
+  A word used in math problems: buy.
+  e.g. I can use 'buy' in my answer.
+  例: 我可以在答案里用“买”。
+
+- calendar | 日历
+  A word used in math problems: calendar.
+  e.g. I can use 'calendar' in my answer.
+  例: 我可以在答案里用“日历”。
+
+- centimetre | 厘米
+  A word used in math problems: centimetre.
+  e.g. I can use 'centimetre' in my answer.
+  例: 我可以在答案里用“厘米”。
+
+- change | 找零
+  A word used in math problems: change.
+  e.g. I can use 'change' in my answer.
+  例: 我可以在答案里用“找零”。
+
+- chart | 图表
+  A word used in math problems: chart.
+  e.g. I can use 'chart' in my answer.
+  例: 我可以在答案里用“图表”。
+
+- check | 检查
+  A word used in math problems: check.
+  e.g. I can use 'check' in my answer.
+  例: 我可以在答案里用“检查”。
+
+- check your answer | 检查答案
+  A useful phrase: check your answer.
+  e.g. Question: check your answer?
+  例: 问题：检查答案？
+
+- check your answer -12 | 检查答案
+  Phrase: check your answer -12
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -14 | 检查答案
+  Phrase: check your answer -14
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -26 | 检查答案
+  Phrase: check your answer -26
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -29 | 检查答案
+  Phrase: check your answer -29
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -3 | 检查答案
+  Phrase: check your answer -3
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -32 | 检查答案
+  Phrase: check your answer -32
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -4 | 检查答案
+  Phrase: check your answer -4
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -40 | 检查答案
+  Phrase: check your answer -40
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -6 | 检查答案
+  Phrase: check your answer -6
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer 0 | 检查答案
+  Phrase: check your answer 0
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer 1 | 检查答案
+  Phrase: check your answer 1
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- circle | 圆
+  A word used in math problems: circle.
+  e.g. I can use 'circle' in my answer.
+  例: 我可以在答案里用“圆”。
+
+- circle the keywords | 圈关键词
+  Phrase: circle the keywords
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -2 | 圈关键词
+  Phrase: circle the keywords -2
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -34 | 圈关键词
+  Phrase: circle the keywords -34
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -43 | 圈关键词
+  Phrase: circle the keywords -43
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -44 | 圈关键词
+  Phrase: circle the keywords -44
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -45 | 圈关键词
+  Phrase: circle the keywords -45
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords 3 | 圈关键词
+  Phrase: circle the keywords 3
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- coin | 硬币
+  A word used in math problems: coin.
+  e.g. I can use 'coin' in my answer.
+  例: 我可以在答案里用“硬币”。
+
+- compare | 比较
+  A word used in math problems: compare.
+  e.g. I can use 'compare' in my answer.
+  例: 我可以在答案里用“比较”。
+
+- compare the numbers | 比较数字
+  A useful phrase: compare the numbers.
+  e.g. Question: compare the numbers?
+  例: 问题：比较数字？
+
+- composite | 合数
+  A word used in math problems: composite.
+  e.g. I can use 'composite' in my answer.
+  例: 我可以在答案里用“合数”。
+
+- convert into | 换算成
+  A useful phrase: convert into.
+  e.g. Question: convert into?
+  例: 问题：换算成？
+
+- cost | 花费
+  A word used in math problems: cost.
+  e.g. I can use 'cost' in my answer.
+  例: 我可以在答案里用“花费”。
+
+- data | 数据
+  A word used in math problems: data.
+  e.g. I can use 'data' in my answer.
+  例: 我可以在答案里用“数据”。
+
+- day | 天
+  A word used in math problems: day.
+  e.g. I can use 'day' in my answer.
+  例: 我可以在答案里用“天”。
+
+- decimal | 小数
+  A word used in math problems: decimal.
+  e.g. I can use 'decimal' in my answer.
+  例: 我可以在答案里用“小数”。
+
+- denominator | 分母
+  A word used in math problems: denominator.
+  e.g. I can use 'denominator' in my answer.
+  例: 我可以在答案里用“分母”。
+
+- diameter | 直径
+  A word used in math problems: diameter.
+  e.g. I can use 'diameter' in my answer.
+  例: 我可以在答案里用“直径”。
+
+- difference | 差
+  A word used in math problems: difference.
+  e.g. I can use 'difference' in my answer.
+  例: 我可以在答案里用“差”。
+
+- difference between | …之间的差
+  A useful phrase: difference between.
+  e.g. Question: difference between?
+  例: 问题：…之间的差？
+
+- digit | 数字
+  A word used in math problems: digit.
+  e.g. I can use 'digit' in my answer.
+  例: 我可以在答案里用“数字”。
+
+- divide | 相除
+  A word used in math problems: divide.
+  e.g. I can use 'divide' in my answer.
+  例: 我可以在答案里用“相除”。
+
+- divide equally | 平均分配
+  A useful phrase: divide equally.
+  e.g. Question: divide equally?
+  例: 问题：平均分配？
+
+- draw | 画图
+  A word used in math problems: draw.
+  e.g. I can use 'draw' in my answer.
+  例: 我可以在答案里用“画图”。
+
+- draw a model | 画模型图
+  A useful phrase: draw a model.
+  e.g. Question: draw a model?
+  例: 问题：画模型图？
+
+- each of them | 他们每个
+  A useful phrase: each of them.
+  e.g. Question: each of them?
+  例: 问题：他们每个？
+
+- equal | 相等
+  A word used in math problems: equal.
+  e.g. I can use 'equal' in my answer.
+  例: 我可以在答案里用“相等”。
+
+- equal to | 等于
+  A useful phrase: equal to.
+  e.g. Question: equal to?
+  例: 问题：等于？
+
+- estimate | 估算
+  A word used in math problems: estimate.
+  e.g. I can use 'estimate' in my answer.
+  例: 我可以在答案里用“估算”。
+
+- estimate first | 先估算
+  A useful phrase: estimate first.
+  e.g. Question: estimate first?
+  例: 问题：先估算？
+
+- even | 偶数
+  A word used in math problems: even.
+  e.g. I can use 'even' in my answer.
+  例: 我可以在答案里用“偶数”。
+
+- exact answer | 精确答案
+  A useful phrase: exact answer.
+  e.g. Question: exact answer?
+  例: 问题：精确答案？
+
+- explain your reasoning | 解释理由
+  Phrase: explain your reasoning
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -10 | 解释理由
+  Phrase: explain your reasoning -10
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -11 | 解释理由
+  Phrase: explain your reasoning -11
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -16 | 解释理由
+  Phrase: explain your reasoning -16
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -22 | 解释理由
+  Phrase: explain your reasoning -22
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -24 | 解释理由
+  Phrase: explain your reasoning -24
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -28 | 解释理由
+  Phrase: explain your reasoning -28
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -5 | 解释理由
+  Phrase: explain your reasoning -5
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -9 | 解释理由
+  Phrase: explain your reasoning -9
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning 2 | 解释理由
+  Phrase: explain your reasoning 2
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- factor | 因数
+  A word used in math problems: factor.
+  e.g. I can use 'factor' in my answer.
+  例: 我可以在答案里用“因数”。
+
+- find the difference | 求差
+  A useful phrase: find the difference.
+  e.g. Question: find the difference?
+  例: 问题：求差？
+
+- fraction | 分数
+  A word used in math problems: fraction.
+  e.g. I can use 'fraction' in my answer.
+  例: 我可以在答案里用“分数”。
+
+- gram | 克
+  A word used in math problems: gram.
+  e.g. I can use 'gram' in my answer.
+  例: 我可以在答案里用“克”。
+
+- height | 高度
+  A word used in math problems: height.
+  e.g. I can use 'height' in my answer.
+  例: 我可以在答案里用“高度”。
+
+- hour | 小时
+  A word used in math problems: hour.
+  e.g. I can use 'hour' in my answer.
+  例: 我可以在答案里用“小时”。
+
+- how many are left | 还剩多少
+  A useful phrase: how many are left.
+  e.g. Question: how many are left?
+  例: 问题：还剩多少？
+
+- how much less | 少多少
+  A useful phrase: how much less.
+  e.g. Question: how much less?
+  例: 问题：少多少？
+
+- how much longer | 多多少
+  A useful phrase: how much longer.
+  e.g. Question: how much longer?
+  例: 问题：多多少？
+
+- how much more | 多多少
+  A useful phrase: how much more.
+  e.g. Question: how much more?
+  例: 问题：多多少？
+
+- hundreds | 百位
+  A word used in math problems: hundreds.
+  e.g. I can use 'hundreds' in my answer.
+  例: 我可以在答案里用“百位”。
+
+- hundredths | 百分位
+  A word used in math problems: hundredths.
+  e.g. I can use 'hundredths' in my answer.
+  例: 我可以在答案里用“百分位”。
+
+- in ascending order | 按升序
+  A useful phrase: in ascending order.
+  e.g. Question: in ascending order?
+  例: 问题：按升序？
+
+- in descending order | 按降序
+  A useful phrase: in descending order.
+  e.g. Question: in descending order?
+  例: 问题：按降序？
+
+- in total | 总共
+  A useful phrase: in total.
+  e.g. Question: in total?
+  例: 问题：总共？
+
+- kilogram | 千克
+  A word used in math problems: kilogram.
+  e.g. I can use 'kilogram' in my answer.
+  例: 我可以在答案里用“千克”。
+
+- kilometre | 公里
+  A word used in math problems: kilometre.
+  e.g. I can use 'kilometre' in my answer.
+  例: 我可以在答案里用“公里”。
+
+- left over | 剩下的
+  A useful phrase: left over.
+  e.g. Question: left over?
+  例: 问题：剩下的？
+
+- length | 长度
+  A word used in math problems: length.
+  e.g. I can use 'length' in my answer.
+  例: 我可以在答案里用“长度”。
+
+- less than | 少于
+  A useful phrase: less than.
+  e.g. Question: less than?
+  例: 问题：少于？
+
+- litre | 升
+  A word used in math problems: litre.
+  e.g. I can use 'litre' in my answer.
+  例: 我可以在答案里用“升”。
+
+- mass | 质量
+  A word used in math problems: mass.
+  e.g. I can use 'mass' in my answer.
+  例: 我可以在答案里用“质量”。
+
+- metre | 米
+  A word used in math problems: metre.
+  e.g. I can use 'metre' in my answer.
+  例: 我可以在答案里用“米”。
+
+- millilitre | 毫升
+  A word used in math problems: millilitre.
+  e.g. I can use 'millilitre' in my answer.
+  例: 我可以在答案里用“毫升”。
+
+- millimetre | 毫米
+  A word used in math problems: millimetre.
+  e.g. I can use 'millimetre' in my answer.
+  例: 我可以在答案里用“毫米”。
+
+- minute | 分钟
+  A word used in math problems: minute.
+  e.g. I can use 'minute' in my answer.
+  例: 我可以在答案里用“分钟”。
+
+- model | 模型图
+  A word used in math problems: model.
+  e.g. I can use 'model' in my answer.
+  例: 我可以在答案里用“模型图”。
+
+- money | 钱
+  A word used in math problems: money.
+  e.g. I can use 'money' in my answer.
+  例: 我可以在答案里用“钱”。
+
+- month | 月
+  A word used in math problems: month.
+  e.g. I can use 'month' in my answer.
+  例: 我可以在答案里用“月”。
+
+- more than | 多于
+  A useful phrase: more than.
+  e.g. Question: more than?
+  例: 问题：多于？
+
+- multiple | 倍数
+  A word used in math problems: multiple.
+  e.g. I can use 'multiple' in my answer.
+  例: 我可以在答案里用“倍数”。
+
+- multiply | 相乘
+  A word used in math problems: multiply.
+  e.g. I can use 'multiply' in my answer.
+  例: 我可以在答案里用“相乘”。
+
+- nearest | 最接近的
+  A word used in math problems: nearest.
+  e.g. I can use 'nearest' in my answer.
+  例: 我可以在答案里用“最接近的”。
+
+- note | 纸币
+  A word used in math problems: note.
+  e.g. I can use 'note' in my answer.
+  例: 我可以在答案里用“纸币”。
+
+- number of packs | 几包
+  A useful phrase: number of packs.
+  e.g. Question: number of packs?
+  例: 问题：几包？
+
+- numerator | 分子
+  A word used in math problems: numerator.
+  e.g. I can use 'numerator' in my answer.
+  例: 我可以在答案里用“分子”。
+
+- odd | 奇数
+  A word used in math problems: odd.
+  e.g. I can use 'odd' in my answer.
+  例: 我可以在答案里用“奇数”。
+
+- ones | 个位
+  A word used in math problems: ones.
+  e.g. I can use 'ones' in my answer.
+  例: 我可以在答案里用“个位”。
+
+- pack of 4 | 4个一包
+  A useful phrase: pack of 4.
+  e.g. Question: pack of 4?
+  例: 问题：4个一包？
+
+- pattern | 规律
+  A word used in math problems: pattern.
+  e.g. I can use 'pattern' in my answer.
+  例: 我可以在答案里用“规律”。
+
+- per day | 每天
+  A useful phrase: per day.
+  e.g. Question: per day?
+  例: 问题：每天？
+
+- per month | 每月
+  Phrase: per month
+  e.g. Use the phrase 'per month' in a sentence.
+  例: 在句子里用“每月”。
+
+- per week | 每周
+  Phrase: per week
+  e.g. Use the phrase 'per week' in a sentence.
+  例: 在句子里用“每周”。
+
+- perimeter | 周长
+  A word used in math problems: perimeter.
+  e.g. I can use 'perimeter' in my answer.
+  例: 我可以在答案里用“周长”。
+
+- pictograph | 象形图
+  A word used in math problems: pictograph.
+  e.g. I can use 'pictograph' in my answer.
+  例: 我可以在答案里用“象形图”。
+
+- place value | 数位
+  A word used in math problems: place value.
+  e.g. We use the phrase 'place value' in a question.
+  例: 我们在问题里会用到短语“数位”。
+
+- place-value | （可查词典）
+  A word used in math problems: place-value.
+  e.g. I can use 'place-value' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- price | 价格
+  A word used in math problems: price.
+  e.g. I can use 'price' in my answer.
+  例: 我可以在答案里用“价格”。
+
+- prime | 质数
+  A word used in math problems: prime.
+  e.g. I can use 'prime' in my answer.
+  例: 我可以在答案里用“质数”。
+
+- product | 乘积
+  A word used in math problems: product.
+  e.g. I can use 'product' in my answer.
+  例: 我可以在答案里用“乘积”。
+
+- put in order | 按顺序排列
+  A useful phrase: put in order.
+  e.g. Question: put in order?
+  例: 问题：按顺序排列？
+
+- quotient | 商
+  A word used in math problems: quotient.
+  e.g. I can use 'quotient' in my answer.
+  例: 我可以在答案里用“商”。
+
+- radius | 半径
+  A word used in math problems: radius.
+  e.g. I can use 'radius' in my answer.
+  例: 我可以在答案里用“半径”。
+
+- read the question | 读题
+  Phrase: read the question
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -13 | 读题
+  Phrase: read the question -13
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -15 | 读题
+  Phrase: read the question -15
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -17 | 读题
+  Phrase: read the question -17
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -21 | 读题
+  Phrase: read the question -21
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -27 | 读题
+  Phrase: read the question -27
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -35 | 读题
+  Phrase: read the question -35
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -37 | 读题
+  Phrase: read the question -37
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -8 | 读题
+  Phrase: read the question -8
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question 4 | 读题
+  Phrase: read the question 4
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- reason | 理由
+  A word used in math problems: reason.
+  e.g. I can use 'reason' in my answer.
+  例: 我可以在答案里用“理由”。
+
+- rectangle | 长方形
+  A word used in math problems: rectangle.
+  e.g. I can use 'rectangle' in my answer.
+  例: 我可以在答案里用“长方形”。
+
+- remainder | 余数
+  A word used in math problems: remainder.
+  e.g. I can use 'remainder' in my answer.
+  例: 我可以在答案里用“余数”。
+
+- round | 四舍五入
+  A word used in math problems: round.
+  e.g. I can use 'round' in my answer.
+  例: 我可以在答案里用“四舍五入”。
+
+- round off | 四舍五入
+  Phrase: round off
+  e.g. Use the phrase 'round off' in a sentence.
+  例: 在句子里用“四舍五入”。
+
+- round to the nearest | 四舍五入到最近的
+  A useful phrase: round to the nearest.
+  e.g. Question: round to the nearest?
+  例: 问题：四舍五入到最近的？
+
+- same number of | 相同数量的
+  A useful phrase: same number of.
+  e.g. Question: same number of?
+  例: 问题：相同数量的？
+
+- sell | 卖
+  A word used in math problems: sell.
+  e.g. I can use 'sell' in my answer.
+  例: 我可以在答案里用“卖”。
+
+- share equally | 平均分
+  A useful phrase: share equally.
+  e.g. Question: share equally?
+  例: 问题：平均分？
+
+- show your steps | 写步骤
+  Phrase: show your steps
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -1 | 写步骤
+  Phrase: show your steps -1
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -18 | 写步骤
+  Phrase: show your steps -18
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -20 | 写步骤
+  Phrase: show your steps -20
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -25 | 写步骤
+  Phrase: show your steps -25
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -33 | 写步骤
+  Phrase: show your steps -33
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -36 | 写步骤
+  Phrase: show your steps -36
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -7 | 写步骤
+  Phrase: show your steps -7
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps 5 | 写步骤
+  Phrase: show your steps 5
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your working | 写出过程
+  A useful phrase: show your working.
+  e.g. Question: show your working?
+  例: 问题：写出过程？
+
+- solve step by step | 一步步解题
+  A useful phrase: solve step by step.
+  e.g. Question: solve step by step?
+  例: 问题：一步步解题？
+
+- square | 正方形
+  A word used in math problems: square.
+  e.g. I can use 'square' in my answer.
+  例: 我可以在答案里用“正方形”。
+
+- step | 步骤
+  A word used in math problems: step.
+  e.g. I can use 'step' in my answer.
+  例: 我可以在答案里用“步骤”。
+
+- strategy | 策略
+  A word used in math problems: strategy.
+  e.g. I can use 'strategy' in my answer.
+  例: 我可以在答案里用“策略”。
+
+- subtract | 相减
+  A word used in math problems: subtract.
+  e.g. I can use 'subtract' in my answer.
+  例: 我可以在答案里用“相减”。
+
+- sum | 总和
+  A word used in math problems: sum.
+  e.g. I can use 'sum' in my answer.
+  例: 我可以在答案里用“总和”。
+
+- table | 表格
+  A word used in math problems: table.
+  e.g. I can use 'table' in my answer.
+  例: 我可以在答案里用“表格”。
+
+- take the rest | 拿走剩下的
+  A useful phrase: take the rest.
+  e.g. Question: take the rest?
+  例: 问题：拿走剩下的？
+
+- temperature | 温度
+  A word used in math problems: temperature.
+  e.g. I can use 'temperature' in my answer.
+  例: 我可以在答案里用“温度”。
+
+- tens | 十位
+  A word used in math problems: tens.
+  e.g. I can use 'tens' in my answer.
+  例: 我可以在答案里用“十位”。
+
+- tenths | 十分位
+  A word used in math problems: tenths.
+  e.g. I can use 'tenths' in my answer.
+  例: 我可以在答案里用“十分位”。
+
+- thousands | 千位
+  A word used in math problems: thousands.
+  e.g. I can use 'thousands' in my answer.
+  例: 我可以在答案里用“千位”。
+
+- time | 时间
+  A word used in math problems: time.
+  e.g. I can use 'time' in my answer.
+  例: 我可以在答案里用“时间”。
+
+- times as many as | 是…的几倍
+  A useful phrase: times as many as.
+  e.g. Question: times as many as?
+  例: 问题：是…的几倍？
+
+- total | 总数
+  A word used in math problems: total.
+  e.g. I can use 'total' in my answer.
+  例: 我可以在答案里用“总数”。
+
+- total number of | …的总数
+  A useful phrase: total number of.
+  e.g. Question: total number of?
+  例: 问题：…的总数？
+
+- triangle | 三角形
+  A word used in math problems: triangle.
+  e.g. I can use 'triangle' in my answer.
+  例: 我可以在答案里用“三角形”。
+
+- unit | 单位
+  A word used in math problems: unit.
+  e.g. I can use 'unit' in my answer.
+  例: 我可以在答案里用“单位”。
+
+- use a bar model | 用条形图
+  A useful phrase: use a bar model.
+  e.g. Question: use a bar model?
+  例: 问题：用条形图？
+
+- volume | 体积
+  A word used in math problems: volume.
+  e.g. I can use 'volume' in my answer.
+  例: 我可以在答案里用“体积”。
+
+- walking around the market | 在市场里走着卖
+  A useful phrase: walking around the market.
+  e.g. Question: walking around the market?
+  例: 问题：在市场里走着卖？
+
+- week | 周
+  A word used in math problems: week.
+  e.g. I can use 'week' in my answer.
+  例: 我可以在答案里用“周”。
+
+- width | 宽度
+  A word used in math problems: width.
+  e.g. I can use 'width' in my answer.
+  例: 我可以在答案里用“宽度”。
+
+- word problem | 应用题
+  A word used in math problems: word problem.
+  e.g. We use the phrase 'word problem' in a question.
+  例: 我们在问题里会用到短语“应用题”。
+
+- word-problem | （可查词典）
+  A word used in math problems: word-problem.
+  e.g. I can use 'word-problem' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- work it out | 算一算
+  Phrase: work it out
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -19 | 算一算
+  Phrase: work it out -19
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -23 | 算一算
+  Phrase: work it out -23
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -30 | 算一算
+  Phrase: work it out -30
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -39 | 算一算
+  Phrase: work it out -39
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work out | 算出
+  A useful phrase: work out.
+  e.g. Question: work out?
+  例: 问题：算出？
+
+- working | 过程
+  A word used in math problems: working.
+  e.g. I can use 'working' in my answer.
+  例: 我可以在答案里用“过程”。
+
+- write in metres | 写成米
+  A useful phrase: write in metres.
+  e.g. Question: write in metres?
+  例: 问题：写成米？
+
+- year | 年
+  A word used in math problems: year.
+  e.g. I can use 'year' in my answer.
+  例: 我可以在答案里用“年”。

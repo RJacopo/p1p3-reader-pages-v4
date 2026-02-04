@@ -1,0 +1,534 @@
+- change | 找零
+  Meaning of change.
+  e.g. I can use 'change' in my answer.
+  例: 我可以在答案里用“找零”。
+
+- check your answer | 检查答案
+  Phrase: check your answer
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -13 | 检查答案
+  Phrase: check your answer -13
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -21 | 检查答案
+  Phrase: check your answer -21
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -23 | 检查答案
+  Phrase: check your answer -23
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -3 | 检查答案
+  Phrase: check your answer -3
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -6 | 检查答案
+  Phrase: check your answer -6
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- circle the keywords | 圈关键词
+  Phrase: circle the keywords
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -22 | 圈关键词
+  Phrase: circle the keywords -22
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -27 | 圈关键词
+  Phrase: circle the keywords -27
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -29 | 圈关键词
+  Phrase: circle the keywords -29
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -31 | 圈关键词
+  Phrase: circle the keywords -31
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -32 | 圈关键词
+  Phrase: circle the keywords -32
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -33 | 圈关键词
+  Phrase: circle the keywords -33
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -34 | 圈关键词
+  Phrase: circle the keywords -34
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -4 | 圈关键词
+  Phrase: circle the keywords -4
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords 3 | 圈关键词
+  Phrase: circle the keywords 3
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- citizen | （可查词典）
+  Meaning of citizen.
+  e.g. I can use 'citizen' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- city | （可查词典）
+  Meaning of city.
+  e.g. I can use 'city' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- community | （可查词典）
+  Meaning of community.
+  e.g. I can use 'community' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- community helpers | 社区职业
+  A useful phrase: community helpers.
+  e.g. Question: community helpers?
+  例: 问题：社区职业？
+
+- compass directions | 指南针方向
+  A useful phrase: compass directions.
+  e.g. Question: compass directions?
+  例: 问题：指南针方向？
+
+- country | （可查词典）
+  Meaning of country.
+  e.g. I can use 'country' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- culture | （可查词典）
+  Meaning of culture.
+  e.g. I can use 'culture' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- direction | （可查词典）
+  Meaning of direction.
+  e.g. I can use 'direction' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- east | （可查词典）
+  Meaning of east.
+  e.g. I can use 'east' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- economy | （可查词典）
+  Meaning of economy.
+  e.g. I can use 'economy' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- environment | 环境
+  Meaning of environment.
+  e.g. I can use 'environment' in my answer.
+  例: 我可以在答案里用“环境”。
+
+- explain your reasoning | 解释理由
+  Phrase: explain your reasoning
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -12 | 解释理由
+  Phrase: explain your reasoning -12
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -14 | 解释理由
+  Phrase: explain your reasoning -14
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -18 | 解释理由
+  Phrase: explain your reasoning -18
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -5 | 解释理由
+  Phrase: explain your reasoning -5
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -9 | 解释理由
+  Phrase: explain your reasoning -9
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning 1 | 解释理由
+  Phrase: explain your reasoning 1
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- fair | （可查词典）
+  Meaning of fair.
+  e.g. I can use 'fair' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- festival | （可查词典）
+  Meaning of festival.
+  e.g. I can use 'festival' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- follow directions | 按指示走
+  Phrase: follow directions
+  e.g. Use the phrase 'follow directions' in a sentence.
+  例: 在句子里用“按指示走”。
+
+- goods and services | 商品与服务
+  Phrase: goods and services
+  e.g. Use the phrase 'goods and services' in a sentence.
+  例: 在句子里用“商品与服务”。
+
+- government | （可查词典）
+  Meaning of government.
+  e.g. I can use 'government' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- history | （可查词典）
+  Meaning of history.
+  e.g. I can use 'history' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- island | （可查词典）
+  Meaning of island.
+  e.g. I can use 'island' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- job | （可查词典）
+  Meaning of job.
+  e.g. I can use 'job' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- keep the environment clean | 保持环境干净
+  Phrase: keep the environment clean
+  e.g. Use the phrase 'keep the environment clean' in a sentence.
+  例: 在句子里用“保持环境干净”。
+
+- law | （可查词典）
+  Meaning of law.
+  e.g. I can use 'law' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- leader | （可查词典）
+  Meaning of leader.
+  e.g. I can use 'leader' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- location | （可查词典）
+  Meaning of location.
+  e.g. I can use 'location' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- make a choice | 做选择
+  A useful phrase: make a choice.
+  e.g. Question: make a choice?
+  例: 问题：做选择？
+
+- map | （可查词典）
+  Meaning of map.
+  e.g. I can use 'map' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- map key | 地图图例
+  A useful phrase: map key.
+  e.g. Question: map key?
+  例: 问题：地图图例？
+
+- market | （可查词典）
+  Meaning of market.
+  e.g. I can use 'market' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- mountain | （可查词典）
+  Meaning of mountain.
+  e.g. I can use 'mountain' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- needs and wants | 需要与想要
+  Phrase: needs and wants
+  e.g. Use the phrase 'needs and wants' in a sentence.
+  例: 在句子里用“需要与想要”。
+
+- north | （可查词典）
+  Meaning of north.
+  e.g. I can use 'north' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- north south east west | 东南西北
+  Phrase: north south east west
+  e.g. Use the phrase 'north south east west' in a sentence.
+  例: 在句子里用“东南西北”。
+
+- north, south, east, west | 东南西北
+  A useful phrase: north, south, east, west.
+  e.g. Question: north, south, east, west?
+  例: 问题：东南西北？
+
+- past | （可查词典）
+  Meaning of past.
+  e.g. I can use 'past' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- present | （可查词典）
+  Meaning of present.
+  e.g. I can use 'present' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- public places | 公共场所
+  A useful phrase: public places.
+  e.g. Question: public places?
+  例: 问题：公共场所？
+
+- read the question | 读题
+  Phrase: read the question
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -1 | 读题
+  Phrase: read the question -1
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -10 | 读题
+  Phrase: read the question -10
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question 0 | 读题
+  Phrase: read the question 0
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question 2 | 读题
+  Phrase: read the question 2
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- recycle | （可查词典）
+  Meaning of recycle.
+  e.g. I can use 'recycle' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- resource | （可查词典）
+  Meaning of resource.
+  e.g. I can use 'resource' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- respect | （可查词典）
+  Meaning of respect.
+  e.g. I can use 'respect' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- respect others | 尊重别人
+  Phrase: respect others
+  e.g. Use the phrase 'respect others' in a sentence.
+  例: 在句子里用“尊重别人”。
+
+- responsibility | （可查词典）
+  Meaning of responsibility.
+  e.g. I can use 'responsibility' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- river | （可查词典）
+  Meaning of river.
+  e.g. I can use 'river' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- rule | （可查词典）
+  Meaning of rule.
+  e.g. I can use 'rule' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- rules and laws | 规则与法律
+  Phrase: rules and laws
+  e.g. Use the phrase 'rules and laws' in a sentence.
+  例: 在句子里用“规则与法律”。
+
+- rules and responsibilities | 规则与责任
+  A useful phrase: rules and responsibilities.
+  e.g. Question: rules and responsibilities?
+  例: 问题：规则与责任？
+
+- safe and unsafe | 安全与不安全
+  A useful phrase: safe and unsafe.
+  e.g. Question: safe and unsafe?
+  例: 问题：安全与不安全？
+
+- safety | （可查词典）
+  Meaning of safety.
+  e.g. I can use 'safety' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- save money | 存钱
+  Phrase: save money
+  e.g. Use the phrase 'save money' in a sentence.
+  例: 在句子里用“存钱”。
+
+- school | （可查词典）
+  Meaning of school.
+  e.g. I can use 'school' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- school rules | 学校规则
+  A useful phrase: school rules.
+  e.g. Question: school rules?
+  例: 问题：学校规则？
+
+- show your steps | 写步骤
+  Phrase: show your steps
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -2 | 写步骤
+  Phrase: show your steps -2
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -28 | 写步骤
+  Phrase: show your steps -28
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -36 | 写步骤
+  Phrase: show your steps -36
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- south | （可查词典）
+  Meaning of south.
+  e.g. I can use 'south' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- spend wisely | 聪明花钱
+  Phrase: spend wisely
+  e.g. Use the phrase 'spend wisely' in a sentence.
+  例: 在句子里用“聪明花钱”。
+
+- take care of | 照顾
+  A useful phrase: take care of.
+  e.g. Question: take care of?
+  例: 问题：照顾？
+
+- take responsibility | 承担责任
+  Phrase: take responsibility
+  e.g. Use the phrase 'take responsibility' in a sentence.
+  例: 在句子里用“承担责任”。
+
+- timeline | （可查词典）
+  Meaning of timeline.
+  e.g. I can use 'timeline' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- trade | （可查词典）
+  Meaning of trade.
+  e.g. I can use 'trade' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- transport | （可查词典）
+  Meaning of transport.
+  e.g. I can use 'transport' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- vote | （可查词典）
+  Meaning of vote.
+  e.g. I can use 'vote' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- weather | （可查词典）
+  Meaning of weather.
+  e.g. I can use 'weather' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- weather and climate | 天气与气候
+  A useful phrase: weather and climate.
+  e.g. Question: weather and climate?
+  例: 问题：天气与气候？
+
+- west | （可查词典）
+  Meaning of west.
+  e.g. I can use 'west' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- work it out | 算一算
+  Phrase: work it out
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -11 | 算一算
+  Phrase: work it out -11
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -15 | 算一算
+  Phrase: work it out -15
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -16 | 算一算
+  Phrase: work it out -16
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -17 | 算一算
+  Phrase: work it out -17
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -20 | 算一算
+  Phrase: work it out -20
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -24 | 算一算
+  Phrase: work it out -24
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -26 | 算一算
+  Phrase: work it out -26
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -30 | 算一算
+  Phrase: work it out -30
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -7 | 算一算
+  Phrase: work it out -7
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -8 | 算一算
+  Phrase: work it out -8
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out 4 | 算一算
+  Phrase: work it out 4
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out 5 | 算一算
+  Phrase: work it out 5
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work together | 合作
+  A useful phrase: work together.
+  e.g. Question: work together?
+  例: 问题：合作？

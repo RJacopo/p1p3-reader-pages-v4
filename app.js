@@ -535,6 +535,11 @@ container.innerHTML = '';
         t = setTimeout(() => renderWordBank(input.value), 120);
       };
     }
+  } catch (e) {
+    console.error(e);
+    container.innerHTML = `<div class="alert alert-danger">Word Bank failed to render. Please reload.</div>`;
+  }
+
   }
 
   function pickRandom(arr, n) {

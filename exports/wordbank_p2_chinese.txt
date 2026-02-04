@@ -1,0 +1,544 @@
+- check your answer | 检查答案
+  Phrase: check your answer
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -19 | 检查答案
+  Phrase: check your answer -19
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -2 | 检查答案
+  Phrase: check your answer -2
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -20 | 检查答案
+  Phrase: check your answer -20
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -21 | 检查答案
+  Phrase: check your answer -21
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -24 | 检查答案
+  Phrase: check your answer -24
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -29 | 检查答案
+  Phrase: check your answer -29
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -3 | 检查答案
+  Phrase: check your answer -3
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- circle the keywords | 圈关键词
+  Phrase: circle the keywords
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -18 | 圈关键词
+  Phrase: circle the keywords -18
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -25 | 圈关键词
+  Phrase: circle the keywords -25
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -33 | 圈关键词
+  Phrase: circle the keywords -33
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -7 | 圈关键词
+  Phrase: circle the keywords -7
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords 3 | 圈关键词
+  Phrase: circle the keywords 3
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- explain your reasoning | 解释理由
+  Phrase: explain your reasoning
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -10 | 解释理由
+  Phrase: explain your reasoning -10
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -14 | 解释理由
+  Phrase: explain your reasoning -14
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -17 | 解释理由
+  Phrase: explain your reasoning -17
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -23 | 解释理由
+  Phrase: explain your reasoning -23
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -27 | 解释理由
+  Phrase: explain your reasoning -27
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -28 | 解释理由
+  Phrase: explain your reasoning -28
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -30 | 解释理由
+  Phrase: explain your reasoning -30
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -32 | 解释理由
+  Phrase: explain your reasoning -32
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -34 | 解释理由
+  Phrase: explain your reasoning -34
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -5 | 解释理由
+  Phrase: explain your reasoning -5
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -8 | 解释理由
+  Phrase: explain your reasoning -8
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -9 | 解释理由
+  Phrase: explain your reasoning -9
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning 2 | 解释理由
+  Phrase: explain your reasoning 2
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning 4 | 解释理由
+  Phrase: explain your reasoning 4
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- read the question | 读题
+  Phrase: read the question
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -1 | 读题
+  Phrase: read the question -1
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -12 | 读题
+  Phrase: read the question -12
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- show your steps | 写步骤
+  Phrase: show your steps
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -11 | 写步骤
+  Phrase: show your steps -11
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -16 | 写步骤
+  Phrase: show your steps -16
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- work it out | 算一算
+  Phrase: work it out
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -13 | 算一算
+  Phrase: work it out -13
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -15 | 算一算
+  Phrase: work it out -15
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -22 | 算一算
+  Phrase: work it out -22
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -4 | 算一算
+  Phrase: work it out -4
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -6 | 算一算
+  Phrase: work it out -6
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out 0 | 算一算
+  Phrase: work it out 0
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out 1 | 算一算
+  Phrase: work it out 1
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out 5 | 算一算
+  Phrase: work it out 5
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- 不仅…而且… | 不仅…而且…
+  Phrase: 不仅…而且…
+  e.g. Use the phrase '不仅…而且…' in a sentence.
+  例: 在句子里用“不仅…而且…”。
+
+- 主旨 | 
+  Meaning of 主旨.
+  e.g. I can use '主旨' in my answer.
+  例: 我可以在答案里用“主旨”。
+
+- 举一个例子 | 举一个例子
+  Phrase: 举一个例子
+  e.g. Use the phrase '举一个例子' in a sentence.
+  例: 在句子里用“举一个例子”。
+
+- 人物 | 
+  Meaning of 人物.
+  e.g. I can use '人物' in my answer.
+  例: 我可以在答案里用“人物”。
+
+- 但是 | 
+  Meaning of 但是.
+  e.g. I can use '但是' in my answer.
+  例: 我可以在答案里用“但是”。
+
+- 作文 | 
+  Meaning of 作文.
+  e.g. I can use '作文' in my answer.
+  例: 我可以在答案里用“作文”。
+
+- 偏旁 | 
+  Meaning of 偏旁.
+  e.g. I can use '偏旁' in my answer.
+  例: 我可以在答案里用“偏旁”。
+
+- 先…再… | 先…再…
+  Phrase: 先…再…
+  e.g. Use the phrase '先…再…' in a sentence.
+  例: 在句子里用“先…再…”。
+
+- 写出步骤 | 写出步骤
+  Phrase: 写出步骤
+  e.g. Use the phrase '写出步骤' in a sentence.
+  例: 在句子里用“写出步骤”。
+
+- 写出答案 | write the answer
+  A useful phrase: 写出答案.
+  e.g. Question: 写出答案?
+  例: 问题：write the answer？
+
+- 动词 | 
+  Meaning of 动词.
+  e.g. I can use '动词' in my answer.
+  例: 我可以在答案里用“动词”。
+
+- 原因 | 
+  Meaning of 原因.
+  e.g. I can use '原因' in my answer.
+  例: 我可以在答案里用“原因”。
+
+- 反义词 | 
+  Meaning of 反义词.
+  e.g. I can use '反义词' in my answer.
+  例: 我可以在答案里用“反义词”。
+
+- 句子 | 
+  Meaning of 句子.
+  e.g. I can use '句子' in my answer.
+  例: 我可以在答案里用“句子”。
+
+- 名词 | 
+  Meaning of 名词.
+  e.g. I can use '名词' in my answer.
+  例: 我可以在答案里用“名词”。
+
+- 因为 | 
+  Meaning of 因为.
+  e.g. I can use '因为' in my answer.
+  例: 我可以在答案里用“因为”。
+
+- 因为…所以… | 因为…所以…
+  Phrase: 因为…所以…
+  e.g. Use the phrase '因为…所以…' in a sentence.
+  例: 在句子里用“因为…所以…”。
+
+- 圈出关键词 | circle key words
+  A useful phrase: 圈出关键词.
+  e.g. Question: 圈出关键词?
+  例: 问题：circle key words？
+
+- 地点 | 
+  Meaning of 地点.
+  e.g. I can use '地点' in my answer.
+  例: 我可以在答案里用“地点”。
+
+- 如果 | 
+  Meaning of 如果.
+  e.g. I can use '如果' in my answer.
+  例: 我可以在答案里用“如果”。
+
+- 形容词 | 
+  Meaning of 形容词.
+  e.g. I can use '形容词' in my answer.
+  例: 我可以在答案里用“形容词”。
+
+- 总结 | 
+  Meaning of 总结.
+  e.g. I can use '总结' in my answer.
+  例: 我可以在答案里用“总结”。
+
+- 成语 | 
+  Meaning of 成语.
+  e.g. I can use '成语' in my answer.
+  例: 我可以在答案里用“成语”。
+
+- 所以 | 
+  Meaning of 所以.
+  e.g. I can use '所以' in my answer.
+  例: 我可以在答案里用“所以”。
+
+- 把句子补充完整 | complete the sentence
+  A useful phrase: 把句子补充完整.
+  e.g. Question: 把句子补充完整?
+  例: 问题：complete the sentence？
+
+- 把句子读一遍 | 把句子读一遍
+  Phrase: 把句子读一遍
+  e.g. Use the phrase '把句子读一遍' in a sentence.
+  例: 在句子里用“把句子读一遍”。
+
+- 把意思说清楚 | 把意思说清楚
+  Phrase: 把意思说清楚
+  e.g. Use the phrase '把意思说清楚' in a sentence.
+  例: 在句子里用“把意思说清楚”。
+
+- 把词语连成句子 | make a sentence
+  A useful phrase: 把词语连成句子.
+  e.g. Question: 把词语连成句子?
+  例: 问题：make a sentence？
+
+- 拼音 | 
+  Meaning of 拼音.
+  e.g. I can use '拼音' in my answer.
+  例: 我可以在答案里用“拼音”。
+
+- 按顺序 | in order
+  A useful phrase: 按顺序.
+  e.g. Question: 按顺序?
+  例: 问题：in order？
+
+- 推断 | 
+  Meaning of 推断.
+  e.g. I can use '推断' in my answer.
+  例: 我可以在答案里用“推断”。
+
+- 描写 | 
+  Meaning of 描写.
+  e.g. I can use '描写' in my answer.
+  例: 我可以在答案里用“描写”。
+
+- 日记 | 
+  Meaning of 日记.
+  e.g. I can use '日记' in my answer.
+  例: 我可以在答案里用“日记”。
+
+- 时间 | 
+  Meaning of 时间.
+  e.g. I can use '时间' in my answer.
+  例: 我可以在答案里用“时间”。
+
+- 最后 | 
+  Meaning of 最后.
+  e.g. I can use '最后' in my answer.
+  例: 我可以在答案里用“最后”。
+
+- 朗读 | 
+  Meaning of 朗读.
+  e.g. I can use '朗读' in my answer.
+  例: 我可以在答案里用“朗读”。
+
+- 标点 | 
+  Meaning of 标点.
+  e.g. I can use '标点' in my answer.
+  例: 我可以在答案里用“标点”。
+
+- 标题 | 
+  Meaning of 标题.
+  e.g. I can use '标题' in my answer.
+  例: 我可以在答案里用“标题”。
+
+- 检查一遍 | check once
+  A useful phrase: 检查一遍.
+  e.g. Question: 检查一遍?
+  例: 问题：check once？
+
+- 检查答案 | 检查答案
+  Phrase: 检查答案
+  e.g. Use the phrase '检查答案' in a sentence.
+  例: 在句子里用“检查答案”。
+
+- 段意 | 
+  Meaning of 段意.
+  e.g. I can use '段意' in my answer.
+  例: 我可以在答案里用“段意”。
+
+- 段落 | 
+  Meaning of 段落.
+  e.g. I can use '段落' in my answer.
+  例: 我可以在答案里用“段落”。
+
+- 比较 | 
+  Meaning of 比较.
+  e.g. I can use '比较' in my answer.
+  例: 我可以在答案里用“比较”。
+
+- 然后 | 
+  Meaning of 然后.
+  e.g. I can use '然后' in my answer.
+  例: 我可以在答案里用“然后”。
+
+- 理解 | 
+  Meaning of 理解.
+  e.g. I can use '理解' in my answer.
+  例: 我可以在答案里用“理解”。
+
+- 用自己的话说 | 用自己的话说
+  Phrase: 用自己的话说
+  e.g. Use the phrase '用自己的话说' in a sentence.
+  例: 在句子里用“用自己的话说”。
+
+- 细节 | 
+  Meaning of 细节.
+  e.g. I can use '细节' in my answer.
+  例: 我可以在答案里用“细节”。
+
+- 结果 | 
+  Meaning of 结果.
+  e.g. I can use '结果' in my answer.
+  例: 我可以在答案里用“结果”。
+
+- 给出理由 | 给出理由
+  Phrase: 给出理由
+  e.g. Use the phrase '给出理由' in a sentence.
+  例: 在句子里用“给出理由”。
+
+- 认真读题 | 认真读题
+  Phrase: 认真读题
+  e.g. Use the phrase '认真读题' in a sentence.
+  例: 在句子里用“认真读题”。
+
+- 认真阅读 | read carefully
+  A useful phrase: 认真阅读.
+  e.g. Question: 认真阅读?
+  例: 问题：read carefully？
+
+- 议论 | 
+  Meaning of 议论.
+  e.g. I can use '议论' in my answer.
+  例: 我可以在答案里用“议论”。
+
+- 记叙 | 
+  Meaning of 记叙.
+  e.g. I can use '记叙' in my answer.
+  例: 我可以在答案里用“记叙”。
+
+- 记叙文 | 
+  Meaning of 记叙文.
+  e.g. I can use '记叙文' in my answer.
+  例: 我可以在答案里用“记叙文”。
+
+- 词性 | 
+  Meaning of 词性.
+  e.g. I can use '词性' in my answer.
+  例: 我可以在答案里用“词性”。
+
+- 词语 | 
+  Meaning of 词语.
+  e.g. I can use '词语' in my answer.
+  例: 我可以在答案里用“词语”。
+
+- 说明 | 
+  Meaning of 说明.
+  e.g. I can use '说明' in my answer.
+  例: 我可以在答案里用“说明”。
+
+- 说明文 | 
+  Meaning of 说明文.
+  e.g. I can use '说明文' in my answer.
+  例: 我可以在答案里用“说明文”。
+
+- 近义词 | 
+  Meaning of 近义词.
+  e.g. I can use '近义词' in my answer.
+  例: 我可以在答案里用“近义词”。
+
+- 连词 | 
+  Meaning of 连词.
+  e.g. I can use '连词' in my answer.
+  例: 我可以在答案里用“连词”。
+
+- 通知 | 
+  Meaning of 通知.
+  e.g. I can use '通知' in my answer.
+  例: 我可以在答案里用“通知”。
+
+- 部首 | 
+  Meaning of 部首.
+  e.g. I can use '部首' in my answer.
+  例: 我可以在答案里用“部首”。
+
+- 量词 | 
+  Meaning of 量词.
+  e.g. I can use '量词' in my answer.
+  例: 我可以在答案里用“量词”。
+
+- 阅读 | 
+  Meaning of 阅读.
+  e.g. I can use '阅读' in my answer.
+  例: 我可以在答案里用“阅读”。
+
+- 顺序 | 
+  Meaning of 顺序.
+  e.g. I can use '顺序' in my answer.
+  例: 我可以在答案里用“顺序”。

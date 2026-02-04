@@ -1,0 +1,774 @@
+- absorb | 吸收
+  A science word: absorb.
+  e.g. I can use 'absorb' in my answer.
+  例: 我可以在答案里用“吸收”。
+
+- absorb water | 吸水
+  A useful phrase: absorb water.
+  e.g. Question: absorb water?
+  例: 问题：吸水？
+
+- adult | 成体
+  A science word: adult.
+  e.g. I can use 'adult' in my answer.
+  例: 我可以在答案里用“成体”。
+
+- air | 空气
+  A science word: air.
+  e.g. I can use 'air' in my answer.
+  例: 我可以在答案里用“空气”。
+
+- animal | 动物
+  A science word: animal.
+  e.g. I can use 'animal' in my answer.
+  例: 我可以在答案里用“动物”。
+
+- bacteria | 细菌
+  A science word: bacteria.
+  e.g. I can use 'bacteria' in my answer.
+  例: 我可以在答案里用“细菌”。
+
+- ceramic | 陶瓷
+  A science word: ceramic.
+  e.g. I can use 'ceramic' in my answer.
+  例: 我可以在答案里用“陶瓷”。
+
+- characteristic | 特征
+  A science word: characteristic.
+  e.g. I can use 'characteristic' in my answer.
+  例: 我可以在答案里用“特征”。
+
+- characteristics of | …的特征
+  A useful phrase: characteristics of.
+  e.g. Question: characteristics of?
+  例: 问题：…的特征？
+
+- check your answer | 检查答案
+  Phrase: check your answer
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -1 | 检查答案
+  Phrase: check your answer -1
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -11 | 检查答案
+  Phrase: check your answer -11
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -2 | 检查答案
+  Phrase: check your answer -2
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -22 | 检查答案
+  Phrase: check your answer -22
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -5 | 检查答案
+  Phrase: check your answer -5
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer -7 | 检查答案
+  Phrase: check your answer -7
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- check your answer 4 | 检查答案
+  Phrase: check your answer 4
+  e.g. Remember to check your answer.
+  例: 记得检查答案。
+
+- circle the keywords | 圈关键词
+  Phrase: circle the keywords
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -14 | 圈关键词
+  Phrase: circle the keywords -14
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -18 | 圈关键词
+  Phrase: circle the keywords -18
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- circle the keywords -31 | 圈关键词
+  Phrase: circle the keywords -31
+  e.g. Remember to circle the keywords.
+  例: 记得圈关键词。
+
+- classify | 分类
+  A science word: classify.
+  e.g. I can use 'classify' in my answer.
+  例: 我可以在答案里用“分类”。
+
+- classify into groups | 分类成组
+  A useful phrase: classify into groups.
+  e.g. Question: classify into groups?
+  例: 问题：分类成组？
+
+- clay | 黏土
+  A science word: clay.
+  e.g. I can use 'clay' in my answer.
+  例: 我可以在答案里用“黏土”。
+
+- cold-blooded | 变温
+  A useful phrase: cold-blooded.
+  e.g. Question: cold-blooded?
+  例: 问题：变温？
+
+- compare | 比较
+  A science word: compare.
+  e.g. I can use 'compare' in my answer.
+  例: 我可以在答案里用“比较”。
+
+- conclusion | 结论
+  A useful phrase: conclusion.
+  e.g. Question: conclusion?
+  例: 问题：结论？
+
+- conduct electricity | 导电
+  A useful phrase: conduct electricity.
+  e.g. Question: conduct electricity?
+  例: 问题：导电？
+
+- do not absorb | 不吸收
+  Phrase: do not absorb
+  e.g. Use the phrase 'do not absorb' in a sentence.
+  例: 在句子里用“不吸收”。
+
+- egg | 卵
+  A science word: egg.
+  e.g. I can use 'egg' in my answer.
+  例: 我可以在答案里用“卵”。
+
+- electric | （可查词典）
+  A science word: electric.
+  e.g. I can use 'electric' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- environment | 环境
+  A science word: environment.
+  e.g. I can use 'environment' in my answer.
+  例: 我可以在答案里用“环境”。
+
+- experiment | 实验
+  A science word: experiment.
+  e.g. I can use 'experiment' in my answer.
+  例: 我可以在答案里用“实验”。
+
+- explain your reasoning | 解释理由
+  Phrase: explain your reasoning
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -12 | 解释理由
+  Phrase: explain your reasoning -12
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -15 | 解释理由
+  Phrase: explain your reasoning -15
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -23 | 解释理由
+  Phrase: explain your reasoning -23
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -40 | 解释理由
+  Phrase: explain your reasoning -40
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning -9 | 解释理由
+  Phrase: explain your reasoning -9
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- explain your reasoning 3 | 解释理由
+  Phrase: explain your reasoning 3
+  e.g. Remember to explain your reasoning.
+  例: 记得解释理由。
+
+- fabric | 布料
+  A science word: fabric.
+  e.g. I can use 'fabric' in my answer.
+  例: 我可以在答案里用“布料”。
+
+- fair test | 公平测试
+  A useful phrase: fair test.
+  e.g. Question: fair test?
+  例: 问题：公平测试？
+
+- fish and reptiles | 鱼类和爬行动物
+  A useful phrase: fish and reptiles.
+  e.g. Question: fish and reptiles?
+  例: 问题：鱼类和爬行动物？
+
+- flexible | 柔韧的
+  A science word: flexible.
+  e.g. I can use 'flexible' in my answer.
+  例: 我可以在答案里用“柔韧的”。
+
+- flexible or rigid | 柔软或坚硬
+  A useful phrase: flexible or rigid.
+  e.g. Question: flexible or rigid?
+  例: 问题：柔软或坚硬？
+
+- float | 漂浮
+  A science word: float.
+  e.g. I can use 'float' in my answer.
+  例: 我可以在答案里用“漂浮”。
+
+- float on water | 浮在水上
+  Phrase: float on water
+  e.g. Use the phrase 'float on water' in a sentence.
+  例: 在句子里用“浮在水上”。
+
+- float or sink | 浮或沉
+  A useful phrase: float or sink.
+  e.g. Question: float or sink?
+  例: 问题：浮或沉？
+
+- food | 食物
+  A science word: food.
+  e.g. I can use 'food' in my answer.
+  例: 我可以在答案里用“食物”。
+
+- food chain | 食物链
+  A useful phrase: food chain.
+  e.g. Question: food chain?
+  例: 问题：食物链？
+
+- force | （可查词典）
+  A science word: force.
+  e.g. I can use 'force' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- friction | （可查词典）
+  A science word: friction.
+  e.g. I can use 'friction' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- fungus | 真菌
+  A science word: fungus.
+  e.g. I can use 'fungus' in my answer.
+  例: 我可以在答案里用“真菌”。
+
+- give birth | 生孩子
+  Phrase: give birth
+  e.g. Use the phrase 'give birth' in a sentence.
+  例: 在句子里用“生孩子”。
+
+- glass | 玻璃
+  A science word: glass.
+  e.g. I can use 'glass' in my answer.
+  例: 我可以在答案里用“玻璃”。
+
+- group | 分组
+  A science word: group.
+  e.g. I can use 'group' in my answer.
+  例: 我可以在答案里用“分组”。
+
+- grow | 生长
+  A science word: grow.
+  e.g. I can use 'grow' in my answer.
+  例: 我可以在答案里用“生长”。
+
+- grow and change | 生长和变化
+  A useful phrase: grow and change.
+  e.g. Question: grow and change?
+  例: 问题：生长和变化？
+
+- habitat | 栖息地
+  A science word: habitat.
+  e.g. I can use 'habitat' in my answer.
+  例: 我可以在答案里用“栖息地”。
+
+- hard | 硬的
+  A science word: hard.
+  e.g. I can use 'hard' in my answer.
+  例: 我可以在答案里用“硬的”。
+
+- hatch from eggs | 从卵孵化
+  A useful phrase: hatch from eggs.
+  e.g. Question: hatch from eggs?
+  例: 问题：从卵孵化？
+
+- heat | （可查词典）
+  A science word: heat.
+  e.g. I can use 'heat' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- how it is used | 如何使用
+  A useful phrase: how it is used.
+  e.g. Question: how it is used?
+  例: 问题：如何使用？
+
+- insect life cycle | 昆虫生命周期
+  A useful phrase: insect life cycle.
+  e.g. Question: insect life cycle?
+  例: 问题：昆虫生命周期？
+
+- label the parts | 标注部分
+  A useful phrase: label the parts.
+  e.g. Question: label the parts?
+  例: 问题：标注部分？
+
+- larva | 幼虫
+  A science word: larva.
+  e.g. I can use 'larva' in my answer.
+  例: 我可以在答案里用“幼虫”。
+
+- larva and pupa | 幼虫和蛹
+  A useful phrase: larva and pupa.
+  e.g. Question: larva and pupa?
+  例: 问题：幼虫和蛹？
+
+- life cycle | 生命周期
+  A science word: life cycle.
+  e.g. We use the phrase 'life cycle' in a question.
+  例: 我们在问题里会用到短语“生命周期”。
+
+- life-cycle | （可查词典）
+  A science word: life-cycle.
+  e.g. I can use 'life-cycle' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- light | （可查词典）
+  A science word: light.
+  e.g. I can use 'light' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- living | 有生命的
+  A science word: living.
+  e.g. I can use 'living' in my answer.
+  例: 我可以在答案里用“有生命的”。
+
+- living things | 生物
+  A useful phrase: living things.
+  e.g. Question: living things?
+  例: 问题：生物？
+
+- made of | 由…制成
+  A useful phrase: made of.
+  e.g. Question: made of?
+  例: 问题：由…制成？
+
+- made of material | 由材料制成
+  Phrase: made of material
+  e.g. Use the phrase 'made of material' in a sentence.
+  例: 在句子里用“由材料制成”。
+
+- magnet | （可查词典）
+  A science word: magnet.
+  e.g. I can use 'magnet' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- magnetic | 有磁性
+  A useful phrase: magnetic.
+  e.g. Question: magnetic?
+  例: 问题：有磁性？
+
+- make a prediction | 做预测
+  A useful phrase: make a prediction.
+  e.g. Question: make a prediction?
+  例: 问题：做预测？
+
+- mammals and birds | 哺乳动物和鸟类
+  A useful phrase: mammals and birds.
+  e.g. Question: mammals and birds?
+  例: 问题：哺乳动物和鸟类？
+
+- material | 材料
+  A science word: material.
+  e.g. I can use 'material' in my answer.
+  例: 我可以在答案里用“材料”。
+
+- materials around us | 身边的材料
+  A useful phrase: materials around us.
+  e.g. Question: materials around us?
+  例: 问题：身边的材料？
+
+- measure | 测量
+  A science word: measure.
+  e.g. I can use 'measure' in my answer.
+  例: 我可以在答案里用“测量”。
+
+- metal | 金属
+  A science word: metal.
+  e.g. I can use 'metal' in my answer.
+  例: 我可以在答案里用“金属”。
+
+- motion | （可查词典）
+  A science word: motion.
+  e.g. I can use 'motion' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- need | 需要
+  A science word: need.
+  e.g. I can use 'need' in my answer.
+  例: 我可以在答案里用“需要”。
+
+- needs air | 需要空气
+  Phrase: needs air
+  e.g. Use the phrase 'needs air' in a sentence.
+  例: 在句子里用“需要空气”。
+
+- needs air and water | 需要空气和水
+  A useful phrase: needs air and water.
+  e.g. Question: needs air and water?
+  例: 问题：需要空气和水？
+
+- needs water | 需要水
+  Phrase: needs water
+  e.g. Use the phrase 'needs water' in a sentence.
+  例: 在句子里用“需要水”。
+
+- non-living | 无生命的
+  A science word: non-living.
+  e.g. I can use 'non-living' in my answer.
+  例: 我可以在答案里用“无生命的”。
+
+- non-living things | 非生物
+  A useful phrase: non-living things.
+  e.g. Question: non-living things?
+  例: 问题：非生物？
+
+- observe | 观察
+  A science word: observe.
+  e.g. I can use 'observe' in my answer.
+  例: 我可以在答案里用“观察”。
+
+- observe and record | 观察并记录
+  A useful phrase: observe and record.
+  e.g. Question: observe and record?
+  例: 问题：观察并记录？
+
+- opaque | 不透明的
+  A science word: opaque.
+  e.g. I can use 'opaque' in my answer.
+  例: 我可以在答案里用“不透明的”。
+
+- paper | 纸
+  A science word: paper.
+  e.g. I can use 'paper' in my answer.
+  例: 我可以在答案里用“纸”。
+
+- physical properties | 物理性质
+  A useful phrase: physical properties.
+  e.g. Question: physical properties?
+  例: 问题：物理性质？
+
+- plant | 植物
+  A science word: plant.
+  e.g. I can use 'plant' in my answer.
+  例: 我可以在答案里用“植物”。
+
+- plastic | 塑料
+  A science word: plastic.
+  e.g. I can use 'plastic' in my answer.
+  例: 我可以在答案里用“塑料”。
+
+- property | 性质
+  A science word: property.
+  e.g. I can use 'property' in my answer.
+  例: 我可以在答案里用“性质”。
+
+- pull | （可查词典）
+  A science word: pull.
+  e.g. I can use 'pull' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- pupa | 蛹
+  A science word: pupa.
+  e.g. I can use 'pupa' in my answer.
+  例: 我可以在答案里用“蛹”。
+
+- push | （可查词典）
+  A science word: push.
+  e.g. I can use 'push' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- read the question | 读题
+  Phrase: read the question
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -13 | 读题
+  Phrase: read the question -13
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -16 | 读题
+  Phrase: read the question -16
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -20 | 读题
+  Phrase: read the question -20
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -25 | 读题
+  Phrase: read the question -25
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -29 | 读题
+  Phrase: read the question -29
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -35 | 读题
+  Phrase: read the question -35
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question -4 | 读题
+  Phrase: read the question -4
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question 0 | 读题
+  Phrase: read the question 0
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question 2 | 读题
+  Phrase: read the question 2
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- read the question 5 | 读题
+  Phrase: read the question 5
+  e.g. Remember to read the question.
+  例: 记得读题。
+
+- reproduce | 繁殖
+  A science word: reproduce.
+  e.g. I can use 'reproduce' in my answer.
+  例: 我可以在答案里用“繁殖”。
+
+- respond | 反应
+  A science word: respond.
+  e.g. I can use 'respond' in my answer.
+  例: 我可以在答案里用“反应”。
+
+- respond to changes | 对变化作出反应
+  A useful phrase: respond to changes.
+  e.g. Question: respond to changes?
+  例: 问题：对变化作出反应？
+
+- result | 结果
+  A science word: result.
+  e.g. I can use 'result' in my answer.
+  例: 我可以在答案里用“结果”。
+
+- results table | 结果表
+  A useful phrase: results table.
+  e.g. Question: results table?
+  例: 问题：结果表？
+
+- rigid | 坚硬的
+  A science word: rigid.
+  e.g. I can use 'rigid' in my answer.
+  例: 我可以在答案里用“坚硬的”。
+
+- rough | 粗糙的
+  A science word: rough.
+  e.g. I can use 'rough' in my answer.
+  例: 我可以在答案里用“粗糙的”。
+
+- rubber | 橡胶
+  A science word: rubber.
+  e.g. I can use 'rubber' in my answer.
+  例: 我可以在答案里用“橡胶”。
+
+- safety | （可查词典）
+  A science word: safety.
+  e.g. I can use 'safety' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- safety rules | 安全规则
+  A useful phrase: safety rules.
+  e.g. Question: safety rules?
+  例: 问题：安全规则？
+
+- shelter | 庇护所
+  A science word: shelter.
+  e.g. I can use 'shelter' in my answer.
+  例: 我可以在答案里用“庇护所”。
+
+- show your steps | 写步骤
+  Phrase: show your steps
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -27 | 写步骤
+  Phrase: show your steps -27
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -33 | 写步骤
+  Phrase: show your steps -33
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps -8 | 写步骤
+  Phrase: show your steps -8
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- show your steps 1 | 写步骤
+  Phrase: show your steps 1
+  e.g. Remember to show your steps.
+  例: 记得写步骤。
+
+- simple experiment | 简单实验
+  A useful phrase: simple experiment.
+  e.g. Question: simple experiment?
+  例: 问题：简单实验？
+
+- sink | 下沉
+  A science word: sink.
+  e.g. I can use 'sink' in my answer.
+  例: 我可以在答案里用“下沉”。
+
+- sink in water | 沉入水中
+  Phrase: sink in water
+  e.g. Use the phrase 'sink in water' in a sentence.
+  例: 在句子里用“沉入水中”。
+
+- smooth | 光滑的
+  A science word: smooth.
+  e.g. I can use 'smooth' in my answer.
+  例: 我可以在答案里用“光滑的”。
+
+- soft | 软的
+  A science word: soft.
+  e.g. I can use 'soft' in my answer.
+  例: 我可以在答案里用“软的”。
+
+- sound | （可查词典）
+  A science word: sound.
+  e.g. I can use 'sound' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- speed | （可查词典）
+  A science word: speed.
+  e.g. I can use 'speed' in my answer.
+  例: 我可以在答案里用“（可查词典）”。
+
+- strength | 强度
+  A science word: strength.
+  e.g. I can use 'strength' in my answer.
+  例: 我可以在答案里用“强度”。
+
+- take in food | 摄取食物
+  Phrase: take in food
+  e.g. Use the phrase 'take in food' in a sentence.
+  例: 在句子里用“摄取食物”。
+
+- translucent | 半透明的
+  A science word: translucent.
+  e.g. I can use 'translucent' in my answer.
+  例: 我可以在答案里用“半透明的”。
+
+- transparent | 透明的
+  A science word: transparent.
+  e.g. I can use 'transparent' in my answer.
+  例: 我可以在答案里用“透明的”。
+
+- use a diagram | 使用图表
+  A useful phrase: use a diagram.
+  e.g. Question: use a diagram?
+  例: 问题：使用图表？
+
+- warm-blooded | 恒温
+  A useful phrase: warm-blooded.
+  e.g. Question: warm-blooded?
+  例: 问题：恒温？
+
+- water | 水
+  A science word: water.
+  e.g. I can use 'water' in my answer.
+  例: 我可以在答案里用“水”。
+
+- waterproof | 防水的
+  A science word: waterproof.
+  e.g. I can use 'waterproof' in my answer.
+  例: 我可以在答案里用“防水的”。
+
+- wood | 木材
+  A science word: wood.
+  e.g. I can use 'wood' in my answer.
+  例: 我可以在答案里用“木材”。
+
+- work it out | 算一算
+  Phrase: work it out
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -10 | 算一算
+  Phrase: work it out -10
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -17 | 算一算
+  Phrase: work it out -17
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -19 | 算一算
+  Phrase: work it out -19
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -21 | 算一算
+  Phrase: work it out -21
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -24 | 算一算
+  Phrase: work it out -24
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -26 | 算一算
+  Phrase: work it out -26
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -28 | 算一算
+  Phrase: work it out -28
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -3 | 算一算
+  Phrase: work it out -3
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -30 | 算一算
+  Phrase: work it out -30
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -34 | 算一算
+  Phrase: work it out -34
+  e.g. Remember to work it out.
+  例: 记得算一算。
+
+- work it out -6 | 算一算
+  Phrase: work it out -6
+  e.g. Remember to work it out.
+  例: 记得算一算。
