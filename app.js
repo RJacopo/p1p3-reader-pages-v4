@@ -32,6 +32,15 @@
     lookupTerm: null,
   };
 
+let quizTimerId = null;
+function clearQuizTimer(){
+  if (quizTimerId){
+    clearInterval(quizTimerId);
+    quizTimerId = null;
+  }
+}
+
+
   const modals = {
     lookup: null,
     settings: null,
@@ -174,7 +183,8 @@
 
     const local = findLocalWord(term);
     const examples = findExamples(term, 3);
-    const online = await onlineLookup(term);
+    let online = null;
+    try { online = await onlineLookup(term); } catch (e) { online = null; }
 
     const parts = [];
     if (local) {
@@ -206,7 +216,7 @@
 
     $("#addWorkbookBtn").onclick = () => {
       const zh = local?.zh || (online?.zh || "");
-      addWorkbook({ type: "word", key: term.toLowerCase(), term, zh, subject: state.subject, level: state.level });
+      addWorkbook({ type: "word", key: (term||"").toLowerCase(), term, zh, subject: state.subject, level: state.level });
       modals.lookup.hide();
     };
     $("#speakBtn").onclick = () => speak(term);
@@ -223,7 +233,7 @@
       if (e.shiftKey) {
         // quick add
         const local = findLocalWord(term) || null;
-        addWorkbook({ type: "word", key: term.toLowerCase(), term, zh: local?.zh || "", subject: state.subject, level: state.level });
+        addWorkbook({ type: "word", key: (term||"").toLowerCase(), term, zh: local?.zh || "", subject: state.subject, level: state.level });
         return;
       }
       openLookup(term);
@@ -359,7 +369,8 @@
   if (state._quizTick) { cancelAnimationFrame(state._quizTick); state._quizTick = null; }
 
   // stop any running quiz timer
-  if (state.quizTimerId) { clearInterval(state.quizTimerId); state.quizTimerId = null; }
+  if (quizTimerId) { clearQuizTimer(); }
+    clearQuizTimer();
     state.mode = mode;
     // tab UI
     $$("#modeTabs .nav-link").forEach(b => b.classList.toggle("active", b.getAttribute("data-mode") === mode));
@@ -583,14 +594,17 @@
       list.appendChild(wrap);
     });
 
-    state.quizTimerId = setInterval(() => {
+    clearQuizTimer();
+    quizTimerId = setInterval(() => {
       remaining--;
-      $("#timer").textContent = formatTime(remaining);
-      if (remaining <= 0) { clearInterval(state.quizTimerId); state.quizTimerId = null; $("#submitQuiz").click(); }
+      const tEl = $("#timer");
+      if (!tEl) { clearQuizTimer(); return; }
+      tEl.textContent = formatTime(remaining);
+      if (remaining <= 0) { clearQuizTimer(); const sb=$("#submitQuiz"); if (sb) sb.click(); }
     }, 1000);
 
     $("#submitQuiz").onclick = () => {
-      clearInterval(state.quizTimerId); state.quizTimerId = null;
+      clearQuizTimer();
       let correct = 0;
       const details = [];
       questions.forEach((q, i) => {
@@ -716,7 +730,7 @@
   }
 
   async function loadSubject($1) {
-  if (state.quizTimerId) { clearInterval(state.quizTimerId); state.quizTimerId = null; }
+  if (quizTimerId) { clearQuizTimer(); }
     savePrefs();
     const s = subjectMeta();
     $("#pageTitle").textContent = `${s.en.toUpperCase()}`;
