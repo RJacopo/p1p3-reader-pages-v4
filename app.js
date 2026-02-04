@@ -364,20 +364,22 @@ function clearQuizTimer(){
   }
 
   function setMode(mode, opts = {}) {
-  // prevent multiple timers / rapid clicks causing freezes
+  // Prevent multiple timers / rapid clicks causing freezes
   if (state._quizInterval) { clearInterval(state._quizInterval); state._quizInterval = null; }
   if (state._quizTick) { cancelAnimationFrame(state._quizTick); state._quizTick = null; }
 
-  // stop any running quiz timer
-  if (quizTimerId) { clearQuizTimer(); }
-    clearQuizTimer();
-    state.mode = mode;
-    // tab UI
-    $$("#modeTabs .nav-link").forEach(b => b.classList.toggle("active", b.getAttribute("data-mode") === mode));
-    renderMode(opts);
-  }
+  // Stop any running quiz timer
+  clearQuizTimer();
 
-  function renderRead() {
+  state.mode = mode;
+
+  // Tab UI
+  $$("#modeTabs .nav-link").forEach(b => b.classList.toggle("active", b.getAttribute("data-mode") === mode));
+
+  renderMode(opts);
+}
+
+function renderRead() {
     const panel = $("#modePanel");
     if (!state.instructions.length) {
       panel.innerHTML = `<div class="alert alert-warning mb-0">该学科暂无题库（请检查 data 路径或补充 instructions.json）。</div>`;
@@ -426,7 +428,7 @@ function clearQuizTimer(){
   }
 
   function renderWordBank(filter = "") {
-    const container = $('#modeContainer');
+    const container = $('#modePanel');
     container.innerHTML = '';
 
     const ds = getDataset();
