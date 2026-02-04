@@ -15,6 +15,19 @@
   const $ = (sel, root = document) => root.querySelector(sel);
   const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
 
+  function ensureEl(id, tag = 'div', parent = document.body){
+    let el = document.getElementById(id);
+    if (!el){
+      el = document.createElement(tag);
+      el.id = id;
+      parent.appendChild(el);
+    }
+    return el;
+  }
+  function safeText(x){ return (x === null || x === undefined) ? '' : String(x); }
+  function normKey(x){ return safeText(x).trim().toLowerCase(); }
+
+
   const state = {
   lookupShowZh: false,
   quizTimerId: null,
@@ -31,6 +44,17 @@
     workbook: loadWorkbook(),
     lookupTerm: null,
   };
+
+
+// Returns the currently loaded dataset (instructions + word bank)
+function getDataset(){
+  return {
+    instructions: Array.isArray(state.instructions) ? state.instructions : [],
+    words: Array.isArray(state.words) ? state.words : [],
+    level: state.level,
+    subject: state.subject,
+  };
+}
 
 let quizTimerId = null;
 function clearQuizTimer(){
@@ -363,21 +387,35 @@ function clearQuizTimer(){
     $("#gotoMock").onclick = () => { setMode("quiz", { mock: true }); };
   }
 
+  
   function setMode(mode, opts = {}) {
-  // Prevent multiple timers / rapid clicks causing freezes
-  if (state._quizInterval) { clearInterval(state._quizInterval); state._quizInterval = null; }
-  if (state._quizTick) { cancelAnimationFrame(state._quizTick); state._quizTick = null; }
+    if (state._rendering) return;
+    state._rendering = true;
+    try {
+      // stop running quiz tickers
+      clearQuizTimer();
+      if (state._quizInterval) { clearInterval(state._quizInterval); state._quizInterval = null; }
+      if (state._quizTick) { cancelAnimationFrame(state._quizTick); state._quizTick = null; }
 
-  // Stop any running quiz timer
-  clearQuizTimer();
+      state.mode = mode;
 
-  state.mode = mode;
+      const tabs = document.getElementById("modeTabs");
+      if (tabs) {
+        $$("#modeTabs .nav-link").forEach(b => b.classList.toggle("active", b.getAttribute("data-mode") === mode));
+      }
 
-  // Tab UI
-  $$("#modeTabs .nav-link").forEach(b => b.classList.toggle("active", b.getAttribute("data-mode") === mode));
+      ensureEl("modePanel", "div", document.body);
 
-  renderMode(opts);
-}
+      try { renderMode(opts); }
+      catch (e) {
+        console.error(e);
+        const panel = document.getElementById("modePanel");
+        if (panel) panel.innerHTML = `<div class="alert alert-danger">UI error: ${safeText(e && e.message ? e.message : e)}</div>`;
+      }
+    } finally {
+      setTimeout(() => { state._rendering = false; }, 0);
+    }
+  }
 
 function renderRead() {
     const panel = $("#modePanel");
@@ -428,8 +466,9 @@ function renderRead() {
   }
 
   function renderWordBank(filter = "") {
-    const container = $('#modePanel');
-    container.innerHTML = '';
+    const container = ensureEl('modePanel','div',document.body);
+    try {
+container.innerHTML = '';
 
     const ds = getDataset();
     const words = (ds && Array.isArray(ds.words)) ? ds.words : [];
