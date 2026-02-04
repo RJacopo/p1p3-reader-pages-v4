@@ -116,7 +116,7 @@
 
   function findLocalWord(term) {
     const t = term.toLowerCase();
-    return state.words.find(w => (w.term || "").toLowerCase() === t);
+    return state.words.find(w => (w.term || w.lemma || w.en || w.word || "").toLowerCase() === t);
   }
 
   function findExamples(term, limit = 3) {
@@ -353,6 +353,10 @@
   }
 
   function setMode(mode, opts = {}) {
+  // prevent multiple timers / rapid clicks causing freezes
+  if (state._quizInterval) { clearInterval(state._quizInterval); state._quizInterval = null; }
+  if (state._quizTick) { cancelAnimationFrame(state._quizTick); state._quizTick = null; }
+
   // stop any running quiz timer
   if (state.quizTimerId) { clearInterval(state.quizTimerId); state.quizTimerId = null; }
     state.mode = mode;
@@ -413,7 +417,7 @@
     const panel = $("#modePanel");
     const q = filter.trim().toLowerCase();
     const items = q
-      ? state.words.filter(w => (w.term || "").toLowerCase().includes(q) || (w.zh || "").toLowerCase().includes(q))
+      ? state.words.filter(w => (w.term || w.lemma || w.en || w.word || "").toLowerCase().includes(q) || (w.zh || "").toLowerCase().includes(q))
       : state.words;
 
     panel.innerHTML = `
@@ -423,13 +427,14 @@
       <div class="list-group" id="bankList"></div>
     `;
 
-    $("#bankSearch").oninput = (e) => renderWordBank(e.target.value);
+    $("#bankSearch").oninput = (e) => { clearTimeout(state._bankDebounce); const v=e.target.value; state._bankDebounce=setTimeout(()=>renderWordBank(v),150); };
 
     const list = $("#bankList");
-    const limit = 200; // UI limit
+    const limit = 400; // UI limit
     items.slice(0, limit).forEach(w => {
-      const term = w.term;
-      const zh = w.zh || "";
+      const term = (w.term || w.lemma || w.en || w.word || "").toString().trim();
+      const zh = (w.zh || "").toString();
+      if (!term) return;
       const saved = workbookHas("word", term.toLowerCase());
       const row = document.createElement("div");
       row.className = "list-group-item d-flex align-items-center gap-3";
@@ -693,6 +698,13 @@
     try {
       state.instructions = await fetchJSON(`/${state.level}/${state.subject}/instructions.json`);
       state.words = await fetchJSON(`/${state.level}/${state.subject}/words.json`);
+      // normalize word entries so UI can rely on .term/.en/.zh
+      state.words = (state.words || []).map(w => {
+        const term = (w.term || w.lemma || w.en || w.word || "").toString().trim();
+        const en = (w.en || w.term || w.lemma || w.word || term || "").toString().trim();
+        const zh = (w.zh || w.cn || w.ch || "").toString().trim();
+        return { ...w, term, en, zh };
+      });
     } catch (e) {
       console.error(e);
       state.instructions = [];
