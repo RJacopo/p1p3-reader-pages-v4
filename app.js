@@ -48,7 +48,10 @@
 
 // Returns the currently loaded dataset (instructions + word bank)
 function getDataset(){
-  return {
+    // De-dupe merged content to avoid repeats in quiz/word bank
+  words = dedupeByKey(words.map(patchedWord), (w) => normKey(w.lemma));
+  instructions = dedupeByKey(instructions, (q) => (normKey(q.en) + '|' + normKey(q.zh)));
+return {
     instructions: Array.isArray(state.instructions) ? state.instructions : [],
     words: Array.isArray(state.words) ? state.words : [],
     level: state.level,
@@ -200,6 +203,68 @@ function clearQuizTimer(){
       speechSynthesis.speak(u);
     } catch {}
   }
+
+// ---- Local patches for missing zh/examples/IPA (make terms concrete; esp. math) ----
+const WORD_PATCH = {
+  "sum": { zh: "总和", example: "30 + 23 = 53. The sum is 53.", ipa: "/sʌm/" },
+  "total": { zh: "总数；合计", example: "There are 12 apples. The total is 12.", ipa: "/ˈtəʊt(ə)l/" },
+  "add": { zh: "相加；增加", example: "Add 7 and 5 to get 12.", ipa: "/æd/" },
+  "subtract": { zh: "减去", example: "Subtract 9 from 15 to get 6.", ipa: "/səbˈtrækt/" },
+  "difference": { zh: "差", example: "15 − 9 = 6. The difference is 6.", ipa: "/ˈdɪf(ə)r(ə)ns/" },
+  "more than": { zh: "多于", example: "9 is more than 6.", ipa: "" },
+  "fewer than": { zh: "少于", example: "4 is fewer than 7.", ipa: "" },
+  "equal": { zh: "相等的", example: "3 + 4 is equal to 7.", ipa: "/ˈiːkw(ə)l/" },
+  "equal to": { zh: "等于", example: "3 + 4 = 7. It is equal to 7.", ipa: "" },
+  "digit": { zh: "数字（0-9）", example: "In 52, the digit 5 is in the tens place.", ipa: "/ˈdɪdʒɪt/" },
+  "place value": { zh: "数位（位值）", example: "In 352, the 5 has a place value of 50.", ipa: "" },
+  "because": { zh: "因为", example: "I stayed home because it was raining.", ipa: "/bɪˈkɒz/" }
+};
+function normKey(s){ return String(s||"").trim().toLowerCase(); }
+function patchedWord(entry){
+  if(!entry) return entry;
+  const key = normKey(entry.lemma);
+  const p = WORD_PATCH[key];
+  if(!p) return entry;
+  const out = { ...entry };
+  if(!out.zh && p.zh) out.zh = p.zh;
+  if((!out.examples || !out.examples.length) && p.example) out.examples = [p.example];
+  if(!out.ipa && p.ipa) out.ipa = p.ipa;
+  return out;
+}
+function dedupeByKey(arr, keyFn){
+  const seen = new Set();
+  const out = [];
+  for(const it of (arr||[])){
+    const k = keyFn(it);
+    if(!k) continue;
+    if(seen.has(k)) continue;
+    seen.add(k);
+    out.push(it);
+  }
+  return out;
+}
+function getIpaCached(lemma){
+  const key = "ipa:" + normKey(lemma);
+  try { return localStorage.getItem(key) || ""; } catch(e){ return ""; }
+}
+async function ensureIpaCached(lemma){
+  const term = String(lemma||"").trim();
+  if(!term) return "";
+  const cached = getIpaCached(term);
+  if(cached) return cached;
+  if(!state.onlineDict) return "";
+  try{
+    const r = await fetch(DICT_API + encodeURIComponent(term));
+    const j = await r.json();
+    const phon = (j?.[0]?.phonetics||[]).map(x=>x?.text).find(Boolean) || "";
+    if(phon){
+      localStorage.setItem("ipa:" + normKey(term), phon);
+      return phon;
+    }
+  }catch(e){}
+  return "";
+}
+
 
   async function openLookup(term) {
     state.lookupTerm = term;
